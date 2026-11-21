@@ -98,7 +98,7 @@ status = pq.read_table('data/cell_status.parquet')</pre>
 <p>Reconstruir en otro directorio a partir de los agregados incluidos / Rebuild into a separate directory from the included aggregates:</p>
 <pre>python -B Code/build_portable_dataset.py --sources . --output ../BoliviaAgriculturalCensus2013_rebuilt --policy Code/choice_policy.json</pre>
 <p>Python 3.12; pyarrow {audit['pyarrow_version']}. Los programas REDATAM individuales conservan sus rutas históricas y requieren configurar la base original y el directorio de salida. La base REDATAM y los microdatos no se distribuyen. Individual REDATAM programs retain historical paths and require the original database and output-path configuration. REDATAM microdata are not distributed.</p>
-<p>Estado contractual / Contract status: PENDING HUMAN ACCEPTANCE. Preparación local; sin publicación / Local preparation; not published.</p></html>'''
+<p>Datos: INE Bolivia, Censo Agropecuario 2013. Preparación del dataset y visor: Favio Leiva. Data: INE Bolivia, Agricultural Census 2013. Dataset and viewer preparation: Favio Leiva. <a href="https://github.com/Favioleiva/BoliviaAgriculture">Repositorio / Repository</a>.</p></html>'''
     (PKG/'README.html').write_text(text,encoding='utf-8')
     records=pq.read_table(PKG/'data/dictionary_bilingual.parquet').to_pylist()
     compact=[{k:r[k] for k in ['code','definition_es','definition_en','unit','unit_en','recipe','statistical_role']} for r in records]
@@ -151,6 +151,8 @@ def package(refresh_ui=False):
     install_downloads(SRC/'Agro2013','../BoliviaAgriculturalCensus2013/')
     (PKG/'index.html').write_text('''<!doctype html><html lang="es"><meta charset="utf-8"><title>Bolivia Agricultural Census 2013</title><script>location.replace('Agro2013/index.html'+location.search+location.hash)</script><p><a href="Agro2013/index.html">Abrir el censo / Open the census</a></p></html>''',encoding='utf-8')
     documentation()
+    for template, name in [("README.github.md", "README.md"), ("README.github.en.md", "README.en.md")]:
+        if (E/"Code"/template).exists(): shutil.copy2(E/"Code"/template, PKG/name)
     write_json(PKG/'data/portable_link_repairs.json',outside)
     data_readme='''Bolivia Agricultural Census 2013 — dataset / datos
 

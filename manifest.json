@@ -8,6 +8,11 @@
   "dictionary": "data/dictionary_bilingual.parquet",
   "files": [
     {
+      "path": "Agro2013/LEEME.txt",
+      "bytes": 4155,
+      "sha256": "d31b48d6b4c38d2919a0e2596f64820b2aae2f0a8833248cc8784e0900a6c287"
+    },
+    {
       "path": "Agro2013/agro2013_geo4bolivia339.gpkg",
       "bytes": 724992,
       "sha256": "2109d88ed7f86c4f881b70f56382e81d77d8035328609d5d3bdf2ca58009d0d5"
@@ -3253,11 +3258,6 @@
       "sha256": "433e108ad6c5f03543bbd7c803cd9fc3228cce3727cba1f7f3b6a302b1ea3307"
     },
     {
-      "path": "Agro2013/LEEME.txt",
-      "bytes": 4155,
-      "sha256": "d31b48d6b4c38d2919a0e2596f64820b2aae2f0a8833248cc8784e0900a6c287"
-    },
-    {
       "path": "Agro2013/other_variables_dictionary.csv",
       "bytes": 42942,
       "sha256": "fcd1db6fbb3e5f2cd1ffdc76f813880b5b4a0e278d18a1629f7cf7bbf4a605de"
@@ -3286,61 +3286,6 @@
       "path": "Agro2013/variable_dictionary.csv",
       "bytes": 43845,
       "sha256": "3a14f5305ef386b541f6231250e1da51b08d7d7de109d68812ded9e30c55378b"
-    },
-    {
-      "path": "CategoryExpansion/all_recipe_versions.csv",
-      "bytes": 9552557,
-      "sha256": "b989904aa5332bfb60a712777fcdd3d894bb9d3f0b93544b7acaa7e57dc306a3"
-    },
-    {
-      "path": "CategoryExpansion/canonical_variable_dictionary.csv",
-      "bytes": 10017006,
-      "sha256": "33097a6215cabe433fea4c0642504bbc87680f8d9ebb603b188317cf850c2339"
-    },
-    {
-      "path": "CategoryExpansion/catalogo.html",
-      "bytes": 265995,
-      "sha256": "6af638f97bd20082e48b098d6e0ddfdcded257225382873543193357c5eeae25"
-    },
-    {
-      "path": "CategoryExpansion/codigos_y_diccionario.zip",
-      "bytes": 7710824,
-      "sha256": "03e1581d783a74f2602b06540d14702b068bd8a8abf1e4865a75deacfb5bcd05"
-    },
-    {
-      "path": "CategoryExpansion/department_controls.csv",
-      "bytes": 7292237,
-      "sha256": "eb2b4aa6396853c509af7c4bef963a9c2967dee264626239673baaf59b9db5bb"
-    },
-    {
-      "path": "CategoryExpansion/municipal_products_long.csv",
-      "bytes": 91687679,
-      "sha256": "336483d1852b6e7df83b7c5a0bab500ba96054d6d6e2e2e071413851c4acff75"
-    },
-    {
-      "path": "CategoryExpansion/municipal_products_wide.csv",
-      "bytes": 6802088,
-      "sha256": "73afedace56ef3d6b2974cd5aea970c4818aaac331e4d1400c3f060d9e54db03"
-    },
-    {
-      "path": "CategoryExpansion/national_product_totals.csv",
-      "bytes": 165978,
-      "sha256": "32739001427dab611940477c2f5a2ea040c898c6c92f22af6ec71c72c91e0cb6"
-    },
-    {
-      "path": "CategoryExpansion/native_presence_municipal.csv",
-      "bytes": 7868338,
-      "sha256": "7777651e43d7bd7ac1e3f5f8cc34c67ac47d2e9f1afd6a04b816b324596ad15f"
-    },
-    {
-      "path": "CategoryExpansion/product_catalogue.json",
-      "bytes": 415572,
-      "sha256": "4f61d1ac3095a6aad6ba6d2dad03908798c755777d1b1f9599251ce075de6a7b"
-    },
-    {
-      "path": "CategoryExpansion/product_code_map.csv",
-      "bytes": 155383,
-      "sha256": "5e996081bb462ed22b1dc59bd56d7289fc7143edaa2af0a81b5f862e3af0a14e"
     },
     {
       "path": "CategoryExpansion/Products/01111000.csv",
@@ -13168,6 +13113,11 @@
       "sha256": "dee42a7b5364523110e83cd19c93f81dc83436cab7f741fc57d294e4215e57d3"
     },
     {
+      "path": "CategoryExpansion/README.html",
+      "bytes": 10775,
+      "sha256": "481bebea232c2bf840a4f598f68ac2e319d1dcb1f986613711ef9e46b4bc2efb"
+    },
+    {
       "path": "CategoryExpansion/RawResults/core_c01_01_d.csv",
       "bytes": 268,
       "sha256": "98d296ec4b46b15f02e2a62622c5249616decc0af793622f4c139d4531194d7f"
@@ -13766,11 +13716,6 @@
       "path": "CategoryExpansion/RawResults/core_pilot_m.csv",
       "bytes": 89284,
       "sha256": "502a33691fd1c33f25cf7333e367ba15657a1e87a59ef6d595441ffb3374b0a0"
-    },
-    {
-      "path": "CategoryExpansion/README.html",
-      "bytes": 10775,
-      "sha256": "481bebea232c2bf840a4f598f68ac2e319d1dcb1f986613711ef9e46b4bc2efb"
     },
     {
       "path": "CategoryExpansion/Recipes/cna13_01112000_invierno2012_con_riego_registros.spc",
@@ -60543,6 +60488,61 @@
       "sha256": "ced97def206c1987111a744fd305784cd3885a0d7942af7d41fef387a59dbba7"
     },
     {
+      "path": "CategoryExpansion/all_recipe_versions.csv",
+      "bytes": 9552557,
+      "sha256": "b989904aa5332bfb60a712777fcdd3d894bb9d3f0b93544b7acaa7e57dc306a3"
+    },
+    {
+      "path": "CategoryExpansion/canonical_variable_dictionary.csv",
+      "bytes": 10017006,
+      "sha256": "33097a6215cabe433fea4c0642504bbc87680f8d9ebb603b188317cf850c2339"
+    },
+    {
+      "path": "CategoryExpansion/catalogo.html",
+      "bytes": 265995,
+      "sha256": "6af638f97bd20082e48b098d6e0ddfdcded257225382873543193357c5eeae25"
+    },
+    {
+      "path": "CategoryExpansion/codigos_y_diccionario.zip",
+      "bytes": 7710824,
+      "sha256": "03e1581d783a74f2602b06540d14702b068bd8a8abf1e4865a75deacfb5bcd05"
+    },
+    {
+      "path": "CategoryExpansion/department_controls.csv",
+      "bytes": 7292237,
+      "sha256": "eb2b4aa6396853c509af7c4bef963a9c2967dee264626239673baaf59b9db5bb"
+    },
+    {
+      "path": "CategoryExpansion/municipal_products_long.csv",
+      "bytes": 91687679,
+      "sha256": "336483d1852b6e7df83b7c5a0bab500ba96054d6d6e2e2e071413851c4acff75"
+    },
+    {
+      "path": "CategoryExpansion/municipal_products_wide.csv",
+      "bytes": 6802088,
+      "sha256": "73afedace56ef3d6b2974cd5aea970c4818aaac331e4d1400c3f060d9e54db03"
+    },
+    {
+      "path": "CategoryExpansion/national_product_totals.csv",
+      "bytes": 165978,
+      "sha256": "32739001427dab611940477c2f5a2ea040c898c6c92f22af6ec71c72c91e0cb6"
+    },
+    {
+      "path": "CategoryExpansion/native_presence_municipal.csv",
+      "bytes": 7868338,
+      "sha256": "7777651e43d7bd7ac1e3f5f8cc34c67ac47d2e9f1afd6a04b816b324596ad15f"
+    },
+    {
+      "path": "CategoryExpansion/product_catalogue.json",
+      "bytes": 415572,
+      "sha256": "4f61d1ac3095a6aad6ba6d2dad03908798c755777d1b1f9599251ce075de6a7b"
+    },
+    {
+      "path": "CategoryExpansion/product_code_map.csv",
+      "bytes": 155383,
+      "sha256": "5e996081bb462ed22b1dc59bd56d7289fc7143edaa2af0a81b5f862e3af0a14e"
+    },
+    {
       "path": "CategoryExpansion/totalizer_comparison.csv",
       "bytes": 11245162,
       "sha256": "628ad17e2b59bc7254647a88d40d82927758f95792f895baa3411146be5c7fe9"
@@ -60569,13 +60569,13 @@
     },
     {
       "path": "Code/finalize_portable.py",
-      "bytes": 6065,
-      "sha256": "73c78e4527c9402678e03dbfe9f0eea6b4b86e350c0b4450b2bfea5df9b4f7cf"
+      "bytes": 6237,
+      "sha256": "dd6a9bf7232057d9e8cba31cf7f718a8d6da2d7cb0bbd770697e934a152c19ad"
     },
     {
       "path": "Code/package_portable.py",
-      "bytes": 23782,
-      "sha256": "819300b168532066dea5860b4a72dbcff4c5b82c687def2e61a6284a5bf777c0"
+      "bytes": 24297,
+      "sha256": "78e405b2e0b6a48ecb4904fbe6f175d8c27c82d84e828953fcb93c5b4013d435"
     },
     {
       "path": "Code/requirements.txt",
@@ -60588,99 +60588,9 @@
       "sha256": "5b65f0ef2317438b66da8c186710cb789015886b7a50a6e4659008fa193db93e"
     },
     {
-      "path": "data/alias_status_overrides.parquet",
-      "bytes": 5430,
-      "sha256": "753d4536fac67a8045a02f6307f7d0c9f07822dbc5547916d9546580a7158215"
-    },
-    {
-      "path": "data/cell_status.parquet",
-      "bytes": 9987564,
-      "sha256": "489239c503981044c7fee72b9301c611c3a47168d04f1f4d291ebfe42c1a5e1f"
-    },
-    {
-      "path": "data/context_dictionary.csv",
-      "bytes": 948,
-      "sha256": "6cef98fd992378a243d0d0f2f07f2e7660bc681e9899aaa24324ecd52c6009d8"
-    },
-    {
-      "path": "data/dataset_bundle.zip",
-      "bytes": 8467843,
-      "sha256": "d46401362a9b615427ec3b864608ff93eaf215c7c48d10ed68c060752ed6e5da"
-    },
-    {
-      "path": "data/dictionary-browser.js",
-      "bytes": 20827750,
-      "sha256": "6b39c48d20b55bb337e14902b5acfd08c4228bf0b2c8e98fd4868e969d25659d"
-    },
-    {
-      "path": "data/dictionary_bilingual.csv",
-      "bytes": 32973460,
-      "sha256": "41bb18543c3730e2c7c5f04fa7f2607a8a4ca56cffd95b2b5a1ec5894c09f737"
-    },
-    {
-      "path": "data/dictionary_bilingual.parquet",
-      "bytes": 1185696,
-      "sha256": "030d2a40233152ac9c55adc4df38e63bf6f32f4e544d56951f9b91b0ef6f9a08"
-    },
-    {
-      "path": "data/equal_vectors_retained.json",
-      "bytes": 918455,
-      "sha256": "0088d5b3e4234a2c3b545715775bc3f132e49673a9695e2e22088fc3b0a7a2d2"
-    },
-    {
-      "path": "data/municipal_context.parquet",
-      "bytes": 9688,
-      "sha256": "ed2caa0b18ce7b0f20355be4cffaefb4f8fc3399160cf10c7d2867ecbcc56db9"
-    },
-    {
-      "path": "data/municipal_data.parquet",
-      "bytes": 13797543,
-      "sha256": "56f2e5b13ce17519fbdba46f439b18a6950282b09bd8a24b77643a46275be52f"
-    },
-    {
-      "path": "data/portable_link_repairs.json",
-      "bytes": 2,
-      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-    },
-    {
-      "path": "data/README_DATASET.txt",
-      "bytes": 2132,
-      "sha256": "a6e9d7edbfcd1c92eb2f19ecf1640e4be3e4e4bf16d3c34408cb4928da113c66"
-    },
-    {
-      "path": "data/redundancy_audit.json",
-      "bytes": 6128,
-      "sha256": "d3868aabb933d5a208f2eab26d515fc2bf0e3361b23c1ecaf4a3a06b5b2c6578"
-    },
-    {
-      "path": "data/rejected_equivalences.json",
-      "bytes": 7751,
-      "sha256": "3714594db2483ac3dffd82d4dd0ca8f7a907c083be8f05fda1ffd8a5baa22244"
-    },
-    {
-      "path": "data/source_definitions.parquet",
-      "bytes": 1494565,
-      "sha256": "0bdb4b6b957e8be5c4f46ce27b71474ee3c8b34129fe05bcc41bedff574f5cfc"
-    },
-    {
-      "path": "data/status_dictionary.csv",
-      "bytes": 1149,
-      "sha256": "812ed04347f4ebb32ab49462246718afdd94f22fba0a6580f66be1877d909b13"
-    },
-    {
-      "path": "data/variable_aliases.csv",
-      "bytes": 6163537,
-      "sha256": "39c45b2418e10d5b4ebdea51f91d78ada0b7501aceab5df5df5f82a5e8f5811f"
-    },
-    {
-      "path": "data/variable_aliases.parquet",
-      "bytes": 208139,
-      "sha256": "07cee0dc5d3ded29a5cf7f93bb8fb1843074ffa1d53a7a263d336f6c88b07564"
-    },
-    {
-      "path": "dictionary.html",
-      "bytes": 2550,
-      "sha256": "4aa288a84a32cf1d891db19c1577e07af511367072ded8ff7a23747a252b827a"
+      "path": "EarthEngine/README.txt",
+      "bytes": 1424,
+      "sha256": "9ef8686c49daaeac3361b6985123f66c5cef4f49e7e8682220b1d8c2e620ee6f"
     },
     {
       "path": "EarthEngine/bolivia339_2015.cpg",
@@ -60716,51 +60626,6 @@
       "path": "EarthEngine/manifest.json",
       "bytes": 2081,
       "sha256": "3ea25a7415c1705ff3bb0aae38319c78fcead1cbe3790b5b4da4b198888cc49e"
-    },
-    {
-      "path": "EarthEngine/README.txt",
-      "bytes": 1424,
-      "sha256": "9ef8686c49daaeac3361b6985123f66c5cef4f49e7e8682220b1d8c2e620ee6f"
-    },
-    {
-      "path": "FullExpansion/animal_distribution_discrepancies.csv",
-      "bytes": 65946,
-      "sha256": "f19f74c2b7e0286739c8672a9467e7899150630ba2ed6bf4437feccf6411fc78"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/aggregate.py",
-      "bytes": 1573,
-      "sha256": "2156cb0d24b23ae1507ce1a5990c82ed0b12b362585a7a17db186d8c09546b70"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/annual.json",
-      "bytes": 3895010,
-      "sha256": "952de83749ee703fa1be28de86935ecc8466b7715ef906395fdbc080e4b59fc6"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/dictionary.csv",
-      "bytes": 267623,
-      "sha256": "5d8bb1955a20bec8b36d4bbc1a5322a29825978d93321c2ba968aec0719fa21e"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/index.html",
-      "bytes": 76205,
-      "sha256": "cf87701276387003134f4640c13517d08e79661aafd98f25b55bb4f48acd7dde"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/indicators.json",
-      "bytes": 490267,
-      "sha256": "8e37634b9ebbb179a0c18336777377c9e8bdedb95de6e216cff855ae465dacbf"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/production_annual_kg.csv",
-      "bytes": 237075,
-      "sha256": "c83af6c879b5b419736942f715d33daac7302fd156e3906602428d345172d0ba"
-    },
-    {
-      "path": "FullExpansion/AnnualProduction/production_annual_status.csv",
-      "bytes": 1447901,
-      "sha256": "03512cfcb3c7a6fffed4f30d6e3194452bf6330c870701c7bb557bf439b9bbae"
     },
     {
       "path": "FullExpansion/AnnualProduction/RecipeRuns/cna13_annual_01112000_kg.csv",
@@ -62303,79 +62168,39 @@
       "sha256": "508f0f910f21822a835a509341510f8672e803dca23995629cf5b42f23fd2da5"
     },
     {
-      "path": "FullExpansion/catalogo.html",
-      "bytes": 9698307,
-      "sha256": "a674f2bbb09ef040ba78cc8c434f8cfeec8ec166af6633c84623bcb34d43d421"
+      "path": "FullExpansion/AnnualProduction/aggregate.py",
+      "bytes": 1573,
+      "sha256": "2156cb0d24b23ae1507ce1a5990c82ed0b12b362585a7a17db186d8c09546b70"
     },
     {
-      "path": "FullExpansion/choice_diagnosis.html",
-      "bytes": 27766,
-      "sha256": "9bd8a57b0e209b28e2cf354f735e440aba4332982ee12526e05fb5e4227755de"
+      "path": "FullExpansion/AnnualProduction/annual.json",
+      "bytes": 3895010,
+      "sha256": "952de83749ee703fa1be28de86935ecc8466b7715ef906395fdbc080e4b59fc6"
     },
     {
-      "path": "FullExpansion/choice_diagnosis_fields.csv",
-      "bytes": 27380,
-      "sha256": "2f99706b90f9708eaaaec82106328126b0055cd42a2de4321a500d5382434e5e"
+      "path": "FullExpansion/AnnualProduction/dictionary.csv",
+      "bytes": 267623,
+      "sha256": "5d8bb1955a20bec8b36d4bbc1a5322a29825978d93321c2ba968aec0719fa21e"
     },
     {
-      "path": "FullExpansion/choice_diagnosis_indicators.csv",
-      "bytes": 4064813,
-      "sha256": "d635bdb1880ab1b542dbf964155ea03e2d23f4b02a49e55c736e07cc0d632c2a"
+      "path": "FullExpansion/AnnualProduction/index.html",
+      "bytes": 76205,
+      "sha256": "cf87701276387003134f4640c13517d08e79661aafd98f25b55bb4f48acd7dde"
     },
     {
-      "path": "FullExpansion/codigos_y_diccionario.zip",
-      "bytes": 31034960,
-      "sha256": "edf8dd1ec4cbd612e79f4ebe0f7dd9a1e8276857bce43f131f8a3714468c35bd"
+      "path": "FullExpansion/AnnualProduction/indicators.json",
+      "bytes": 490267,
+      "sha256": "8e37634b9ebbb179a0c18336777377c9e8bdedb95de6e216cff855ae465dacbf"
     },
     {
-      "path": "FullExpansion/component_discrepancies.csv",
-      "bytes": 67,
-      "sha256": "7fb569f0aaf41dbaab2032ceac79e62ce56ec55fa39c3bf6e10a2ded5c68d589"
+      "path": "FullExpansion/AnnualProduction/production_annual_kg.csv",
+      "bytes": 237075,
+      "sha256": "c83af6c879b5b419736942f715d33daac7302fd156e3906602428d345172d0ba"
     },
     {
-      "path": "FullExpansion/english_catalogue.html",
-      "bytes": 14485374,
-      "sha256": "203948b8803e225a0d639437355e45f8ada4ece3ce220ab8a71effdb49255401"
-    },
-    {
-      "path": "FullExpansion/english_indicator_labels.csv",
-      "bytes": 6084744,
-      "sha256": "cf781714503a29f8047a52e56003426e4df092dce3ce801a333d53f93b53b3cd"
-    },
-    {
-      "path": "FullExpansion/field_coverage.csv",
-      "bytes": 73453,
-      "sha256": "1119a9a6b527fefdd230d817cf0b6dde079a5d12c3474e975e423b33342a5fd9"
-    },
-    {
-      "path": "FullExpansion/honey_audit.html",
-      "bytes": 3612,
-      "sha256": "f0e393ca9b1a434a0cf771fe86bf53fabc252df35d00d47c8c03a45fbab8edd8"
-    },
-    {
-      "path": "FullExpansion/honey_department_audit.csv",
-      "bytes": 550,
-      "sha256": "27e0a2bfe0cc481a180a16eb0e68fc3253f5fd529338f1501d3f6f544d0d0d74"
-    },
-    {
-      "path": "FullExpansion/honey_quality.json",
-      "bytes": 918,
-      "sha256": "9c6ec34c4245192d0d8c549c985a2a526d37858457069bfbe3348120968a33ee"
-    },
-    {
-      "path": "FullExpansion/indicators.json",
-      "bytes": 42456326,
-      "sha256": "35eca057ae4a3d29c50a5b23a38706cca067fe61561247d1cddcf2f472e512ec"
-    },
-    {
-      "path": "FullExpansion/Kilograms/dictionary_kg.csv",
-      "bytes": 519370,
-      "sha256": "0509ccd59c7ab14928c7c36ac86b73475b0227a786882459b5d68e510e49eaa8"
-    },
-    {
-      "path": "FullExpansion/Kilograms/index.html",
-      "bytes": 214146,
-      "sha256": "0d2c2ecaed5f24cb27a5a84dd44992daee6bd1fe71484333948c9f52554df548"
+      "path": "FullExpansion/AnnualProduction/production_annual_status.csv",
+      "bytes": 1447901,
+      "sha256": "03512cfcb3c7a6fffed4f30d6e3194452bf6330c870701c7bb557bf439b9bbae"
     },
     {
       "path": "FullExpansion/Kilograms/Modules/agriculture_kg.csv",
@@ -66083,6 +65908,16 @@
       "sha256": "9704a76ecdb93d94daabf0f39f25a05730b828d112d6d51d295fd008adf16143"
     },
     {
+      "path": "FullExpansion/Kilograms/dictionary_kg.csv",
+      "bytes": 519370,
+      "sha256": "0509ccd59c7ab14928c7c36ac86b73475b0227a786882459b5d68e510e49eaa8"
+    },
+    {
+      "path": "FullExpansion/Kilograms/index.html",
+      "bytes": 214146,
+      "sha256": "0d2c2ecaed5f24cb27a5a84dd44992daee6bd1fe71484333948c9f52554df548"
+    },
+    {
       "path": "FullExpansion/Modules/agriculture.csv",
       "bytes": 3702290,
       "sha256": "ec70db01be655f3366d99d6b6d14c71119106080c30d6c09f4e65a1772a7f336"
@@ -66211,11 +66046,6 @@
       "path": "FullExpansion/Modules/workforce.json",
       "bytes": 2754307,
       "sha256": "6700ec02826d7d24d5a5039b8a898ae66fa9c9c6dcf384684101bdaf66656367"
-    },
-    {
-      "path": "FullExpansion/municipal_full_wide.csv",
-      "bytes": 15042961,
-      "sha256": "0e00ed4ceef460c84330a17612ddfe9107e614533410a0b38e70235542e60c70"
     },
     {
       "path": "FullExpansion/Programs/coverage_residuals_d.spc",
@@ -69363,6 +69193,11 @@
       "sha256": "5f12958b4f591bd7c5ac080629560d7b45dcdd550c189aa07e122c613aa31038"
     },
     {
+      "path": "FullExpansion/README.html",
+      "bytes": 14000,
+      "sha256": "2db611f8eead2210d8acaf13c57d0aaf42dbcdfa982b8bbcb60a7da516e01079"
+    },
+    {
       "path": "FullExpansion/RawResults/coverage_residuals_v2_d.csv",
       "bytes": 1144,
       "sha256": "1b2e3d2be095faaae8aa2bece7092917b3ddee2d69852f3e91e2aaf7832ac82f"
@@ -70631,11 +70466,6 @@
       "path": "FullExpansion/RawResults/full_workforce_002_m.csv",
       "bytes": 109795,
       "sha256": "c93a3c2f0a0eb478ea6e5f5b6c99e4adbabdc8a22b1292e07541e82bce769f88"
-    },
-    {
-      "path": "FullExpansion/README.html",
-      "bytes": 14000,
-      "sha256": "2db611f8eead2210d8acaf13c57d0aaf42dbcdfa982b8bbcb60a7da516e01079"
     },
     {
       "path": "FullExpansion/Recipes/cna13b_alpaca_records.spc",
@@ -245673,39 +245503,9 @@
       "sha256": "f33a94f9e528714fd397f919e44edbf6b354d8c52047f4d3d1cb01037929b418"
     },
     {
-      "path": "FullExpansion/topic_counts.csv",
-      "bytes": 13188,
-      "sha256": "1f449e7f0f82169e9044ee600d4cbf2e6893d815cff487403252c2b71b330284"
-    },
-    {
       "path": "FullExpansion/TopProducts/Code/top_products.py",
       "bytes": 12014,
       "sha256": "7372fe93b6d77240faf42d4c86285576fcfb65b67bac6a580061553f0333d56d"
-    },
-    {
-      "path": "FullExpansion/TopProducts/excluded_generic_categories.csv",
-      "bytes": 3290,
-      "sha256": "2b8bfc971c02babed1d05978d6e80f66dda0b0b5c93a4bba95c4ffc4040698b9"
-    },
-    {
-      "path": "FullExpansion/TopProducts/LivestockGroups/dictionary.csv",
-      "bytes": 4454,
-      "sha256": "8e7b49c35bcde8a1b0bf02fb39791f836c6ccf6fcfbdfebeb3d69ebab2692e85"
-    },
-    {
-      "path": "FullExpansion/TopProducts/LivestockGroups/groups.json",
-      "bytes": 240138,
-      "sha256": "7c44245328c1bb675d4bd5b3d7fd8c3a0b6ae24fb7cbe69f4d2252be997dfb16"
-    },
-    {
-      "path": "FullExpansion/TopProducts/LivestockGroups/municipal_heads.csv",
-      "bytes": 26541,
-      "sha256": "90a036b7370ce7757292139d6c703412484b71c0aab888529c663e9eaf50727b"
-    },
-    {
-      "path": "FullExpansion/TopProducts/LivestockGroups/municipal_status.csv",
-      "bytes": 115430,
-      "sha256": "f7a271df3fed8724ec7ee613e1145cf6310b62019dd379ecaacb40ff35d834ae"
     },
     {
       "path": "FullExpansion/TopProducts/LivestockGroups/RecipeRuns/cna13_heads_alpacas.csv",
@@ -245878,9 +245678,39 @@
       "sha256": "a7c5f0e027b500ce2fe353cb7166b50be5844268ed003f5d9795cb627bb672ad"
     },
     {
+      "path": "FullExpansion/TopProducts/LivestockGroups/dictionary.csv",
+      "bytes": 4454,
+      "sha256": "8e7b49c35bcde8a1b0bf02fb39791f836c6ccf6fcfbdfebeb3d69ebab2692e85"
+    },
+    {
+      "path": "FullExpansion/TopProducts/LivestockGroups/groups.json",
+      "bytes": 240138,
+      "sha256": "7c44245328c1bb675d4bd5b3d7fd8c3a0b6ae24fb7cbe69f4d2252be997dfb16"
+    },
+    {
+      "path": "FullExpansion/TopProducts/LivestockGroups/municipal_heads.csv",
+      "bytes": 26541,
+      "sha256": "90a036b7370ce7757292139d6c703412484b71c0aab888529c663e9eaf50727b"
+    },
+    {
+      "path": "FullExpansion/TopProducts/LivestockGroups/municipal_status.csv",
+      "bytes": 115430,
+      "sha256": "f7a271df3fed8724ec7ee613e1145cf6310b62019dd379ecaacb40ff35d834ae"
+    },
+    {
       "path": "FullExpansion/TopProducts/LivestockGroups/source_categories.csv",
       "bytes": 37109,
       "sha256": "fbf921542a5af3dbae109c2c5a6f68f98e359a5c23bcaa46821c166cbbdc5209"
+    },
+    {
+      "path": "FullExpansion/TopProducts/README.html",
+      "bytes": 3015,
+      "sha256": "e467a654199e1be6dfd0d7cedbd932d52e3d260ce2c6e883fb7afd235dc82eb1"
+    },
+    {
+      "path": "FullExpansion/TopProducts/excluded_generic_categories.csv",
+      "bytes": 3290,
+      "sha256": "2b8bfc971c02babed1d05978d6e80f66dda0b0b5c93a4bba95c4ffc4040698b9"
     },
     {
       "path": "FullExpansion/TopProducts/national_product_totals.csv",
@@ -245893,14 +245723,89 @@
       "sha256": "b977defbdd152df2ef98b24907e3d339d978f23188d14c109ffae5aaa4925c24"
     },
     {
-      "path": "FullExpansion/TopProducts/README.html",
-      "bytes": 3015,
-      "sha256": "e467a654199e1be6dfd0d7cedbd932d52e3d260ce2c6e883fb7afd235dc82eb1"
-    },
-    {
       "path": "FullExpansion/TopProducts/sources.json",
       "bytes": 93896,
       "sha256": "4357b3d7a87730a4ad5e659bb519c06d1940801640a663cf98ec41c8eb4c4a3a"
+    },
+    {
+      "path": "FullExpansion/animal_distribution_discrepancies.csv",
+      "bytes": 65946,
+      "sha256": "f19f74c2b7e0286739c8672a9467e7899150630ba2ed6bf4437feccf6411fc78"
+    },
+    {
+      "path": "FullExpansion/catalogo.html",
+      "bytes": 9698307,
+      "sha256": "a674f2bbb09ef040ba78cc8c434f8cfeec8ec166af6633c84623bcb34d43d421"
+    },
+    {
+      "path": "FullExpansion/choice_diagnosis.html",
+      "bytes": 27766,
+      "sha256": "9bd8a57b0e209b28e2cf354f735e440aba4332982ee12526e05fb5e4227755de"
+    },
+    {
+      "path": "FullExpansion/choice_diagnosis_fields.csv",
+      "bytes": 27380,
+      "sha256": "2f99706b90f9708eaaaec82106328126b0055cd42a2de4321a500d5382434e5e"
+    },
+    {
+      "path": "FullExpansion/choice_diagnosis_indicators.csv",
+      "bytes": 4064813,
+      "sha256": "d635bdb1880ab1b542dbf964155ea03e2d23f4b02a49e55c736e07cc0d632c2a"
+    },
+    {
+      "path": "FullExpansion/codigos_y_diccionario.zip",
+      "bytes": 31034960,
+      "sha256": "edf8dd1ec4cbd612e79f4ebe0f7dd9a1e8276857bce43f131f8a3714468c35bd"
+    },
+    {
+      "path": "FullExpansion/component_discrepancies.csv",
+      "bytes": 67,
+      "sha256": "7fb569f0aaf41dbaab2032ceac79e62ce56ec55fa39c3bf6e10a2ded5c68d589"
+    },
+    {
+      "path": "FullExpansion/english_catalogue.html",
+      "bytes": 14485374,
+      "sha256": "203948b8803e225a0d639437355e45f8ada4ece3ce220ab8a71effdb49255401"
+    },
+    {
+      "path": "FullExpansion/english_indicator_labels.csv",
+      "bytes": 6084744,
+      "sha256": "cf781714503a29f8047a52e56003426e4df092dce3ce801a333d53f93b53b3cd"
+    },
+    {
+      "path": "FullExpansion/field_coverage.csv",
+      "bytes": 73453,
+      "sha256": "1119a9a6b527fefdd230d817cf0b6dde079a5d12c3474e975e423b33342a5fd9"
+    },
+    {
+      "path": "FullExpansion/honey_audit.html",
+      "bytes": 3612,
+      "sha256": "f0e393ca9b1a434a0cf771fe86bf53fabc252df35d00d47c8c03a45fbab8edd8"
+    },
+    {
+      "path": "FullExpansion/honey_department_audit.csv",
+      "bytes": 550,
+      "sha256": "27e0a2bfe0cc481a180a16eb0e68fc3253f5fd529338f1501d3f6f544d0d0d74"
+    },
+    {
+      "path": "FullExpansion/honey_quality.json",
+      "bytes": 918,
+      "sha256": "9c6ec34c4245192d0d8c549c985a2a526d37858457069bfbe3348120968a33ee"
+    },
+    {
+      "path": "FullExpansion/indicators.json",
+      "bytes": 42456326,
+      "sha256": "35eca057ae4a3d29c50a5b23a38706cca067fe61561247d1cddcf2f472e512ec"
+    },
+    {
+      "path": "FullExpansion/municipal_full_wide.csv",
+      "bytes": 15042961,
+      "sha256": "0e00ed4ceef460c84330a17612ddfe9107e614533410a0b38e70235542e60c70"
+    },
+    {
+      "path": "FullExpansion/topic_counts.csv",
+      "bytes": 13188,
+      "sha256": "1f449e7f0f82169e9044ee600d4cbf2e6893d815cff487403252c2b71b330284"
     },
     {
       "path": "FullExpansion/validation_discrepancies.csv",
@@ -245911,11 +245816,6 @@
       "path": "FullExpansion/variable_dictionary.csv",
       "bytes": 18640254,
       "sha256": "08a623e680c06a8d2f3f2d21581fbac0d8d2de4628e505cf95dd3e30c26f88fc"
-    },
-    {
-      "path": "index.html",
-      "bytes": 266,
-      "sha256": "3be39ed86808cb68bbe1c1992c1012d7a09992da01fa88a30812e3b36bf66ac8"
     },
     {
       "path": "Provenance/Contract_02/Deliverables/RedatamExploration/Programs/p09_crop_national.spc",
@@ -245938,14 +245838,34 @@
       "sha256": "18c778714fcfac72a30e81503a384f76df5b278d4eaa9fd2e70be9e08df8fb63"
     },
     {
+      "path": "README.en.md",
+      "bytes": 7216,
+      "sha256": "d87da41208017e5e75a4392ee386bdbb81fa0b7eac2ad6cf597d79211466b3e9"
+    },
+    {
       "path": "README.html",
-      "bytes": 8977,
-      "sha256": "acc99cdf8465e12334f815081322ae5db92dd4f382ce96b7e179c22522647677"
+      "bytes": 9111,
+      "sha256": "cea70444274d46525881774301fdaeea80ee829021edbf5cdee2a0b1557cd7d8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7499,
+      "sha256": "6201da679c5db5e25f071f3c3a044acae08185c319cb1c1a22e47506037493cf"
     },
     {
       "path": "RedatamExploration/00_README.md",
       "bytes": 9825,
       "sha256": "30b96f9c7cb1ff56cd2072bf3ed0328dec3840c982e3306eb2e8312621e0c1e1"
+    },
+    {
+      "path": "RedatamExploration/Programs/p11_crop_national.spc",
+      "bytes": 90589,
+      "sha256": "5f822da4335a648a70bc54c7ac6f2ce23d65bf9780cf3a5208baf4aa0379adf5"
+    },
+    {
+      "path": "RedatamExploration/Programs/p12_crop_department.spc",
+      "bytes": 90593,
+      "sha256": "ae20cc0b75cec7078cc3d2a6eedde4eb22e3d377d0f6769697c31b32faca53ac"
     },
     {
       "path": "RedatamExploration/catalogo_productos.html",
@@ -246023,16 +245943,6 @@
       "sha256": "f021eebf18f61a319df1842f3386e8394b2531afe18d634f09aa7b8ef496cf32"
     },
     {
-      "path": "RedatamExploration/Programs/p11_crop_national.spc",
-      "bytes": 90589,
-      "sha256": "5f822da4335a648a70bc54c7ac6f2ce23d65bf9780cf3a5208baf4aa0379adf5"
-    },
-    {
-      "path": "RedatamExploration/Programs/p12_crop_department.spc",
-      "bytes": 90593,
-      "sha256": "ae20cc0b75cec7078cc3d2a6eedde4eb22e3d377d0f6769697c31b32faca53ac"
-    },
-    {
       "path": "Validation/portable_data_validation.json",
       "bytes": 422,
       "sha256": "fd8ebbee07ccd5bc6be7e32d1b70adf59d617a3ed43ded4b4b63fd8427a392fc"
@@ -246061,6 +245971,107 @@
       "path": "Validation/portable_validation.json",
       "bytes": 1600,
       "sha256": "fa52e852c85c8123848fc9721a299efa0353c12805de7b1e08ff114d1a312d81"
+    },
+    {
+      "path": "data/README_DATASET.txt",
+      "bytes": 2132,
+      "sha256": "a6e9d7edbfcd1c92eb2f19ecf1640e4be3e4e4bf16d3c34408cb4928da113c66"
+    },
+    {
+      "path": "data/alias_status_overrides.parquet",
+      "bytes": 5430,
+      "sha256": "753d4536fac67a8045a02f6307f7d0c9f07822dbc5547916d9546580a7158215"
+    },
+    {
+      "path": "data/cell_status.parquet",
+      "bytes": 9987564,
+      "sha256": "489239c503981044c7fee72b9301c611c3a47168d04f1f4d291ebfe42c1a5e1f"
+    },
+    {
+      "path": "data/context_dictionary.csv",
+      "bytes": 948,
+      "sha256": "6cef98fd992378a243d0d0f2f07f2e7660bc681e9899aaa24324ecd52c6009d8"
+    },
+    {
+      "path": "data/dataset_bundle.zip",
+      "bytes": 8467843,
+      "sha256": "d46401362a9b615427ec3b864608ff93eaf215c7c48d10ed68c060752ed6e5da"
+    },
+    {
+      "path": "data/dictionary-browser.js",
+      "bytes": 20827750,
+      "sha256": "6b39c48d20b55bb337e14902b5acfd08c4228bf0b2c8e98fd4868e969d25659d"
+    },
+    {
+      "path": "data/dictionary_bilingual.csv",
+      "bytes": 32973460,
+      "sha256": "41bb18543c3730e2c7c5f04fa7f2607a8a4ca56cffd95b2b5a1ec5894c09f737"
+    },
+    {
+      "path": "data/dictionary_bilingual.parquet",
+      "bytes": 1185696,
+      "sha256": "030d2a40233152ac9c55adc4df38e63bf6f32f4e544d56951f9b91b0ef6f9a08"
+    },
+    {
+      "path": "data/equal_vectors_retained.json",
+      "bytes": 918455,
+      "sha256": "0088d5b3e4234a2c3b545715775bc3f132e49673a9695e2e22088fc3b0a7a2d2"
+    },
+    {
+      "path": "data/municipal_context.parquet",
+      "bytes": 9688,
+      "sha256": "ed2caa0b18ce7b0f20355be4cffaefb4f8fc3399160cf10c7d2867ecbcc56db9"
+    },
+    {
+      "path": "data/municipal_data.parquet",
+      "bytes": 13797543,
+      "sha256": "56f2e5b13ce17519fbdba46f439b18a6950282b09bd8a24b77643a46275be52f"
+    },
+    {
+      "path": "data/portable_link_repairs.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "data/redundancy_audit.json",
+      "bytes": 6128,
+      "sha256": "d3868aabb933d5a208f2eab26d515fc2bf0e3361b23c1ecaf4a3a06b5b2c6578"
+    },
+    {
+      "path": "data/rejected_equivalences.json",
+      "bytes": 7751,
+      "sha256": "3714594db2483ac3dffd82d4dd0ca8f7a907c083be8f05fda1ffd8a5baa22244"
+    },
+    {
+      "path": "data/source_definitions.parquet",
+      "bytes": 1494565,
+      "sha256": "0bdb4b6b957e8be5c4f46ce27b71474ee3c8b34129fe05bcc41bedff574f5cfc"
+    },
+    {
+      "path": "data/status_dictionary.csv",
+      "bytes": 1149,
+      "sha256": "812ed04347f4ebb32ab49462246718afdd94f22fba0a6580f66be1877d909b13"
+    },
+    {
+      "path": "data/variable_aliases.csv",
+      "bytes": 6163537,
+      "sha256": "39c45b2418e10d5b4ebdea51f91d78ada0b7501aceab5df5df5f82a5e8f5811f"
+    },
+    {
+      "path": "data/variable_aliases.parquet",
+      "bytes": 208139,
+      "sha256": "07cee0dc5d3ded29a5cf7f93bb8fb1843074ffa1d53a7a263d336f6c88b07564"
+    },
+    {
+      "path": "dictionary.html",
+      "bytes": 2550,
+      "sha256": "4aa288a84a32cf1d891db19c1577e07af511367072ded8ff7a23747a252b827a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 266,
+      "sha256": "3be39ed86808cb68bbe1c1992c1012d7a09992da01fa88a30812e3b36bf66ac8"
     }
-  ]
+  ],
+  "documentation_revision": "2026-11-22: GitHub README prepared locally; not pushed by agent. Supervisor published the original release."
 }

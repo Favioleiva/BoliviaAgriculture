@@ -17,7 +17,7 @@ def run():
     for n in ['portable_validation.json','portable_data_validation.json','portable_rebuild_validation.json',
               'portable_downloads_desktop.png','portable_downloads_mobile.png','portable_dictionary.png']:
         shutil.copy2(E/n,evidence/n)
-    files=sorted(p for p in P.rglob('*') if p.is_file() and p!=P/'manifest.json')
+    files=sorted(p for p in P.rglob('*') if p.is_file() and '.git' not in p.relative_to(P).parts and p!=P/'manifest.json')
     def record(p):return dict(path=p.relative_to(P).as_posix(),bytes=p.stat().st_size,sha256=digest(p))
     with ThreadPoolExecutor(max_workers=12) as pool:records=list(pool.map(record,files))
     manifest=dict(created=datetime.datetime.now(datetime.timezone.utc).isoformat(),
@@ -28,7 +28,7 @@ def run():
     archive=P.with_suffix('.zip')
     with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
         for p in sorted(P.rglob('*')):
-            if p.is_file():z.write(p,Path(P.name)/p.relative_to(P))
+            if p.is_file() and '.git' not in p.relative_to(P).parts:z.write(p,Path(P.name)/p.relative_to(P))
     with zipfile.ZipFile(archive) as z:
         assert z.testzip() is None
         assert len(z.namelist())==len(records)+1
