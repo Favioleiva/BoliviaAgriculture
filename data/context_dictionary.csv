@@ -1,0 +1,8 @@
+﻿code,definition_es,definition_en
+mun_code,Código municipal de referencia,Reference municipality code
+population_2012,Población 2012 enlazada a la geografía operativa,2012 population linked to the operational geography
+population_2024,Población 2024 enlazada; hereda supuestos de asignación C01,2024 linked population; inherits C01 allocation assumptions
+population_estimated_2013,Población estimada: P2012 + (P2024-P2012)/12. No es conteo censal 2013 ni proyección oficial.,Estimated population: P2012 + (P2024-P2012)/12. Not a 2013 census count or official projection.
+formula,Fórmula de estimación del denominador poblacional,Population-denominator estimation formula
+estimate_status,Estado de estimación; separado de los datos agropecuarios observados,Estimation status; separate from observed agricultural data
+geography_status,Limitaciones heredadas de la correspondencia territorial,Inherited geographic-link limitations

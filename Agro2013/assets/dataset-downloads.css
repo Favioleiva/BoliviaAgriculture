@@ -1,0 +1,7 @@
+
+#dataset{max-width:1320px;margin:2rem auto;padding:1.5rem;background:#f2f7f3;border:1px solid #c5d8ce;border-radius:16px;color:#183b32;scroll-margin-top:1rem}
+#dataset h2{font-size:1.6rem;margin:0 0 .7rem}#dataset p{font-size:1rem;line-height:1.6;max-width:80ch}
+#dataset .dataset-actions{display:flex;gap:.7rem;flex-wrap:wrap;margin:1rem 0}
+#dataset a{overflow-wrap:anywhere}#dataset .dataset-actions a{padding:.7rem 1rem;border:1px solid #467b67;border-radius:8px;text-decoration:none;font-weight:600;color:#164e3a;background:white}
+#dataset .dataset-actions a:first-child{background:#164e3a;color:white}#dataset .dataset-note{font-size:.9rem;color:#355b4d}
+@media(max-width:700px){#dataset{margin:1rem;padding:1rem}#dataset .dataset-actions{display:grid}#dataset .dataset-actions a{min-height:44px}}

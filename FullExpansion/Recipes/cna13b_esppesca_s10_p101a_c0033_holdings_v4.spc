@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+DEFINE UPA.R148 AS COUNT ESPPESCA FILTER ESPPESCA.S10_P101A = "041202800" TYPE INTEGER
+DEFINE MUNIC.V148 AS COUNT UPA FILTER UPA.R148 > 0 TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V148
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_esppesca_s10_p101a_c0033_holdings.csv" UTF8

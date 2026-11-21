@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+DEFINE UPA.R114 AS COUNT CULTORG FILTER CULTORG.S5_P37_1A = "0191909" TYPE INTEGER
+DEFINE MUNIC.V114 AS COUNT UPA FILTER UPA.R114 > 0 TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V114
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_cultorg_s5_p37_1a_c0190_holdings.csv" UTF8

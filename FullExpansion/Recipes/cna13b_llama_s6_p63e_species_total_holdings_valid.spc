@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+DEFINE UPA.R7 AS COUNT LLAMA FILTER ((LLAMA.S6_P63E >= 0 AND LLAMA.S6_P63E <= 9999)) AND NOT MISSING(LLAMA.S6_P63E) AND NOT NOTAPPLICABLE(LLAMA.S6_P63E) TYPE INTEGER
+DEFINE MUNIC.V7 AS COUNT UPA FILTER UPA.R7 > 0 TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V7
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_llama_s6_p63e_species_total_holdings_valid.csv" UTF8

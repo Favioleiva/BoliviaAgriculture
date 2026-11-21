@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "rebuilt_using_only_packaged_sources": true,
+  "byte_identical_parquet": {
+    "alias_status_overrides.parquet": true,
+    "cell_status.parquet": true,
+    "dictionary_bilingual.parquet": true,
+    "municipal_data.parquet": true,
+    "source_definitions.parquet": true,
+    "variable_aliases.parquet": true
+  },
+  "auxiliary_context_added": true
+}

@@ -1,0 +1,340 @@
+municipio_id,municipio_nombre,departamento_codigo,departamento,provincia_codigo,provincia,year,cultivo_codigo,cultivo_nombre,categoria,entidad,campana,riego,definicion_superficie,fuente_superficie,registros,upa_con_registros,upa_superficie_positiva,registros_validos,registros_missing,registros_no_aplica,registros_cero,superficie_ha,estado,programa
+010101,Sucre,01,Chuquisaca,0101,Oropeza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010102,Yotala,01,Chuquisaca,0101,Oropeza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010103,Poroma,01,Chuquisaca,0101,Oropeza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010201,Azurduy,01,Chuquisaca,0102,Azurduy,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010202,Tarvita,01,Chuquisaca,0102,Azurduy,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010301,Zudáñez,01,Chuquisaca,0103,Zudáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010302,Presto,01,Chuquisaca,0103,Zudáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010303,Mojocoya,01,Chuquisaca,0103,Zudáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010304,Icla,01,Chuquisaca,0103,Zudáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010401,Padilla,01,Chuquisaca,0104,Tomina,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010402,Tomina,01,Chuquisaca,0104,Tomina,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010403,Sopachuy,01,Chuquisaca,0104,Tomina,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010404,Villa Alcalá,01,Chuquisaca,0104,Tomina,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010405,El Villar,01,Chuquisaca,0104,Tomina,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010501,Monteagudo,01,Chuquisaca,0105,Hernando Siles,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010502,Huacareta,01,Chuquisaca,0105,Hernando Siles,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010601,Tarabuco,01,Chuquisaca,0106,Yamparáez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010602,Yamparáez,01,Chuquisaca,0106,Yamparáez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010701,Camargo,01,Chuquisaca,0107,Nor Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010702,San Lucas,01,Chuquisaca,0107,Nor Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010703,Incahuasi,01,Chuquisaca,0107,Nor Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010704,Villa Charcas,01,Chuquisaca,0107,Nor Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010801,Villa Serrano,01,Chuquisaca,0108,Belisario Boeto,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010901,Villa Abecia,01,Chuquisaca,0109,Sud Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010902,Culpina,01,Chuquisaca,0109,Sud Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+010903,Las Carreras,01,Chuquisaca,0109,Sud Cinti,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+011001,Muyupampa,01,Chuquisaca,0110,Luis Calvo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+011002,Huacaya,01,Chuquisaca,0110,Luis Calvo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+011003,Macharetí,01,Chuquisaca,0110,Luis Calvo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020101,La Paz,02,La Paz,0201,Murillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020102,Palca,02,La Paz,0201,Murillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020103,Mecapaca,02,La Paz,0201,Murillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020104,Achocalla,02,La Paz,0201,Murillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020105,El Alto,02,La Paz,0201,Murillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020201,Achacachi,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020202,Ancoraimes,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020203,Chua Cocani,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020204,Huarina,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020205,Santiago de Huata,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020206,Huatajata,02,La Paz,0202,Omasuyos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020301,Corocoro,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020302,Caquiaviri,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020303,Calacoto,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020304,Comanche,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020305,Charaña,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020306,Waldo Ballivián,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020307,Nazacara de Pacajes,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020308,Callapa,02,La Paz,0203,Pacajes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020401,Puerto Acosta,02,La Paz,0204,Camacho,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020402,Mocomoco,02,La Paz,0204,Camacho,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020403,Puerto Carabuco,02,La Paz,0204,Camacho,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020404,Humanata,02,La Paz,0204,Camacho,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020405,Escoma,02,La Paz,0204,Camacho,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020501,Chuma,02,La Paz,0205,Muñecas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020502,Ayata,02,La Paz,0205,Muñecas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020503,Aucapata,02,La Paz,0205,Muñecas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020601,Sorata,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020602,Guanay,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020603,Tacacoma,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020604,Quiabaya,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020605,Combaya,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020606,Tipuani,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020607,Mapiri,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020608,Teoponte,02,La Paz,0206,Larecaja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020701,Apolo,02,La Paz,0207,Franz Tamayo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020702,Pelechuco,02,La Paz,0207,Franz Tamayo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020801,Viacha,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020802,Guaqui,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020803,Tiahuanacu,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020804,Desaguadero,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020805,San Andrés de Machaca,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020806,Jesús de Machaca,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020807,Taraco,02,La Paz,0208,Ingavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020901,Luribay,02,La Paz,0209,Loayza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020902,Sapahaqui,02,La Paz,0209,Loayza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020903,Yaco,02,La Paz,0209,Loayza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020904,Malla,02,La Paz,0209,Loayza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+020905,Cairoma,02,La Paz,0209,Loayza,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021001,Inquisivi,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021002,Quime,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021003,Cajuata,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021004,Colquiri,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021005,Ichoca,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021006,Villa Libertad Licoma,02,La Paz,0210,Inquisivi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021101,Chulumani,02,La Paz,0211,Sud Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021102,Irupana,02,La Paz,0211,Sud Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021103,Yanacachi,02,La Paz,0211,Sud Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021104,Palos Blancos,02,La Paz,0211,Sud Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021105,La Asunta,02,La Paz,0211,Sud Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021201,Pucarani,02,La Paz,0212,Los Andes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021202,Laja,02,La Paz,0212,Los Andes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021203,Batallas,02,La Paz,0212,Los Andes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021204,Puerto Pérez,02,La Paz,0212,Los Andes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021301,Sica Sica,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021302,Umala,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,1,1,1,1,0,0,0,0.000200,OBSERVADO,core_c21_08_m.spc
+021303,Ayo Ayo,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021304,Calamarca,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021305,Patacamaya,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021306,Colquencha,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021307,Collana,02,La Paz,0213,Aroma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021401,Coroico,02,La Paz,0214,Nor Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021402,Coripata,02,La Paz,0214,Nor Yungas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021501,Ixiamas,02,La Paz,0215,Abel Iturralde,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021502,San Buenaventura,02,La Paz,0215,Abel Iturralde,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021601,Charazani,02,La Paz,0216,Bautista Saavedra,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021602,Curva,02,La Paz,0216,Bautista Saavedra,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021701,Copacabana,02,La Paz,0217,Manco Kapac,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021702,San Pedro de Tiquina,02,La Paz,0217,Manco Kapac,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021703,Tito Yupanqui,02,La Paz,0217,Manco Kapac,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021801,San Pedro de Curahuara,02,La Paz,0218,Gualberto Villarroel,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021802,Papel Pampa,02,La Paz,0218,Gualberto Villarroel,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021803,Chacarilla,02,La Paz,0218,Gualberto Villarroel,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021901,Santiago de Machaca,02,La Paz,0219,José Manuel Pando,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+021902,Catacora,02,La Paz,0219,José Manuel Pando,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+022001,Caranavi,02,La Paz,0220,Caranavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+022002,Alto Beni,02,La Paz,0220,Caranavi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030101,Cochabamba,03,Cochabamba,0301,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030201,Aiquile,03,Cochabamba,0302,Campero,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030202,Pasorapa,03,Cochabamba,0302,Campero,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030203,Omereque,03,Cochabamba,0302,Campero,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030301,Independencia,03,Cochabamba,0303,Ayopaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030302,Morochata,03,Cochabamba,0303,Ayopaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030303,Cocapata,03,Cochabamba,0303,Ayopaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030401,Tarata,03,Cochabamba,0304,Esteban Arze,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030402,Anzaldo,03,Cochabamba,0304,Esteban Arze,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030403,Arbieto,03,Cochabamba,0304,Esteban Arze,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030404,Sacabamba,03,Cochabamba,0304,Esteban Arze,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030501,Arani,03,Cochabamba,0305,Arani,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030502,Vacas,03,Cochabamba,0305,Arani,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030601,Arque,03,Cochabamba,0306,Arque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030602,Tacopaya,03,Cochabamba,0306,Arque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030701,Capinota,03,Cochabamba,0307,Capinota,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030702,Santiváñez,03,Cochabamba,0307,Capinota,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030703,Sicaya,03,Cochabamba,0307,Capinota,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030801,Cliza,03,Cochabamba,0308,Germán Jordán,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030802,Toco,03,Cochabamba,0308,Germán Jordán,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030803,Tolata,03,Cochabamba,0308,Germán Jordán,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030901,Quillacollo,03,Cochabamba,0309,Quillacollo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030902,Sipesipe,03,Cochabamba,0309,Quillacollo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030903,Tiquipaya,03,Cochabamba,0309,Quillacollo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030904,Vinto,03,Cochabamba,0309,Quillacollo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+030905,Colcapirhua,03,Cochabamba,0309,Quillacollo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031001,Sacaba,03,Cochabamba,0310,Chapare,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031002,Colomi,03,Cochabamba,0310,Chapare,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031003,Villa Tunari,03,Cochabamba,0310,Chapare,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031101,Tapacarí,03,Cochabamba,0311,Tapacarí,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031201,Totora,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031202,Pojo,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031203,Pocona,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031204,Chimoré,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031205,Puerto Villarroel,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031206,Entre Ríos,03,Cochabamba,0312,Carrasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031301,Mizque,03,Cochabamba,0313,Mizque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031302,Vila Vila,03,Cochabamba,0313,Mizque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031303,Alalay,03,Cochabamba,0313,Mizque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031401,Punata,03,Cochabamba,0314,Punata,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031402,Villa Rivero,03,Cochabamba,0314,Punata,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031403,San Benito,03,Cochabamba,0314,Punata,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031404,Tacachi,03,Cochabamba,0314,Punata,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031405,Cuchumuela,03,Cochabamba,0314,Punata,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031501,Bolívar,03,Cochabamba,0315,Bolívar,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031601,Tiraque,03,Cochabamba,0316,Tiraque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+031602,Shinahota,03,Cochabamba,0316,Tiraque,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040101,Oruro,04,Oruro,0401,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040102,Caracollo,04,Oruro,0401,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040103,El Choro,04,Oruro,0401,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040104,Pari - Paria - Soracachi,04,Oruro,0401,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040201,Challapata,04,Oruro,0402,Abaroa,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040202,Quillacas,04,Oruro,0402,Abaroa,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040301,Corque,04,Oruro,0403,Carangas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040302,Choque Cota,04,Oruro,0403,Carangas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040401,Curahuara de Carangas,04,Oruro,0404,Sajama,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040402,Turco,04,Oruro,0404,Sajama,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040501,Huachacalla,04,Oruro,0405,Litoral,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040502,Escara,04,Oruro,0405,Litoral,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040503,Cruz de Machacamarca,04,Oruro,0405,Litoral,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040504,Yunguyo de Litoral,04,Oruro,0405,Litoral,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040505,Esmeralda,04,Oruro,0405,Litoral,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040601,Poopó,04,Oruro,0406,Poopó,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040602,Pazña,04,Oruro,0406,Poopó,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040603,Antequera,04,Oruro,0406,Poopó,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040701,Huanuni,04,Oruro,0407,Pantaleón Dalence,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040702,Machacamarca,04,Oruro,0407,Pantaleón Dalence,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040801,Salinas de Garci Mendoza,04,Oruro,0408,Ladislao Cabrera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040802,Pampa Aullagas,04,Oruro,0408,Ladislao Cabrera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040901,Sabaya,04,Oruro,0409,Sabaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040902,Coipasa,04,Oruro,0409,Sabaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+040903,Chipaya,04,Oruro,0409,Sabaya,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041001,Toledo,04,Oruro,0410,Saucarí,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041101,Eucaliptus,04,Oruro,0411,Tomás Barrón,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041201,Santiago de Andamarca,04,Oruro,0412,Sur Carangas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041202,Belén de Andamarca,04,Oruro,0412,Sur Carangas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041301,San Pedro de Totora,04,Oruro,0413,San Pedro de Totora,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041401,Huari,04,Oruro,0414,Sebastián Pagador,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041501,La Rivera,04,Oruro,0415,Mejillones,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041502,Todos Santos,04,Oruro,0415,Mejillones,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041503,Carangas,04,Oruro,0415,Mejillones,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+041601,Huayllamarca,04,Oruro,0416,Nor Carangas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050101,Potosí,05,Potosí,0501,Tomás Frías,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050102,Tinguipaya,05,Potosí,0501,Tomás Frías,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050103,Yocalla,05,Potosí,0501,Tomás Frías,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050104,Urmiri,05,Potosí,0501,Tomás Frías,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050201,Uncía,05,Potosí,0502,Rafael Bustillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050202,Chayanta,05,Potosí,0502,Rafael Bustillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050203,Llallagua,05,Potosí,0502,Rafael Bustillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050204,Chuquihuta,05,Potosí,0502,Rafael Bustillo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050301,Betanzos,05,Potosí,0503,Cornelio Saavedra,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050302,Chaquí,05,Potosí,0503,Cornelio Saavedra,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050303,Tacobamba,05,Potosí,0503,Cornelio Saavedra,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050401,Colquechaca,05,Potosí,0504,Chayanta,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050402,Ravelo,05,Potosí,0504,Chayanta,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050403,Pocoata,05,Potosí,0504,Chayanta,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050404,Ocurí,05,Potosí,0504,Chayanta,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050501,San Pedro de Buena Vista,05,Potosí,0505,Charcas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050502,Toro Toro,05,Potosí,0505,Charcas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050601,Cotagaita,05,Potosí,0506,Nor Chichas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050602,Vitichi,05,Potosí,0506,Nor Chichas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050701,Villa de Sacaca,05,Potosí,0507,Alonso de Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050702,Caripuyo,05,Potosí,0507,Alonso de Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050801,Tupiza,05,Potosí,0508,Sur Chichas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050802,Atocha,05,Potosí,0508,Sur Chichas,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050901,"Colcha ""K""",05,Potosí,0509,Nor Lípez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+050902,San Pedro de Quemes,05,Potosí,0509,Nor Lípez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051001,San Pablo de Lípez,05,Potosí,0510,Sur Lípez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051002,Mojinete,05,Potosí,0510,Sur Lípez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051003,San Antonio de Esmoruco,05,Potosí,0510,Sur Lípez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051101,Puna,05,Potosí,0511,José María Linares,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051102,"Caiza ""D""",05,Potosí,0511,José María Linares,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051103,Ckochas,05,Potosí,0511,José María Linares,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051201,Uyuni,05,Potosí,0512,Antonio Quijarro,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051202,Tomave,05,Potosí,0512,Antonio Quijarro,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051203,Porco,05,Potosí,0512,Antonio Quijarro,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051301,Arampampa,05,Potosí,0513,Bernardino Bilbao Rioja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051302,Acasio,05,Potosí,0513,Bernardino Bilbao Rioja,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051401,Llica,05,Potosí,0514,Daniel Campos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051402,Tahua,05,Potosí,0514,Daniel Campos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051501,Villazón,05,Potosí,0515,Modesto Omiste,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+051601,San Agustín,05,Potosí,0516,Enrique Baldivieso,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060101,Tarija,06,Tarija,0601,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060201,Padcaya,06,Tarija,0602,Aniceto Arce,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060202,Bermejo,06,Tarija,0602,Aniceto Arce,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060301,Yacuiba,06,Tarija,0603,Gran Chaco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060302,Caraparí,06,Tarija,0603,Gran Chaco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060303,Villamontes,06,Tarija,0603,Gran Chaco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060401,Uriondo,06,Tarija,0604,Aviles,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060402,Yunchará,06,Tarija,0604,Aviles,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060501,Villa San Lorenzo,06,Tarija,0605,Méndez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060502,El Puente,06,Tarija,0605,Méndez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+060601,Entre Ríos,06,Tarija,0606,Burnet O' Connor,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070101,Santa Cruz de la Sierra,07,Santa Cruz,0701,Andrés Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070102,Cotoca,07,Santa Cruz,0701,Andrés Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070103,Porongo,07,Santa Cruz,0701,Andrés Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070104,La Guardia,07,Santa Cruz,0701,Andrés Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070105,El Torno,07,Santa Cruz,0701,Andrés Ibáñez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070201,Warnes,07,Santa Cruz,0702,Warnes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070202,Okinawa Uno,07,Santa Cruz,0702,Warnes,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070301,San Ignacio de Velasco,07,Santa Cruz,0703,Velasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070302,San Miguel de Velasco,07,Santa Cruz,0703,Velasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070303,San Rafael,07,Santa Cruz,0703,Velasco,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070401,Buena Vista,07,Santa Cruz,0704,Ichilo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070402,San Carlos,07,Santa Cruz,0704,Ichilo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070403,Yapacaní,07,Santa Cruz,0704,Ichilo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070404,San Juan de Yapacaní,07,Santa Cruz,0704,Ichilo,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070501,San José de Chiquitos,07,Santa Cruz,0705,Chiquitos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070502,Pailón,07,Santa Cruz,0705,Chiquitos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070503,Roboré,07,Santa Cruz,0705,Chiquitos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070601,Portachuelo,07,Santa Cruz,0706,Sara,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070602,Santa Rosa del Sara,07,Santa Cruz,0706,Sara,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070603,Colpa Bélgica,07,Santa Cruz,0706,Sara,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070701,Lagunillas,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070702,Charagua,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070703,Cabezas,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070704,Cuevo,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070705,Gutiérrez,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070706,Camiri,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070707,Boyuibe,07,Santa Cruz,0707,Cordillera,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070801,Vallegrande,07,Santa Cruz,0708,Vallegrande,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070802,Trigal,07,Santa Cruz,0708,Vallegrande,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070803,Moro Moro,07,Santa Cruz,0708,Vallegrande,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070804,Postrer Valle,07,Santa Cruz,0708,Vallegrande,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070805,Pucará,07,Santa Cruz,0708,Vallegrande,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070901,Samaipata,07,Santa Cruz,0709,Florida,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070902,Pampa Grande,07,Santa Cruz,0709,Florida,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070903,Mairana,07,Santa Cruz,0709,Florida,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+070904,Quirusillas,07,Santa Cruz,0709,Florida,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071001,Montero,07,Santa Cruz,0710,Obispo Santistevan,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071002,Gral. Saavedra,07,Santa Cruz,0710,Obispo Santistevan,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071003,Mineros,07,Santa Cruz,0710,Obispo Santistevan,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071004,Fernández Alonso,07,Santa Cruz,0710,Obispo Santistevan,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071005,San Pedro,07,Santa Cruz,0710,Obispo Santistevan,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071101,Concepción,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071102,San Javier,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071103,San Ramón,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071104,San Julián,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071105,San Antonio de Lomerío,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071106,Cuatro Cañadas,07,Santa Cruz,0711,Ñuflo de Chávez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071201,San Matías,07,Santa Cruz,0712,Ángel Sandóval,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071301,Comarapa,07,Santa Cruz,0713,Manuel María Caballero,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071302,Saipina,07,Santa Cruz,0713,Manuel María Caballero,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071401,Puerto Suárez,07,Santa Cruz,0714,Germán Busch,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071402,Puerto Quijarro,07,Santa Cruz,0714,Germán Busch,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071403,Carmen Rivero Tórrez,07,Santa Cruz,0714,Germán Busch,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071501,Ascensión de Guarayos,07,Santa Cruz,0715,Guarayos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071502,Urubichá,07,Santa Cruz,0715,Guarayos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+071503,El Puente,07,Santa Cruz,0715,Guarayos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080101,Trinidad,08,Beni,0801,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080102,San Javier,08,Beni,0801,Cercado,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080201,Riberalta,08,Beni,0802,Vaca Díez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080202,Guayaramerín,08,Beni,0802,Vaca Díez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080301,Reyes,08,Beni,0803,José Ballivian,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080302,San Borja,08,Beni,0803,José Ballivian,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080303,Santa Rosa,08,Beni,0803,José Ballivian,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080304,Rurrenabaque,08,Beni,0803,José Ballivian,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080401,Santa Ana de Yacuma,08,Beni,0804,Yacuma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080402,Exaltación,08,Beni,0804,Yacuma,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080501,San Ignacio,08,Beni,0805,Moxos,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080601,Loreto,08,Beni,0806,Marbán,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080602,San Andrés,08,Beni,0806,Marbán,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080701,San Joaquín,08,Beni,0807,Mamoré,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080702,San Ramón,08,Beni,0807,Mamoré,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080703,Puerto Siles,08,Beni,0807,Mamoré,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080801,Magdalena,08,Beni,0808,Iténez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080802,Baures,08,Beni,0808,Iténez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+080803,Huacaraje,08,Beni,0808,Iténez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090101,Cobija,09,Pando,0901,Nicolás Suárez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090102,Porvenir,09,Pando,0901,Nicolás Suárez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090103,Bolpebra,09,Pando,0901,Nicolás Suárez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090104,Bella Flor,09,Pando,0901,Nicolás Suárez,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090201,Puerto Rico,09,Pando,0902,Manuripi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090202,San Pedro,09,Pando,0902,Manuripi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090203,Filadelfia,09,Pando,0902,Manuripi,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090301,Puerto Gonzalo Moreno,09,Pando,0903,Madre de Dios,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090302,San Lorenzo,09,Pando,0903,Madre de Dios,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090303,Sena,09,Pando,0903,Madre de Dios,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090401,Santa Rosa,09,Pando,0904,Abuná,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090402,Ingavi,09,Pando,0904,Abuná,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090501,Nueva Esperanza,09,Pando,0905,Federico Román,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090502,Villa Nueva (Loma Alta),09,Pando,0905,Federico Román,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc
+090503,Santos Mercado,09,Pando,0905,Federico Román,2013,03120220,Árbol manzanillo,Madera sin elaborar,CULTFOR,forestal,todos,forestal,CULTFOR.S4_P27_B,0,0,0,0,0,0,0,,SIN_REGISTROS,core_c21_08_m.spc

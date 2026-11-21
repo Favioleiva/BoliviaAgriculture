@@ -1,0 +1,52 @@
+{
+  "source_value_comparisons": 9672687,
+  "quarantined_null_checks": 339,
+  "municipalities": 339,
+  "statistical_columns": 22864,
+  "dictionary_rows": 22872,
+  "source_definitions": 28534,
+  "auxiliary_population_denominator_comparisons": 1017,
+  "viewer_payload_unchanged": true,
+  "local_references_checked": 25289,
+  "missing_local_links": [],
+  "escaping_links": [],
+  "source_recipes_resolved": 28534,
+  "status": "PASS",
+  "downloads": [
+    {
+      "link": "all",
+      "file": "dataset_bundle.zip",
+      "sha256": "d46401362a9b615427ec3b864608ff93eaf215c7c48d10ed68c060752ed6e5da"
+    },
+    {
+      "link": "parquet",
+      "file": "municipal_data.parquet",
+      "sha256": "56f2e5b13ce17519fbdba46f439b18a6950282b09bd8a24b77643a46275be52f"
+    },
+    {
+      "link": "dict",
+      "file": "dictionary_bilingual.csv",
+      "sha256": "41bb18543c3730e2c7c5f04fa7f2607a8a4ca56cffd95b2b5a1ec5894c09f737"
+    },
+    {
+      "link": "dictpq",
+      "file": "dictionary_bilingual.parquet",
+      "sha256": "030d2a40233152ac9c55adc4df38e63bf6f32f4e544d56951f9b91b0ef6f9a08"
+    },
+    {
+      "link": "quality",
+      "file": "cell_status.parquet",
+      "sha256": "489239c503981044c7fee72b9301c611c3a47168d04f1f4d291ebfe42c1a5e1f"
+    },
+    {
+      "link": "aliases",
+      "file": "variable_aliases.csv",
+      "sha256": "39c45b2418e10d5b4ebdea51f91d78ada0b7501aceab5df5df5f82a5e8f5811f"
+    }
+  ],
+  "browser_errors": [],
+  "external_resource_requests": [],
+  "offline_rendering": true,
+  "desktop_mobile": true,
+  "elapsed_seconds": 33.7
+}

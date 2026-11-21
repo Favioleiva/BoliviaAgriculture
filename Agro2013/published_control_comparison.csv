@@ -1,0 +1,275 @@
+variable,region,control_table,comparison,observed,published,difference,status,observed_heads
+nroupa,BO,60,exact heads,871927.0,871927.0,0.0,PASS,
+nroupa,01,60,exact heads,73388.0,73388.0,0.0,PASS,
+nroupa,02,60,exact heads,245455.0,245455.0,0.0,PASS,
+nroupa,03,60,exact heads,181536.0,181536.0,0.0,PASS,
+nroupa,04,60,exact heads,62692.0,62692.0,0.0,PASS,
+nroupa,05,60,exact heads,123991.0,123991.0,0.0,PASS,
+nroupa,06,60,exact heads,41539.0,41539.0,0.0,PASS,
+nroupa,07,60,exact heads,115027.0,115027.0,0.0,PASS,
+nroupa,08,60,exact heads,20762.0,20762.0,0.0,PASS,
+nroupa,09,60,exact heads,7537.0,7537.0,0.0,PASS,
+bovino,BO,62,exact heads,8149641.0,8149641.0,0.0,PASS,
+bovino,01,62,exact heads,424845.0,424845.0,0.0,PASS,
+bovino,02,62,exact heads,495323.0,495323.0,0.0,PASS,
+bovino,03,62,exact heads,327653.0,327653.0,0.0,PASS,
+bovino,04,62,exact heads,79232.0,79232.0,0.0,PASS,
+bovino,05,62,exact heads,122054.0,122054.0,0.0,PASS,
+bovino,06,62,exact heads,372825.0,372825.0,0.0,PASS,
+bovino,07,62,exact heads,3591946.0,3591946.0,0.0,PASS,
+bovino,08,62,exact heads,2615914.0,2615914.0,0.0,PASS,
+bovino,09,62,exact heads,119849.0,119849.0,0.0,PASS,
+bueyes,BO,61,exact heads,165863.0,165863.0,0.0,PASS,
+bueyes,01,61,exact heads,35837.0,35837.0,0.0,PASS,
+bueyes,02,61,exact heads,6430.0,6430.0,0.0,PASS,
+bueyes,03,61,exact heads,44306.0,44306.0,0.0,PASS,
+bueyes,04,61,exact heads,718.0,718.0,0.0,PASS,
+bueyes,05,61,exact heads,34816.0,34816.0,0.0,PASS,
+bueyes,06,61,exact heads,20825.0,20825.0,0.0,PASS,
+bueyes,07,61,exact heads,7009.0,7009.0,0.0,PASS,
+bueyes,08,61,exact heads,15099.0,15099.0,0.0,PASS,
+bueyes,09,61,exact heads,823.0,823.0,0.0,PASS,
+bufalos,BO,68,exact heads,16785.0,16785.0,0.0,PASS,
+bufalos,03,68,exact heads,26.0,26.0,0.0,PASS,
+bufalos,07,68,exact heads,7831.0,7831.0,0.0,PASS,
+bufalos,08,68,exact heads,8835.0,8835.0,0.0,PASS,
+bufalos,09,68,exact heads,93.0,93.0,0.0,PASS,
+ovino,BO,69,exact heads,6267743.0,6267743.0,0.0,PASS,
+ovino,01,69,exact heads,587187.0,587187.0,0.0,PASS,
+ovino,02,69,exact heads,1799374.0,1799374.0,0.0,PASS,
+ovino,03,69,exact heads,828521.0,828521.0,0.0,PASS,
+ovino,04,69,exact heads,1187850.0,1187850.0,0.0,PASS,
+ovino,05,69,exact heads,1375349.0,1375349.0,0.0,PASS,
+ovino,06,69,exact heads,339102.0,339102.0,0.0,PASS,
+ovino,07,69,exact heads,123814.0,123814.0,0.0,PASS,
+ovino,08,69,exact heads,23992.0,23992.0,0.0,PASS,
+ovino,09,69,exact heads,2554.0,2554.0,0.0,PASS,
+porcino_granja,BO,70,exact heads,356640.0,356640.0,0.0,PASS,
+porcino_granja,01,70,exact heads,27708.0,27708.0,0.0,PASS,
+porcino_granja,02,70,exact heads,14531.0,14531.0,0.0,PASS,
+porcino_granja,03,70,exact heads,62049.0,62049.0,0.0,PASS,
+porcino_granja,04,70,exact heads,1161.0,1161.0,0.0,PASS,
+porcino_granja,05,70,exact heads,1773.0,1773.0,0.0,PASS,
+porcino_granja,06,70,exact heads,17241.0,17241.0,0.0,PASS,
+porcino_granja,07,70,exact heads,224832.0,224832.0,0.0,PASS,
+porcino_granja,08,70,exact heads,6649.0,6649.0,0.0,PASS,
+porcino_granja,09,70,exact heads,696.0,696.0,0.0,PASS,
+porcino_corral,BO,71,exact heads,1058634.0,1058634.0,0.0,PASS,
+porcino_corral,01,71,exact heads,175892.0,175892.0,0.0,PASS,
+porcino_corral,02,71,exact heads,133586.0,133586.0,0.0,PASS,
+porcino_corral,03,71,exact heads,108775.0,108775.0,0.0,PASS,
+porcino_corral,04,71,exact heads,10068.0,10068.0,0.0,PASS,
+porcino_corral,05,71,exact heads,79476.0,79476.0,0.0,PASS,
+porcino_corral,06,71,exact heads,162582.0,162582.0,0.0,PASS,
+porcino_corral,07,71,exact heads,275687.0,275687.0,0.0,PASS,
+porcino_corral,08,71,exact heads,94420.0,94420.0,0.0,PASS,
+porcino_corral,09,71,exact heads,18148.0,18148.0,0.0,PASS,
+caprino,BO,72,exact heads,1868512.0,1868512.0,0.0,PASS,
+caprino,01,72,exact heads,526137.0,526137.0,0.0,PASS,
+caprino,02,72,exact heads,12261.0,12261.0,0.0,PASS,
+caprino,03,72,exact heads,227838.0,227838.0,0.0,PASS,
+caprino,04,72,exact heads,1641.0,1641.0,0.0,PASS,
+caprino,05,72,exact heads,765599.0,765599.0,0.0,PASS,
+caprino,06,72,exact heads,272679.0,272679.0,0.0,PASS,
+caprino,07,72,exact heads,54910.0,54910.0,0.0,PASS,
+caprino,08,72,exact heads,7151.0,7151.0,0.0,PASS,
+caprino,09,72,exact heads,296.0,296.0,0.0,PASS,
+llamas,BO,73,exact heads,2062162.0,2062162.0,0.0,PASS,
+llamas,01,73,exact heads,6654.0,6654.0,0.0,PASS,
+llamas,02,73,exact heads,448314.0,448314.0,0.0,PASS,
+llamas,03,73,exact heads,104332.0,104332.0,0.0,PASS,
+llamas,04,73,exact heads,954985.0,954985.0,0.0,PASS,
+llamas,05,73,exact heads,532036.0,532036.0,0.0,PASS,
+llamas,06,73,exact heads,15548.0,15548.0,0.0,PASS,
+llamas,07,73,exact heads,261.0,261.0,0.0,PASS,
+llamas,08,73,exact heads,8.0,8.0,0.0,PASS,
+llamas,09,73,exact heads,24.0,24.0,0.0,PASS,
+alpacas,BO,74,exact heads,444273.0,444273.0,0.0,PASS,
+alpacas,01,74,exact heads,139.0,139.0,0.0,PASS,
+alpacas,02,74,exact heads,305467.0,305467.0,0.0,PASS,
+alpacas,03,74,exact heads,23541.0,23541.0,0.0,PASS,
+alpacas,04,74,exact heads,114184.0,114184.0,0.0,PASS,
+alpacas,05,74,exact heads,920.0,920.0,0.0,PASS,
+alpacas,06,74,exact heads,13.0,13.0,0.0,PASS,
+alpacas,07,74,exact heads,9.0,9.0,0.0,PASS,
+caballos,BO,75,exact heads,324756.0,324756.0,0.0,PASS,
+caballos,01,75,exact heads,32631.0,32631.0,0.0,PASS,
+caballos,02,75,exact heads,17247.0,17247.0,0.0,PASS,
+caballos,03,75,exact heads,31022.0,31022.0,0.0,PASS,
+caballos,04,75,exact heads,130.0,130.0,0.0,PASS,
+caballos,05,75,exact heads,4224.0,4224.0,0.0,PASS,
+caballos,06,75,exact heads,23818.0,23818.0,0.0,PASS,
+caballos,07,75,exact heads,127183.0,127183.0,0.0,PASS,
+caballos,08,75,exact heads,85837.0,85837.0,0.0,PASS,
+caballos,09,75,exact heads,2664.0,2664.0,0.0,PASS,
+mulas,BO,75,exact heads,33243.0,33243.0,0.0,PASS,
+mulas,01,75,exact heads,4959.0,4959.0,0.0,PASS,
+mulas,02,75,exact heads,5454.0,5454.0,0.0,PASS,
+mulas,03,75,exact heads,4612.0,4612.0,0.0,PASS,
+mulas,04,75,exact heads,117.0,117.0,0.0,PASS,
+mulas,05,75,exact heads,2246.0,2246.0,0.0,PASS,
+mulas,06,75,exact heads,1371.0,1371.0,0.0,PASS,
+mulas,07,75,exact heads,6831.0,6831.0,0.0,PASS,
+mulas,08,75,exact heads,7357.0,7357.0,0.0,PASS,
+mulas,09,75,exact heads,296.0,296.0,0.0,PASS,
+asnos,BO,75,exact heads,307684.0,307684.0,0.0,PASS,
+asnos,01,75,exact heads,47797.0,47797.0,0.0,PASS,
+asnos,02,75,exact heads,65094.0,65094.0,0.0,PASS,
+asnos,03,75,exact heads,38750.0,38750.0,0.0,PASS,
+asnos,04,75,exact heads,10369.0,10369.0,0.0,PASS,
+asnos,05,75,exact heads,102377.0,102377.0,0.0,PASS,
+asnos,06,75,exact heads,27250.0,27250.0,0.0,PASS,
+asnos,07,75,exact heads,15120.0,15120.0,0.0,PASS,
+asnos,08,75,exact heads,871.0,871.0,0.0,PASS,
+asnos,09,75,exact heads,56.0,56.0,0.0,PASS,
+conejos,BO,75,exact heads,112239.0,112239.0,0.0,PASS,
+conejos,01,75,exact heads,2493.0,2493.0,0.0,PASS,
+conejos,02,75,exact heads,36329.0,36329.0,0.0,PASS,
+conejos,03,75,exact heads,55011.0,55011.0,0.0,PASS,
+conejos,04,75,exact heads,5559.0,5559.0,0.0,PASS,
+conejos,05,75,exact heads,6677.0,6677.0,0.0,PASS,
+conejos,06,75,exact heads,2115.0,2115.0,0.0,PASS,
+conejos,07,75,exact heads,3942.0,3942.0,0.0,PASS,
+conejos,08,75,exact heads,90.0,90.0,0.0,PASS,
+conejos,09,75,exact heads,23.0,23.0,0.0,PASS,
+cuyes,BO,75,exact heads,647611.0,647611.0,0.0,PASS,
+cuyes,01,75,exact heads,1848.0,1848.0,0.0,PASS,
+cuyes,02,75,exact heads,234240.0,234240.0,0.0,PASS,
+cuyes,03,75,exact heads,400206.0,400206.0,0.0,PASS,
+cuyes,04,75,exact heads,4710.0,4710.0,0.0,PASS,
+cuyes,05,75,exact heads,4144.0,4144.0,0.0,PASS,
+cuyes,06,75,exact heads,603.0,603.0,0.0,PASS,
+cuyes,07,75,exact heads,1528.0,1528.0,0.0,PASS,
+cuyes,08,75,exact heads,250.0,250.0,0.0,PASS,
+cuyes,09,75,exact heads,82.0,82.0,0.0,PASS,
+c_gallinas,BO,82,exact heads,5158828.0,5158828.0,0.0,PASS,
+c_gallinas,01,82,exact heads,487992.0,487992.0,0.0,PASS,
+c_gallinas,02,82,exact heads,627896.0,627896.0,0.0,PASS,
+c_gallinas,03,82,exact heads,843721.0,843721.0,0.0,PASS,
+c_gallinas,04,82,exact heads,48027.0,48027.0,0.0,PASS,
+c_gallinas,05,82,exact heads,222646.0,222646.0,0.0,PASS,
+c_gallinas,06,82,exact heads,514859.0,514859.0,0.0,PASS,
+c_gallinas,07,82,exact heads,1840622.0,1840622.0,0.0,PASS,
+c_gallinas,08,82,exact heads,389633.0,389633.0,0.0,PASS,
+c_gallinas,09,82,exact heads,183432.0,183432.0,0.0,PASS,
+c_pavos,BO,82,exact heads,47180.0,47180.0,0.0,PASS,
+c_pavos,01,82,exact heads,3013.0,3013.0,0.0,PASS,
+c_pavos,02,82,exact heads,2610.0,2610.0,0.0,PASS,
+c_pavos,03,82,exact heads,14936.0,14936.0,0.0,PASS,
+c_pavos,04,82,exact heads,502.0,502.0,0.0,PASS,
+c_pavos,05,82,exact heads,760.0,760.0,0.0,PASS,
+c_pavos,06,82,exact heads,11588.0,11588.0,0.0,PASS,
+c_pavos,07,82,exact heads,11700.0,11700.0,0.0,PASS,
+c_pavos,08,82,exact heads,1561.0,1561.0,0.0,PASS,
+c_pavos,09,82,exact heads,510.0,510.0,0.0,PASS,
+c_patos,BO,82,exact heads,605075.0,605075.0,0.0,PASS,
+c_patos,01,82,exact heads,31013.0,31013.0,0.0,PASS,
+c_patos,02,82,exact heads,23807.0,23807.0,0.0,PASS,
+c_patos,03,82,exact heads,136330.0,136330.0,0.0,PASS,
+c_patos,04,82,exact heads,1447.0,1447.0,0.0,PASS,
+c_patos,05,82,exact heads,3421.0,3421.0,0.0,PASS,
+c_patos,06,82,exact heads,49697.0,49697.0,0.0,PASS,
+c_patos,07,82,exact heads,275114.0,275114.0,0.0,PASS,
+c_patos,08,82,exact heads,62013.0,62013.0,0.0,PASS,
+c_patos,09,82,exact heads,22233.0,22233.0,0.0,PASS,
+c_codorniz,BO,82,exact heads,22143.0,22143.0,0.0,PASS,
+c_codorniz,01,82,exact heads,474.0,474.0,0.0,PASS,
+c_codorniz,02,82,exact heads,10994.0,10994.0,0.0,PASS,
+c_codorniz,03,82,exact heads,3368.0,3368.0,0.0,PASS,
+c_codorniz,04,82,exact heads,123.0,123.0,0.0,PASS,
+c_codorniz,05,82,exact heads,400.0,400.0,0.0,PASS,
+c_codorniz,06,82,exact heads,558.0,558.0,0.0,PASS,
+c_codorniz,07,82,exact heads,5374.0,5374.0,0.0,PASS,
+c_codorniz,08,82,exact heads,680.0,680.0,0.0,PASS,
+c_codorniz,09,82,exact heads,172.0,172.0,0.0,PASS,
+farm_poultry_total,BO,77,exact heads,36658416.0,36658416.0,0.0,PASS,
+cattle_including_oxen,BO,60,exact heads,8315504.0,8315504.0,0.0,PASS,
+cattle_including_oxen,01,60,exact heads,460682.0,460682.0,0.0,PASS,
+cattle_including_oxen,02,60,exact heads,501753.0,501753.0,0.0,PASS,
+cattle_including_oxen,03,60,exact heads,371959.0,371959.0,0.0,PASS,
+cattle_including_oxen,04,60,exact heads,79950.0,79950.0,0.0,PASS,
+cattle_including_oxen,05,60,exact heads,156870.0,156870.0,0.0,PASS,
+cattle_including_oxen,06,60,exact heads,393650.0,393650.0,0.0,PASS,
+cattle_including_oxen,07,60,exact heads,3598955.0,3598955.0,0.0,PASS,
+cattle_including_oxen,08,60,exact heads,2631013.0,2631013.0,0.0,PASS,
+cattle_including_oxen,09,60,exact heads,120672.0,120672.0,0.0,PASS,
+farm_poultry_total,BO,77,"round_half_up(heads/1000,1); published precision only",36658.4,36658.4,0.0,PASS,36658416.0
+g_parrilleros,BO,77,"round_half_up(heads/1000,1); published precision only",25806.7,25806.7,0.0,PASS,25806729.0
+g_postura,BO,77,"round_half_up(heads/1000,1); published precision only",4630.1,4630.1,0.0,PASS,4630119.0
+g_cria,BO,77,"round_half_up(heads/1000,1); published precision only",700.8,700.8,0.0,PASS,700823.0
+g_reproductora,BO,77,"round_half_up(heads/1000,1); published precision only",1883.2,1883.2,0.0,PASS,1883187.0
+g_gallos,BO,77,"round_half_up(heads/1000,1); published precision only",351.2,351.2,0.0,PASS,351162.0
+g__bebes,BO,77,"round_half_up(heads/1000,1); published precision only",3005.1,3005.1,0.0,PASS,3005108.0
+other_farm_birds,BO,77,"round_half_up(heads/1000,1); published precision only",281.3,281.3,0.0,PASS,281288.0
+farm_poultry_total,01,77,"round_half_up(heads/1000,1); published precision only",792.6,792.6,0.0,PASS,792589.0
+g_parrilleros,01,77,"round_half_up(heads/1000,1); published precision only",587.2,587.2,0.0,PASS,587246.0
+g_postura,01,77,"round_half_up(heads/1000,1); published precision only",62.0,62.0,0.0,PASS,62032.0
+g_cria,01,77,"round_half_up(heads/1000,1); published precision only",6.3,6.3,0.0,PASS,6269.0
+g_reproductora,01,77,"round_half_up(heads/1000,1); published precision only",8.6,8.6,0.0,PASS,8559.0
+g_gallos,01,77,"round_half_up(heads/1000,1); published precision only",4.7,4.7,0.0,PASS,4728.0
+g__bebes,01,77,"round_half_up(heads/1000,1); published precision only",123.3,123.3,0.0,PASS,123259.0
+other_farm_birds,01,77,"round_half_up(heads/1000,1); published precision only",0.5,0.5,0.0,PASS,496.0
+farm_poultry_total,02,77,"round_half_up(heads/1000,1); published precision only",618.4,618.4,0.0,PASS,618377.0
+g_parrilleros,02,77,"round_half_up(heads/1000,1); published precision only",419.2,419.2,0.0,PASS,419190.0
+g_postura,02,77,"round_half_up(heads/1000,1); published precision only",75.1,75.1,0.0,PASS,75088.0
+g_cria,02,77,"round_half_up(heads/1000,1); published precision only",17.2,17.2,0.0,PASS,17203.0
+g_reproductora,02,77,"round_half_up(heads/1000,1); published precision only",12.6,12.6,0.0,PASS,12563.0
+g_gallos,02,77,"round_half_up(heads/1000,1); published precision only",6.6,6.6,0.0,PASS,6644.0
+g__bebes,02,77,"round_half_up(heads/1000,1); published precision only",86.1,86.1,0.0,PASS,86066.0
+other_farm_birds,02,77,"round_half_up(heads/1000,1); published precision only",1.6,1.6,0.0,PASS,1623.0
+farm_poultry_total,03,77,"round_half_up(heads/1000,1); published precision only",12085.0,12085.0,0.0,PASS,12084950.0
+g_parrilleros,03,77,"round_half_up(heads/1000,1); published precision only",9583.0,9583.0,0.0,PASS,9582981.0
+g_postura,03,77,"round_half_up(heads/1000,1); published precision only",1177.6,1177.6,0.0,PASS,1177643.0
+g_cria,03,77,"round_half_up(heads/1000,1); published precision only",101.1,101.1,0.0,PASS,101149.0
+g_reproductora,03,77,"round_half_up(heads/1000,1); published precision only",570.9,570.9,0.0,PASS,570865.0
+g_gallos,03,77,"round_half_up(heads/1000,1); published precision only",194.1,194.1,0.0,PASS,194103.0
+g__bebes,03,77,"round_half_up(heads/1000,1); published precision only",386.7,386.7,0.0,PASS,386721.0
+other_farm_birds,03,77,"round_half_up(heads/1000,1); published precision only",71.5,71.5,0.0,PASS,71488.0
+farm_poultry_total,04,77,"round_half_up(heads/1000,1); published precision only",3.2,3.2,0.0,PASS,3216.0
+g_parrilleros,04,77,"round_half_up(heads/1000,1); published precision only",0.0,0.0,0.0,PASS,0.0
+g_postura,04,77,"round_half_up(heads/1000,1); published precision only",2.6,2.6,0.0,PASS,2580.0
+g_cria,04,77,"round_half_up(heads/1000,1); published precision only",0.2,0.2,0.0,PASS,181.0
+g_reproductora,04,77,"round_half_up(heads/1000,1); published precision only",0.3,0.3,0.0,PASS,285.0
+g_gallos,04,77,"round_half_up(heads/1000,1); published precision only",0.1,0.1,0.0,PASS,68.0
+g__bebes,04,77,"round_half_up(heads/1000,1); published precision only",0.0,0.0,0.0,PASS,45.0
+other_farm_birds,04,77,"round_half_up(heads/1000,1); published precision only",0.1,0.1,0.0,PASS,57.0
+farm_poultry_total,05,77,"round_half_up(heads/1000,1); published precision only",108.1,108.1,0.0,PASS,108122.0
+g_parrilleros,05,77,"round_half_up(heads/1000,1); published precision only",75.4,75.4,0.0,PASS,75414.0
+g_postura,05,77,"round_half_up(heads/1000,1); published precision only",6.4,6.4,0.0,PASS,6441.0
+g_cria,05,77,"round_half_up(heads/1000,1); published precision only",0.2,0.2,0.0,PASS,185.0
+g_reproductora,05,77,"round_half_up(heads/1000,1); published precision only",1.9,1.9,0.0,PASS,1912.0
+g_gallos,05,77,"round_half_up(heads/1000,1); published precision only",4.1,4.1,0.0,PASS,4064.0
+g__bebes,05,77,"round_half_up(heads/1000,1); published precision only",20.0,20.0,0.0,PASS,20047.0
+other_farm_birds,05,77,"round_half_up(heads/1000,1); published precision only",0.1,0.1,0.0,PASS,59.0
+farm_poultry_total,06,77,"round_half_up(heads/1000,1); published precision only",1349.6,1349.6,0.0,PASS,1349599.0
+g_parrilleros,06,77,"round_half_up(heads/1000,1); published precision only",1013.2,1013.2,0.0,PASS,1013215.0
+g_postura,06,77,"round_half_up(heads/1000,1); published precision only",168.9,168.9,0.0,PASS,168911.0
+g_cria,06,77,"round_half_up(heads/1000,1); published precision only",10.1,10.1,0.0,PASS,10142.0
+g_reproductora,06,77,"round_half_up(heads/1000,1); published precision only",44.7,44.7,0.0,PASS,44690.0
+g_gallos,06,77,"round_half_up(heads/1000,1); published precision only",10.4,10.4,0.0,PASS,10361.0
+g__bebes,06,77,"round_half_up(heads/1000,1); published precision only",101.7,101.7,0.0,PASS,101658.0
+other_farm_birds,06,77,"round_half_up(heads/1000,1); published precision only",0.6,0.6,0.0,PASS,622.0
+farm_poultry_total,07,77,"round_half_up(heads/1000,1); published precision only",21537.6,21537.6,0.0,PASS,21537634.0
+g_parrilleros,07,77,"round_half_up(heads/1000,1); published precision only",14043.1,14043.1,0.0,PASS,14043135.0
+g_postura,07,77,"round_half_up(heads/1000,1); published precision only",3105.9,3105.9,0.0,PASS,3105931.0
+g_cria,07,77,"round_half_up(heads/1000,1); published precision only",558.0,558.0,0.0,PASS,558021.0
+g_reproductora,07,77,"round_half_up(heads/1000,1); published precision only",1240.3,1240.3,0.0,PASS,1240329.0
+g_gallos,07,77,"round_half_up(heads/1000,1); published precision only",129.3,129.3,0.0,PASS,129270.0
+g__bebes,07,77,"round_half_up(heads/1000,1); published precision only",2256.5,2256.5,0.0,PASS,2256506.0
+other_farm_birds,07,77,"round_half_up(heads/1000,1); published precision only",204.4,204.4,0.0,PASS,204442.0
+farm_poultry_total,08,77,"round_half_up(heads/1000,1); published precision only",157.5,157.5,0.0,PASS,157514.0
+g_parrilleros,08,77,"round_half_up(heads/1000,1); published precision only",83.9,83.9,0.0,PASS,83938.0
+g_postura,08,77,"round_half_up(heads/1000,1); published precision only",29.8,29.8,0.0,PASS,29763.0
+g_cria,08,77,"round_half_up(heads/1000,1); published precision only",7.1,7.1,0.0,PASS,7094.0
+g_reproductora,08,77,"round_half_up(heads/1000,1); published precision only",3.4,3.4,0.0,PASS,3446.0
+g_gallos,08,77,"round_half_up(heads/1000,1); published precision only",1.5,1.5,0.0,PASS,1474.0
+g__bebes,08,77,"round_half_up(heads/1000,1); published precision only",29.5,29.5,0.0,PASS,29505.0
+other_farm_birds,08,77,"round_half_up(heads/1000,1); published precision only",2.3,2.3,0.0,PASS,2294.0
+farm_poultry_total,09,77,"round_half_up(heads/1000,1); published precision only",6.4,6.4,0.0,PASS,6415.0
+g_parrilleros,09,77,"round_half_up(heads/1000,1); published precision only",1.6,1.6,0.0,PASS,1610.0
+g_postura,09,77,"round_half_up(heads/1000,1); published precision only",1.7,1.7,0.0,PASS,1730.0
+g_cria,09,77,"round_half_up(heads/1000,1); published precision only",0.6,0.6,0.0,PASS,579.0
+g_reproductora,09,77,"round_half_up(heads/1000,1); published precision only",0.5,0.5,0.0,PASS,538.0
+g_gallos,09,77,"round_half_up(heads/1000,1); published precision only",0.5,0.5,0.0,PASS,450.0
+g__bebes,09,77,"round_half_up(heads/1000,1); published precision only",1.3,1.3,0.0,PASS,1301.0
+other_farm_birds,09,77,"round_half_up(heads/1000,1); published precision only",0.2,0.2,0.0,PASS,207.0

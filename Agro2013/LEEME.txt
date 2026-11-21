@@ -1,0 +1,62 @@
+Versión ampliada C04: seis cultivos. Métodos, programas y resultados actuales: ../RedatamExploration/00_README.md. El texto siguiente conserva la documentación original C02.
+
+CNA2013 · geo4bolivia339 · Contract02 v1.2
+Autor: Favio Leiva. Powered by Codex + GPT6 Astra High Fast.
+
+PRIMERO: CONTEOS ABSOLUTOS / ABSOLUTE COUNTS FIRST
+animal_population_native_2013.csv: 339 municipalities, 28 animal categories;
+complete six-digit text codes, source names and published zeros preserved.
+bovino EXCLUDES oxen (INE table62); bueyes is separate. No all-category total.
+Open index.html with assets/ alongside it. All data are embedded; no network is
+needed for local interaction. ES/EN switches the interface. Native names remain.
+Use the topic and variable selectors, search and map/table selection.
+58 additional source variables cover land (18), equipment (22), family activities
+(17) and UPA (1); CSVs and definitions: other_variables_*.csv.
+Land values are published hectares, not plant counts. Detailed Redatam records
+have not been decoded. sup, caza, pesca and vbp_x_upa are excluded pending definitions. SVG export captures
+the selected animal/measure and credits. Long table scrolls on mobile.
+
+GEOGRAFÍA / GEOGRAPHY
+Operational one-to-one link to 339 original 2015 reference polygons. 333 explicit
+ASDF links and six name links corroborated by hierarchy/location. Province label
+variants are retained. No spatial weights or boundary edits. Historical2013/2015
+identity remains unverified. Holes are documented; no independent land mask
+supports labelling them errors. Geometry is optimized and not for new zonal weights.
+GeoPackage layer: animals_2013. Original geometries and all count values retained.
+
+EXTENSIÓN SECUNDARIA / SECONDARY EXTENSION
+animal_indicators_2013.csv stores each count, both denominators and both ratios.
+Heads/all UPAs is not herd size among owners. Species-owning municipal UPA counts
+are unavailable in the selected aggregate. Family members8+ are not used because
+their producer universe is narrower than the animal numerator.
+P_est2013 = P2012 + (P2024-P2012)/12, unrounded before rates. This is an estimated
+census-year convention, not an official projection or observed2013 population.
+Zero/nonpositive denominator -> missing rate with explicit cause. Counts remain
+observed, while geographic and estimated-denominator limitations remain visible.
+
+EXPLORACIÓN / EXPLORATION
+catalogo_plantas_y_otras_variables.csv inventories municipal and Redatam fields,
+plus the crop workbook. crop_source_inventory.csv counts records by crop code,
+label and campaign; these are NOT numbers of plants or UPAs. Exploration report
+distinguishes hectares, quintales, scattered fruit-tree counts and medicinal
+species presence. No crop production or plant-stock indicator was manufactured.
+Observed CM/CP/OT cultivation types need fuller definitions; campaign25 is not
+observed separately. Crop/land areas must not be treated as counts of plants.
+The Peru comparison is conceptual: the inspected source covers population and
+housing, not agricultural stocks. No bilateral agricultural equivalence claimed.
+
+CONTROLES Y LÍMITES / CONTROLS AND LIMITS
+published_control_comparison.csv separates exact counts from table77 rounding
+in thousands to one decimal (ROUND_HALF_UP). Four farm-bird species have only a
+grouped official control here; native values are independently preserved for each.
+Questionnaire download/visual inspection unavailable; preserved Redatam question
+metadata reviewed. No microdata decoding or original imputation reconstructed.
+
+REPRODUCCIÓN / REPRODUCTION
+From project root with recorded local Python dependencies:
+python -B Outputs/Contract_02/Evidence/Code/run_contract02.py --resume
+python -B Outputs/Contract_02/Evidence/Code/validate_contract02.py
+Runner writes only C02 derived outputs. Sources/C01/Maps remain unchanged. The
+runner does not download from the internet. Crop sources are already extracted
+with archive-member hashes. Validation records environment, outputs and controls.
+No publication performed. PENDING HUMAN ACCEPTANCE.

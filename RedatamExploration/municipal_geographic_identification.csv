@@ -1,0 +1,340 @@
+municipio_id_2013,municipio_nombre,departamento_codigo,provincia_codigo,mun_local,redcoden_numeric_source,year,geo4bolivia_reference_code,asdf_id,link_scope
+010101,Sucre,01,0101,01,10101,2013,010101,254,Existing operational C02 link; historical boundary identity not certified
+010102,Yotala,01,0101,02,10102,2013,010102,201,Existing operational C02 link; historical boundary identity not certified
+010103,Poroma,01,0101,03,10103,2013,010103,300,Existing operational C02 link; historical boundary identity not certified
+010201,Azurduy,01,0102,01,10201,2013,010201,174,Existing operational C02 link; historical boundary identity not certified
+010202,Tarvita,01,0102,02,10202,2013,010202,186,Existing operational C02 link; historical boundary identity not certified
+010301,Zudáñez,01,0103,01,10301,2013,010301,206,Existing operational C02 link; historical boundary identity not certified
+010302,Presto,01,0103,02,10302,2013,010302,255,Existing operational C02 link; historical boundary identity not certified
+010303,Mojocoya,01,0103,03,10303,2013,010303,244,Existing operational C02 link; historical boundary identity not certified
+010304,Icla,01,0103,04,10304,2013,010304,200,Existing operational C02 link; historical boundary identity not certified
+010401,Padilla,01,0104,01,10401,2013,010401,243,Existing operational C02 link; historical boundary identity not certified
+010402,Tomina,01,0104,02,10402,2013,010402,203,Existing operational C02 link; historical boundary identity not certified
+010403,Sopachuy,01,0104,03,10403,2013,010403,199,Existing operational C02 link; historical boundary identity not certified
+010404,Villa Alcalá,01,0104,04,10404,2013,010404,198,Existing operational C02 link; historical boundary identity not certified
+010405,El Villar,01,0104,05,10405,2013,010405,190,Existing operational C02 link; historical boundary identity not certified
+010501,Monteagudo,01,0105,01,10501,2013,010501,194,Existing operational C02 link; historical boundary identity not certified
+010502,Huacareta,01,0105,02,10502,2013,010502,193,Existing operational C02 link; historical boundary identity not certified
+010601,Tarabuco,01,0106,01,10601,2013,010601,205,Existing operational C02 link; historical boundary identity not certified
+010602,Yamparáez,01,0106,02,10602,2013,010602,202,Existing operational C02 link; historical boundary identity not certified
+010701,Camargo,01,0107,01,10701,2013,010701,336,Existing operational C02 link; historical boundary identity not certified
+010702,San Lucas,01,0107,02,10702,2013,010702,35,Existing operational C02 link; historical boundary identity not certified
+010703,Incahuasi,01,0107,03,10703,2013,010703,37,Existing operational C02 link; historical boundary identity not certified
+010704,Villa Charcas,01,0107,04,10704,2013,010704,322,Existing operational C02 link; historical boundary identity not certified
+010801,Villa Serrano,01,0108,01,10801,2013,010801,246,Existing operational C02 link; historical boundary identity not certified
+010901,Villa Abecia,01,0109,01,10901,2013,010901,105,Existing operational C02 link; historical boundary identity not certified
+010902,Culpina,01,0109,02,10902,2013,010902,36,Existing operational C02 link; historical boundary identity not certified
+010903,Las Carreras,01,0109,03,10903,2013,010903,104,Existing operational C02 link; historical boundary identity not certified
+011001,Muyupampa,01,0110,01,11001,2013,011001,241,Existing operational C02 link; historical boundary identity not certified
+011002,Huacaya,01,0110,02,11002,2013,011002,191,Existing operational C02 link; historical boundary identity not certified
+011003,Macharetí,01,0110,03,11003,2013,011003,247,Existing operational C02 link; historical boundary identity not certified
+020101,La Paz,02,0201,01,20101,2013,020101,176,Existing operational C02 link; historical boundary identity not certified
+020102,Palca,02,0201,02,20102,2013,020102,158,Existing operational C02 link; historical boundary identity not certified
+020103,Mecapaca,02,0201,03,20103,2013,020103,157,Existing operational C02 link; historical boundary identity not certified
+020104,Achocalla,02,0201,04,20104,2013,020104,159,Existing operational C02 link; historical boundary identity not certified
+020105,El Alto,02,0201,05,20105,2013,020105,160,Existing operational C02 link; historical boundary identity not certified
+020201,Achacachi,02,0202,01,20201,2013,020201,326,Existing operational C02 link; historical boundary identity not certified
+020202,Ancoraimes,02,0202,02,20202,2013,020202,41,Existing operational C02 link; historical boundary identity not certified
+020203,Chua Cocani,02,0202,03,20203,2013,020203,239,Existing operational C02 link; historical boundary identity not certified
+020204,Huarina,02,0202,04,20204,2013,020204,237,Existing operational C02 link; historical boundary identity not certified
+020205,Santiago de Huata,02,0202,05,20205,2013,020205,230,Existing operational C02 link; historical boundary identity not certified
+020206,Huatajata,02,0202,06,20206,2013,020206,155,Existing operational C02 link; historical boundary identity not certified
+020301,Corocoro,02,0203,01,20301,2013,020301,25,Existing operational C02 link; historical boundary identity not certified
+020302,Caquiaviri,02,0203,02,20302,2013,020302,112,Existing operational C02 link; historical boundary identity not certified
+020303,Calacoto,02,0203,03,20303,2013,020303,139,Existing operational C02 link; historical boundary identity not certified
+020304,Comanche,02,0203,04,20304,2013,020304,150,Existing operational C02 link; historical boundary identity not certified
+020305,Charaña,02,0203,05,20305,2013,020305,325,Existing operational C02 link; historical boundary identity not certified
+020306,Waldo Ballivián,02,0203,06,20306,2013,020306,307,Existing operational C02 link; historical boundary identity not certified
+020307,Nazacara de Pacajes,02,0203,07,20307,2013,020307,111,Existing operational C02 link; historical boundary identity not certified
+020308,Callapa,02,0203,08,20308,2013,020308,134,Existing operational C02 link; historical boundary identity not certified
+020401,Puerto Acosta,02,0204,01,20401,2013,020401,323,Existing operational C02 link; historical boundary identity not certified
+020402,Mocomoco,02,0204,02,20402,2013,020402,51,Existing operational C02 link; historical boundary identity not certified
+020403,Puerto Carabuco,02,0204,03,20403,2013,020403,43,Existing operational C02 link; historical boundary identity not certified
+020404,Humanata,02,0204,04,20404,2013,020404,240,Existing operational C02 link; historical boundary identity not certified
+020405,Escoma,02,0204,05,20405,2013,020405,324,Existing operational C02 link; historical boundary identity not certified
+020501,Chuma,02,0205,01,20501,2013,020501,179,Existing operational C02 link; historical boundary identity not certified
+020502,Ayata,02,0205,02,20502,2013,020502,305,Existing operational C02 link; historical boundary identity not certified
+020503,Aucapata,02,0205,03,20503,2013,020503,172,Existing operational C02 link; historical boundary identity not certified
+020601,Sorata,02,0206,01,20601,2013,020601,177,Existing operational C02 link; historical boundary identity not certified
+020602,Guanay,02,0206,02,20602,2013,020602,180,Existing operational C02 link; historical boundary identity not certified
+020603,Tacacoma,02,0206,03,20603,2013,020603,192,Existing operational C02 link; historical boundary identity not certified
+020604,Quiabaya,02,0206,04,20604,2013,020604,171,Existing operational C02 link; historical boundary identity not certified
+020605,Combaya,02,0206,05,20605,2013,020605,168,Existing operational C02 link; historical boundary identity not certified
+020606,Tipuani,02,0206,06,20606,2013,020606,175,Existing operational C02 link; historical boundary identity not certified
+020607,Mapiri,02,0206,07,20607,2013,020607,182,Existing operational C02 link; historical boundary identity not certified
+020608,Teoponte,02,0206,08,20608,2013,020608,181,Existing operational C02 link; historical boundary identity not certified
+020701,Apolo,02,0207,01,20701,2013,020701,210,Existing operational C02 link; historical boundary identity not certified
+020702,Pelechuco,02,0207,02,20702,2013,020702,208,Existing operational C02 link; historical boundary identity not certified
+020801,Viacha,02,0208,01,20801,2013,020801,152,Existing operational C02 link; historical boundary identity not certified
+020802,Guaqui,02,0208,02,20802,2013,020802,165,Existing operational C02 link; historical boundary identity not certified
+020803,Tiahuanacu,02,0208,03,20803,2013,020803,75,Existing operational C02 link; historical boundary identity not certified
+020804,Desaguadero,02,0208,04,20804,2013,020804,163,Existing operational C02 link; historical boundary identity not certified
+020805,San Andrés de Machaca,02,0208,05,20805,2013,020805,328,Existing operational C02 link; historical boundary identity not certified
+020806,Jesús de Machaca,02,0208,06,20806,2013,020806,164,Existing operational C02 link; historical boundary identity not certified
+020807,Taraco,02,0208,07,20807,2013,020807,327,Existing operational C02 link; historical boundary identity not certified
+020901,Luribay,02,0209,01,20901,2013,020901,116,Existing operational C02 link; historical boundary identity not certified
+020902,Sapahaqui,02,0209,02,20902,2013,020902,27,Existing operational C02 link; historical boundary identity not certified
+020903,Yaco,02,0209,03,20903,2013,020903,138,Existing operational C02 link; historical boundary identity not certified
+020904,Malla,02,0209,04,20904,2013,020904,149,Existing operational C02 link; historical boundary identity not certified
+020905,Cairoma,02,0209,05,20905,2013,020905,28,Existing operational C02 link; historical boundary identity not certified
+021001,Inquisivi,02,0210,01,21001,2013,021001,60,Existing operational C02 link; historical boundary identity not certified
+021002,Quime,02,0210,02,21002,2013,021002,154,Existing operational C02 link; historical boundary identity not certified
+021003,Cajuata,02,0210,03,21003,2013,021003,59,Existing operational C02 link; historical boundary identity not certified
+021004,Colquiri,02,0210,04,21004,2013,021004,29,Existing operational C02 link; historical boundary identity not certified
+021005,Ichoca,02,0210,05,21005,2013,021005,30,Existing operational C02 link; historical boundary identity not certified
+021006,Villa Libertad Licoma,02,0210,06,21006,2013,021006,153,Existing operational C02 link; historical boundary identity not certified
+021101,Chulumani,02,0211,01,21101,2013,021101,62,Existing operational C02 link; historical boundary identity not certified
+021102,Irupana,02,0211,02,21102,2013,021102,61,Existing operational C02 link; historical boundary identity not certified
+021103,Yanacachi,02,0211,03,21103,2013,021103,161,Existing operational C02 link; historical boundary identity not certified
+021104,Palos Blancos,02,0211,04,21104,2013,021104,209,Existing operational C02 link; historical boundary identity not certified
+021105,La Asunta,02,0211,05,21105,2013,021105,178,Existing operational C02 link; historical boundary identity not certified
+021201,Pucarani,02,0212,01,21201,2013,021201,167,Existing operational C02 link; historical boundary identity not certified
+021202,Laja,02,0212,02,21202,2013,021202,156,Existing operational C02 link; historical boundary identity not certified
+021203,Batallas,02,0212,03,21203,2013,021203,242,Existing operational C02 link; historical boundary identity not certified
+021204,Puerto Pérez,02,0212,04,21204,2013,021204,231,Existing operational C02 link; historical boundary identity not certified
+021301,Sica Sica,02,0213,01,21301,2013,021301,142,Existing operational C02 link; historical boundary identity not certified
+021302,Umala,02,0213,02,21302,2013,021302,17,Existing operational C02 link; historical boundary identity not certified
+021303,Ayo Ayo,02,0213,03,21303,2013,021303,173,Existing operational C02 link; historical boundary identity not certified
+021304,Calamarca,02,0213,04,21304,2013,021304,151,Existing operational C02 link; historical boundary identity not certified
+021305,Patacamaya,02,0213,05,21305,2013,021305,143,Existing operational C02 link; historical boundary identity not certified
+021306,Colquencha,02,0213,06,21306,2013,021306,144,Existing operational C02 link; historical boundary identity not certified
+021307,Collana,02,0213,07,21307,2013,021307,130,Existing operational C02 link; historical boundary identity not certified
+021401,Coroico,02,0214,01,21401,2013,021401,169,Existing operational C02 link; historical boundary identity not certified
+021402,Coripata,02,0214,02,21402,2013,021402,170,Existing operational C02 link; historical boundary identity not certified
+021501,Ixiamas,02,0215,01,21501,2013,021501,304,Existing operational C02 link; historical boundary identity not certified
+021502,San Buenaventura,02,0215,02,21502,2013,021502,212,Existing operational C02 link; historical boundary identity not certified
+021601,Charazani,02,0216,01,21601,2013,021601,183,Existing operational C02 link; historical boundary identity not certified
+021602,Curva,02,0216,02,21602,2013,021602,207,Existing operational C02 link; historical boundary identity not certified
+021701,Copacabana,02,0217,01,21701,2013,021701,185,Existing operational C02 link; historical boundary identity not certified
+021702,San Pedro de Tiquina,02,0217,02,21702,2013,021702,196,Existing operational C02 link; historical boundary identity not certified
+021703,Tito Yupanqui,02,0217,03,21703,2013,021703,166,Existing operational C02 link; historical boundary identity not certified
+021801,San Pedro de Curahuara,02,0218,01,21801,2013,021801,20,Existing operational C02 link; historical boundary identity not certified
+021802,Papel Pampa,02,0218,02,21802,2013,021802,16,Existing operational C02 link; historical boundary identity not certified
+021803,Chacarilla,02,0218,03,21803,2013,021803,14,Existing operational C02 link; historical boundary identity not certified
+021901,Santiago de Machaca,02,0219,01,21901,2013,021901,145,Existing operational C02 link; historical boundary identity not certified
+021902,Catacora,02,0219,02,21902,2013,021902,137,Existing operational C02 link; historical boundary identity not certified
+022001,Caranavi,02,0220,01,22001,2013,022001,236,Existing operational C02 link; historical boundary identity not certified
+022002,Alto Beni,02,0220,02,22002,2013,022002,235,Existing operational C02 link; historical boundary identity not certified
+030101,Cochabamba,03,0301,01,30101,2013,030101,135,Existing operational C02 link; historical boundary identity not certified
+030201,Aiquile,03,0302,01,30201,2013,030201,5,Existing operational C02 link; historical boundary identity not certified
+030202,Pasorapa,03,0302,02,30202,2013,030202,334,Existing operational C02 link; historical boundary identity not certified
+030203,Omereque,03,0302,03,30203,2013,030203,53,Existing operational C02 link; historical boundary identity not certified
+030301,Independencia,03,0303,01,30301,2013,030301,292,Existing operational C02 link; historical boundary identity not certified
+030302,Morochata,03,0303,02,30302,2013,030302,106,Existing operational C02 link; historical boundary identity not certified
+030303,Cocapata,03,0303,03,30303,2013,030303,251,Existing operational C02 link; historical boundary identity not certified
+030401,Tarata,03,0304,01,30401,2013,030401,85,Existing operational C02 link; historical boundary identity not certified
+030402,Anzaldo,03,0304,02,30402,2013,030402,120,Existing operational C02 link; historical boundary identity not certified
+030403,Arbieto,03,0304,03,30403,2013,030403,15,Existing operational C02 link; historical boundary identity not certified
+030404,Sacabamba,03,0304,04,30404,2013,030404,119,Existing operational C02 link; historical boundary identity not certified
+030501,Arani,03,0305,01,30501,2013,030501,140,Existing operational C02 link; historical boundary identity not certified
+030502,Vacas,03,0305,02,30502,2013,030502,273,Existing operational C02 link; historical boundary identity not certified
+030601,Arque,03,0306,01,30601,2013,030601,24,Existing operational C02 link; historical boundary identity not certified
+030602,Tacopaya,03,0306,02,30602,2013,030602,125,Existing operational C02 link; historical boundary identity not certified
+030701,Capinota,03,0307,01,30701,2013,030701,23,Existing operational C02 link; historical boundary identity not certified
+030702,Santiváñez,03,0307,02,30702,2013,030702,128,Existing operational C02 link; historical boundary identity not certified
+030703,Sicaya,03,0307,03,30703,2013,030703,21,Existing operational C02 link; historical boundary identity not certified
+030801,Cliza,03,0308,01,30801,2013,030801,124,Existing operational C02 link; historical boundary identity not certified
+030802,Toco,03,0308,02,30802,2013,030802,121,Existing operational C02 link; historical boundary identity not certified
+030803,Tolata,03,0308,03,30803,2013,030803,131,Existing operational C02 link; historical boundary identity not certified
+030901,Quillacollo,03,0309,01,30901,2013,030901,79,Existing operational C02 link; historical boundary identity not certified
+030902,Sipesipe,03,0309,02,30902,2013,030902,83,Existing operational C02 link; historical boundary identity not certified
+030903,Tiquipaya,03,0309,03,30903,2013,030903,81,Existing operational C02 link; historical boundary identity not certified
+030904,Vinto,03,0309,04,30904,2013,030904,84,Existing operational C02 link; historical boundary identity not certified
+030905,Colcapirhua,03,0309,05,30905,2013,030905,82,Existing operational C02 link; historical boundary identity not certified
+031001,Sacaba,03,0310,01,31001,2013,031001,80,Existing operational C02 link; historical boundary identity not certified
+031002,Colomi,03,0310,02,31002,2013,031002,301,Existing operational C02 link; historical boundary identity not certified
+031003,Villa Tunari,03,0310,03,31003,2013,031003,266,Existing operational C02 link; historical boundary identity not certified
+031101,Tapacarí,03,0311,01,31101,2013,031101,162,Existing operational C02 link; historical boundary identity not certified
+031201,Totora,03,0312,01,31201,2013,031201,86,Existing operational C02 link; historical boundary identity not certified
+031202,Pojo,03,0312,02,31202,2013,031202,298,Existing operational C02 link; historical boundary identity not certified
+031203,Pocona,03,0312,03,31203,2013,031203,274,Existing operational C02 link; historical boundary identity not certified
+031204,Chimoré,03,0312,04,31204,2013,031204,267,Existing operational C02 link; historical boundary identity not certified
+031205,Puerto Villarroel,03,0312,05,31205,2013,031205,283,Existing operational C02 link; historical boundary identity not certified
+031206,Entre Ríos,03,0312,06,31206,2013,031206,299,Existing operational C02 link; historical boundary identity not certified
+031301,Mizque,03,0313,01,31301,2013,031301,333,Existing operational C02 link; historical boundary identity not certified
+031302,Vila Vila,03,0313,02,31302,2013,031302,303,Existing operational C02 link; historical boundary identity not certified
+031303,Alalay,03,0313,03,31303,2013,031303,302,Existing operational C02 link; historical boundary identity not certified
+031401,Punata,03,0314,01,31401,2013,031401,141,Existing operational C02 link; historical boundary identity not certified
+031402,Villa Rivero,03,0314,02,31402,2013,031402,12,Existing operational C02 link; historical boundary identity not certified
+031403,San Benito,03,0314,03,31403,2013,031403,26,Existing operational C02 link; historical boundary identity not certified
+031404,Tacachi,03,0314,04,31404,2013,031404,123,Existing operational C02 link; historical boundary identity not certified
+031405,Cuchumuela,03,0314,05,31405,2013,031405,122,Existing operational C02 link; historical boundary identity not certified
+031501,Bolívar,03,0315,01,31501,2013,031501,238,Existing operational C02 link; historical boundary identity not certified
+031601,Tiraque,03,0316,01,31601,2013,031601,268,Existing operational C02 link; historical boundary identity not certified
+031602,Shinahota,03,0316,02,31602,2013,031602,269,Existing operational C02 link; historical boundary identity not certified
+040101,Oruro,04,0401,01,40101,2013,040101,18,Existing operational C02 link; historical boundary identity not certified
+040102,Caracollo,04,0401,02,40102,2013,040102,136,Existing operational C02 link; historical boundary identity not certified
+040103,El Choro,04,0401,03,40103,2013,040103,126,Existing operational C02 link; historical boundary identity not certified
+040104,Pari - Paria - Soracachi,04,0401,04,40104,2013,040104,129,Existing operational C02 link; historical boundary identity not certified
+040201,Challapata,04,0402,01,40201,2013,040201,330,Existing operational C02 link; historical boundary identity not certified
+040202,Quillacas,04,0402,02,40202,2013,040202,1,Existing operational C02 link; historical boundary identity not certified
+040301,Corque,04,0403,01,40301,2013,040301,114,Existing operational C02 link; historical boundary identity not certified
+040302,Choque Cota,04,0403,02,40302,2013,040302,309,Existing operational C02 link; historical boundary identity not certified
+040401,Curahuara de Carangas,04,0404,01,40401,2013,040401,308,Existing operational C02 link; historical boundary identity not certified
+040402,Turco,04,0404,02,40402,2013,040402,66,Existing operational C02 link; historical boundary identity not certified
+040501,Huachacalla,04,0405,01,40501,2013,040501,9,Existing operational C02 link; historical boundary identity not certified
+040502,Escara,04,0405,02,40502,2013,040502,310,Existing operational C02 link; historical boundary identity not certified
+040503,Cruz de Machacamarca,04,0405,03,40503,2013,040503,109,Existing operational C02 link; historical boundary identity not certified
+040504,Yunguyo de Litoral,04,0405,04,40504,2013,040504,108,Existing operational C02 link; historical boundary identity not certified
+040505,Esmeralda,04,0405,05,40505,2013,040505,0,Existing operational C02 link; historical boundary identity not certified
+040601,Poopó,04,0406,01,40601,2013,040601,63,Existing operational C02 link; historical boundary identity not certified
+040602,Pazña,04,0406,02,40602,2013,040602,11,Existing operational C02 link; historical boundary identity not certified
+040603,Antequera,04,0406,03,40603,2013,040603,110,Existing operational C02 link; historical boundary identity not certified
+040701,Huanuni,04,0407,01,40701,2013,040701,8,Existing operational C02 link; historical boundary identity not certified
+040702,Machacamarca,04,0407,02,40702,2013,040702,117,Existing operational C02 link; historical boundary identity not certified
+040801,Salinas de Garci Mendoza,04,0408,01,40801,2013,040801,314,Existing operational C02 link; historical boundary identity not certified
+040802,Pampa Aullagas,04,0408,02,40802,2013,040802,2,Existing operational C02 link; historical boundary identity not certified
+040901,Sabaya,04,0409,01,40901,2013,040901,44,Existing operational C02 link; historical boundary identity not certified
+040902,Coipasa,04,0409,02,40902,2013,040902,311,Existing operational C02 link; historical boundary identity not certified
+040903,Chipaya,04,0409,03,40903,2013,040903,312,Existing operational C02 link; historical boundary identity not certified
+041001,Toledo,04,0410,01,41001,2013,041001,127,Existing operational C02 link; historical boundary identity not certified
+041101,Eucaliptus,04,0411,01,41101,2013,041101,133,Existing operational C02 link; historical boundary identity not certified
+041201,Santiago de Andamarca,04,0412,01,41201,2013,041201,13,Existing operational C02 link; historical boundary identity not certified
+041202,Belén de Andamarca,04,0412,02,41202,2013,041202,113,Existing operational C02 link; historical boundary identity not certified
+041301,San Pedro de Totora,04,0413,01,41301,2013,041301,64,Existing operational C02 link; historical boundary identity not certified
+041401,Huari,04,0414,01,41401,2013,041401,10,Existing operational C02 link; historical boundary identity not certified
+041501,La Rivera,04,0415,01,41501,2013,041501,71,Existing operational C02 link; historical boundary identity not certified
+041502,Todos Santos,04,0415,02,41502,2013,041502,67,Existing operational C02 link; historical boundary identity not certified
+041503,Carangas,04,0415,03,41503,2013,041503,107,Existing operational C02 link; historical boundary identity not certified
+041601,Huayllamarca,04,0416,01,41601,2013,041601,19,Existing operational C02 link; historical boundary identity not certified
+050101,Potosí,05,0501,01,50101,2013,050101,195,Existing operational C02 link; historical boundary identity not certified
+050102,Tinguipaya,05,0501,02,50102,2013,050102,39,Existing operational C02 link; historical boundary identity not certified
+050103,Yocalla,05,0501,03,50103,2013,050103,49,Existing operational C02 link; historical boundary identity not certified
+050104,Urmiri,05,0501,04,50104,2013,050104,50,Existing operational C02 link; historical boundary identity not certified
+050201,Uncía,05,0502,01,50201,2013,050201,331,Existing operational C02 link; historical boundary identity not certified
+050202,Chayanta,05,0502,02,50202,2013,050202,313,Existing operational C02 link; historical boundary identity not certified
+050203,Llallagua,05,0502,03,50203,2013,050203,3,Existing operational C02 link; historical boundary identity not certified
+050204,Chuquihuta,05,0502,04,50204,2013,050204,232,Existing operational C02 link; historical boundary identity not certified
+050301,Betanzos,05,0503,01,50301,2013,050301,65,Existing operational C02 link; historical boundary identity not certified
+050302,Chaquí,05,0503,02,50302,2013,050302,187,Existing operational C02 link; historical boundary identity not certified
+050303,Tacobamba,05,0503,03,50303,2013,050303,329,Existing operational C02 link; historical boundary identity not certified
+050401,Colquechaca,05,0504,01,50401,2013,050401,76,Existing operational C02 link; historical boundary identity not certified
+050402,Ravelo,05,0504,02,50402,2013,050402,332,Existing operational C02 link; historical boundary identity not certified
+050403,Pocoata,05,0504,03,50403,2013,050403,77,Existing operational C02 link; historical boundary identity not certified
+050404,Ocurí,05,0504,04,50404,2013,050404,204,Existing operational C02 link; historical boundary identity not certified
+050501,San Pedro de Buena Vista,05,0505,01,50501,2013,050501,40,Existing operational C02 link; historical boundary identity not certified
+050502,Toro Toro,05,0505,02,50502,2013,050502,99,Existing operational C02 link; historical boundary identity not certified
+050601,Cotagaita,05,0506,01,50601,2013,050601,335,Existing operational C02 link; historical boundary identity not certified
+050602,Vitichi,05,0506,02,50602,2013,050602,115,Existing operational C02 link; historical boundary identity not certified
+050701,Villa de Sacaca,05,0507,01,50701,2013,050701,6,Existing operational C02 link; historical boundary identity not certified
+050702,Caripuyo,05,0507,02,50702,2013,050702,4,Existing operational C02 link; historical boundary identity not certified
+050801,Tupiza,05,0508,01,50801,2013,050801,315,Existing operational C02 link; historical boundary identity not certified
+050802,Atocha,05,0508,02,50802,2013,050802,316,Existing operational C02 link; historical boundary identity not certified
+050901,"Colcha ""K""",05,0509,01,50901,2013,050901,42,Existing operational C02 link; historical boundary identity not certified
+050902,San Pedro de Quemes,05,0509,02,50902,2013,050902,317,Existing operational C02 link; historical boundary identity not certified
+051001,San Pablo de Lípez,05,0510,01,51001,2013,051001,103,Existing operational C02 link; historical boundary identity not certified
+051002,Mojinete,05,0510,02,51002,2013,051002,93,Existing operational C02 link; historical boundary identity not certified
+051003,San Antonio de Esmoruco,05,0510,03,51003,2013,051003,91,Existing operational C02 link; historical boundary identity not certified
+051101,Puna,05,0511,01,51101,2013,051101,188,Existing operational C02 link; historical boundary identity not certified
+051102,"Caiza ""D""",05,0511,02,51102,2013,051102,184,Existing operational C02 link; historical boundary identity not certified
+051103,Ckochas,05,0511,03,51103,2013,051103,189,Existing operational C02 link; historical boundary identity not certified
+051201,Uyuni,05,0512,01,51201,2013,051201,306,Existing operational C02 link; historical boundary identity not certified
+051202,Tomave,05,0512,02,51202,2013,051202,46,Existing operational C02 link; historical boundary identity not certified
+051203,Porco,05,0512,03,51203,2013,051203,47,Existing operational C02 link; historical boundary identity not certified
+051301,Arampampa,05,0513,01,51301,2013,051301,118,Existing operational C02 link; historical boundary identity not certified
+051302,Acasio,05,0513,02,51302,2013,051302,7,Existing operational C02 link; historical boundary identity not certified
+051401,Llica,05,0514,01,51401,2013,051401,78,Existing operational C02 link; historical boundary identity not certified
+051402,Tahua,05,0514,02,51402,2013,051402,102,Existing operational C02 link; historical boundary identity not certified
+051501,Villazón,05,0515,01,51501,2013,051501,337,Existing operational C02 link; historical boundary identity not certified
+051601,San Agustín,05,0516,01,51601,2013,051601,100,Existing operational C02 link; historical boundary identity not certified
+060101,Tarija,06,0601,01,60101,2013,060101,101,Existing operational C02 link; historical boundary identity not certified
+060201,Padcaya,06,0602,01,60201,2013,060201,338,Existing operational C02 link; historical boundary identity not certified
+060202,Bermejo,06,0602,02,60202,2013,060202,321,Existing operational C02 link; historical boundary identity not certified
+060301,Yacuiba,06,0603,01,60301,2013,060301,94,Existing operational C02 link; historical boundary identity not certified
+060302,Caraparí,06,0603,02,60302,2013,060302,96,Existing operational C02 link; historical boundary identity not certified
+060303,Villamontes,06,0603,03,60303,2013,060303,48,Existing operational C02 link; historical boundary identity not certified
+060401,Uriondo,06,0604,01,60401,2013,060401,92,Existing operational C02 link; historical boundary identity not certified
+060402,Yunchará,06,0604,02,60402,2013,060402,95,Existing operational C02 link; historical boundary identity not certified
+060501,Villa San Lorenzo,06,0605,01,60501,2013,060501,97,Existing operational C02 link; historical boundary identity not certified
+060502,El Puente,06,0605,02,60502,2013,060502,98,Existing operational C02 link; historical boundary identity not certified
+060601,Entre Ríos,06,0606,01,60601,2013,060601,72,Existing operational C02 link; historical boundary identity not certified
+070101,Santa Cruz de la Sierra,07,0701,01,70101,2013,070101,55,Existing operational C02 link; historical boundary identity not certified
+070102,Cotoca,07,0701,02,70102,2013,070102,260,Existing operational C02 link; historical boundary identity not certified
+070103,Porongo,07,0701,03,70103,2013,070103,54,Existing operational C02 link; historical boundary identity not certified
+070104,La Guardia,07,0701,04,70104,2013,070104,31,Existing operational C02 link; historical boundary identity not certified
+070105,El Torno,07,0701,05,70105,2013,070105,33,Existing operational C02 link; historical boundary identity not certified
+070201,Warnes,07,0702,01,70201,2013,070201,276,Existing operational C02 link; historical boundary identity not certified
+070202,Okinawa Uno,07,0702,02,70202,2013,070202,275,Existing operational C02 link; historical boundary identity not certified
+070301,San Ignacio de Velasco,07,0703,01,70301,2013,070301,293,Existing operational C02 link; historical boundary identity not certified
+070302,San Miguel de Velasco,07,0703,02,70302,2013,070302,265,Existing operational C02 link; historical boundary identity not certified
+070303,San Rafael,07,0703,03,70303,2013,070303,291,Existing operational C02 link; historical boundary identity not certified
+070401,Buena Vista,07,0704,01,70401,2013,070401,87,Existing operational C02 link; historical boundary identity not certified
+070402,San Carlos,07,0704,02,70402,2013,070402,88,Existing operational C02 link; historical boundary identity not certified
+070403,Yapacaní,07,0704,03,70403,2013,070403,261,Existing operational C02 link; historical boundary identity not certified
+070404,San Juan de Yapacaní,07,0704,04,70404,2013,070404,38,Existing operational C02 link; historical boundary identity not certified
+070501,San José de Chiquitos,07,0705,01,70501,2013,070501,290,Existing operational C02 link; historical boundary identity not certified
+070502,Pailón,07,0705,02,70502,2013,070502,278,Existing operational C02 link; historical boundary identity not certified
+070503,Roboré,07,0705,03,70503,2013,070503,287,Existing operational C02 link; historical boundary identity not certified
+070601,Portachuelo,07,0706,01,70601,2013,070601,90,Existing operational C02 link; historical boundary identity not certified
+070602,Santa Rosa del Sara,07,0706,02,70602,2013,070602,69,Existing operational C02 link; historical boundary identity not certified
+070603,Colpa Bélgica,07,0706,03,70603,2013,070603,284,Existing operational C02 link; historical boundary identity not certified
+070701,Lagunillas,07,0707,01,70701,2013,070701,197,Existing operational C02 link; historical boundary identity not certified
+070702,Charagua,07,0707,02,70702,2013,070702,289,Existing operational C02 link; historical boundary identity not certified
+070703,Cabezas,07,0707,03,70703,2013,070703,259,Existing operational C02 link; historical boundary identity not certified
+070704,Cuevo,07,0707,04,70704,2013,070704,249,Existing operational C02 link; historical boundary identity not certified
+070705,Gutiérrez,07,0707,05,70705,2013,070705,253,Existing operational C02 link; historical boundary identity not certified
+070706,Camiri,07,0707,06,70706,2013,070706,250,Existing operational C02 link; historical boundary identity not certified
+070707,Boyuibe,07,0707,07,70707,2013,070707,248,Existing operational C02 link; historical boundary identity not certified
+070801,Vallegrande,07,0708,01,70801,2013,070801,252,Existing operational C02 link; historical boundary identity not certified
+070802,Trigal,07,0708,02,70802,2013,070802,257,Existing operational C02 link; historical boundary identity not certified
+070803,Moro Moro,07,0708,03,70803,2013,070803,32,Existing operational C02 link; historical boundary identity not certified
+070804,Postrer Valle,07,0708,04,70804,2013,070804,256,Existing operational C02 link; historical boundary identity not certified
+070805,Pucará,07,0708,05,70805,2013,070805,245,Existing operational C02 link; historical boundary identity not certified
+070901,Samaipata,07,0709,01,70901,2013,070901,34,Existing operational C02 link; historical boundary identity not certified
+070902,Pampa Grande,07,0709,02,70902,2013,070902,281,Existing operational C02 link; historical boundary identity not certified
+070903,Mairana,07,0709,03,70903,2013,070903,282,Existing operational C02 link; historical boundary identity not certified
+070904,Quirusillas,07,0709,04,70904,2013,070904,258,Existing operational C02 link; historical boundary identity not certified
+071001,Montero,07,0710,01,71001,2013,071001,270,Existing operational C02 link; historical boundary identity not certified
+071002,Gral. Saavedra,07,0710,02,71002,2013,071002,277,Existing operational C02 link; historical boundary identity not certified
+071003,Mineros,07,0710,03,71003,2013,071003,280,Existing operational C02 link; historical boundary identity not certified
+071004,Fernández Alonso,07,0710,04,71004,2013,071004,279,Existing operational C02 link; historical boundary identity not certified
+071005,San Pedro,07,0710,05,71005,2013,071005,58,Existing operational C02 link; historical boundary identity not certified
+071101,Concepción,07,0711,01,71101,2013,071101,68,Existing operational C02 link; historical boundary identity not certified
+071102,San Javier,07,0711,02,71102,2013,071102,264,Existing operational C02 link; historical boundary identity not certified
+071103,San Ramón,07,0711,03,71103,2013,071103,263,Existing operational C02 link; historical boundary identity not certified
+071104,San Julián,07,0711,04,71104,2013,071104,318,Existing operational C02 link; historical boundary identity not certified
+071105,San Antonio de Lomerío,07,0711,05,71105,2013,071105,297,Existing operational C02 link; historical boundary identity not certified
+071106,Cuatro Cañadas,07,0711,06,71106,2013,071106,262,Existing operational C02 link; historical boundary identity not certified
+071201,San Matías,07,0712,01,71201,2013,071201,288,Existing operational C02 link; historical boundary identity not certified
+071301,Comarapa,07,0713,01,71301,2013,071301,320,Existing operational C02 link; historical boundary identity not certified
+071302,Saipina,07,0713,02,71302,2013,071302,52,Existing operational C02 link; historical boundary identity not certified
+071401,Puerto Suárez,07,0714,01,71401,2013,071401,285,Existing operational C02 link; historical boundary identity not certified
+071402,Puerto Quijarro,07,0714,02,71402,2013,071402,22,Existing operational C02 link; historical boundary identity not certified
+071403,Carmen Rivero Tórrez,07,0714,03,71403,2013,071403,286,Existing operational C02 link; historical boundary identity not certified
+071501,Ascensión de Guarayos,07,0715,01,71501,2013,071501,271,Existing operational C02 link; historical boundary identity not certified
+071502,Urubichá,07,0715,02,71502,2013,071502,294,Existing operational C02 link; historical boundary identity not certified
+071503,El Puente,07,0715,03,71503,2013,071503,319,Existing operational C02 link; historical boundary identity not certified
+080101,Trinidad,08,0801,01,80101,2013,080101,296,Existing operational C02 link; historical boundary identity not certified
+080102,San Javier,08,0801,02,80102,2013,080102,57,Existing operational C02 link; historical boundary identity not certified
+080201,Riberalta,08,0802,01,80201,2013,080201,219,Existing operational C02 link; historical boundary identity not certified
+080202,Guayaramerín,08,0802,02,80202,2013,080202,226,Existing operational C02 link; historical boundary identity not certified
+080301,Reyes,08,0803,01,80301,2013,080301,215,Existing operational C02 link; historical boundary identity not certified
+080302,San Borja,08,0803,02,80302,2013,080302,214,Existing operational C02 link; historical boundary identity not certified
+080303,Santa Rosa,08,0803,03,80303,2013,080303,148,Existing operational C02 link; historical boundary identity not certified
+080304,Rurrenabaque,08,0803,04,80304,2013,080304,211,Existing operational C02 link; historical boundary identity not certified
+080401,Santa Ana de Yacuma,08,0804,01,80401,2013,080401,213,Existing operational C02 link; historical boundary identity not certified
+080402,Exaltación,08,0804,02,80402,2013,080402,218,Existing operational C02 link; historical boundary identity not certified
+080501,San Ignacio,08,0805,01,80501,2013,080501,56,Existing operational C02 link; historical boundary identity not certified
+080601,Loreto,08,0806,01,80601,2013,080601,45,Existing operational C02 link; historical boundary identity not certified
+080602,San Andrés,08,0806,02,80602,2013,080602,272,Existing operational C02 link; historical boundary identity not certified
+080701,San Joaquín,08,0807,01,80701,2013,080701,73,Existing operational C02 link; historical boundary identity not certified
+080702,San Ramón,08,0807,02,80702,2013,080702,74,Existing operational C02 link; historical boundary identity not certified
+080703,Puerto Siles,08,0807,03,80703,2013,080703,217,Existing operational C02 link; historical boundary identity not certified
+080801,Magdalena,08,0808,01,80801,2013,080801,89,Existing operational C02 link; historical boundary identity not certified
+080802,Baures,08,0808,02,80802,2013,080802,295,Existing operational C02 link; historical boundary identity not certified
+080803,Huacaraje,08,0808,03,80803,2013,080803,70,Existing operational C02 link; historical boundary identity not certified
+090101,Cobija,09,0901,01,90101,2013,090101,132,Existing operational C02 link; historical boundary identity not certified
+090102,Porvenir,09,0901,02,90102,2013,090102,220,Existing operational C02 link; historical boundary identity not certified
+090103,Bolpebra,09,0901,03,90103,2013,090103,233,Existing operational C02 link; historical boundary identity not certified
+090104,Bella Flor,09,0901,04,90104,2013,090104,221,Existing operational C02 link; historical boundary identity not certified
+090201,Puerto Rico,09,0902,01,90201,2013,090201,223,Existing operational C02 link; historical boundary identity not certified
+090202,San Pedro,09,0902,02,90202,2013,090202,222,Existing operational C02 link; historical boundary identity not certified
+090203,Filadelfia,09,0902,03,90203,2013,090203,234,Existing operational C02 link; historical boundary identity not certified
+090301,Puerto Gonzalo Moreno,09,0903,01,90301,2013,090301,216,Existing operational C02 link; historical boundary identity not certified
+090302,San Lorenzo,09,0903,02,90302,2013,090302,147,Existing operational C02 link; historical boundary identity not certified
+090303,Sena,09,0903,03,90303,2013,090303,146,Existing operational C02 link; historical boundary identity not certified
+090401,Santa Rosa,09,0904,01,90401,2013,090401,224,Existing operational C02 link; historical boundary identity not certified
+090402,Ingavi,09,0904,02,90402,2013,090402,225,Existing operational C02 link; historical boundary identity not certified
+090501,Nueva Esperanza,09,0905,01,90501,2013,090501,229,Existing operational C02 link; historical boundary identity not certified
+090502,Villa Nueva (Loma Alta),09,0905,02,90502,2013,090502,227,Existing operational C02 link; historical boundary identity not certified
+090503,Santos Mercado,09,0905,03,90503,2013,090503,228,Existing operational C02 link; historical boundary identity not certified

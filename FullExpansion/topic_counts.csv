@@ -1,0 +1,161 @@
+language,view,key,label,count,kind
+es,primary,animals,Ganadería por especie · 17 grupos,17,groups
+es,primary,crops,Productos y usos · 611 códigos,611,codes
+es,primary,land,Riego y tierras · 18 variables,18,variables
+es,primary,equipment,Maquinaria e infraestructura · 22 variables,22,variables
+es,primary,work,Trabajo familiar · 17 variables,17,variables
+es,primary,holdings,Unidades productivas · 1 variable,1,variables
+es,primary,full_structure,Estructura y tenencia de la UPA · 375 variables,375,variables
+es,primary,full_agriculture,"Producción y calendario agrícola · 1,971 variables",1971,variables
+es,primary,full_plants,"Frutales dispersos y medicinales · 1,232 variables",1232,variables
+es,primary,full_practices,Prácticas y agricultura orgánica · 326 variables,326,variables
+es,primary,full_livestock,"Ganadería, leche y apicultura · 406 variables",406,variables
+es,primary,full_health,Sanidad animal · 12 variables,12,variables
+es,primary,full_water,Riego y fuentes de agua · 14 variables,14,variables
+es,primary,full_forest,"Bosques y productos forestales · 1,346 variables",1346,variables
+es,primary,full_fishing,"Caza, pesca y cría acuática · 821 variables",821,variables
+es,primary,full_workforce,Trabajo y composición familiar · 580 variables,580,variables
+es,primary,full_energy,Energía y uso de maquinaria · 16 variables,16,variables
+es,primary,full_infrastructure,"Infraestructura y equipamiento · 1,405 variables",1405,variables
+es,primary,full_services,"Asistencia, crédito y seguros · 157 variables",157,variables
+es,primary,animals_detail,Ganadería: desglose censal · 28 categorías,28,categories
+es,analytical,animals,Ganadería por especie · 17 grupos,17,groups
+es,analytical,crops,Productos y usos · 611 códigos,611,codes
+es,analytical,land,Riego y tierras · 18 variables,18,variables
+es,analytical,equipment,Maquinaria e infraestructura · 22 variables,22,variables
+es,analytical,work,Trabajo familiar · 17 variables,17,variables
+es,analytical,holdings,Unidades productivas · 1 variable,1,variables
+es,analytical,full_structure,Estructura y tenencia de la UPA · 755 variables,755,variables
+es,analytical,full_agriculture,"Producción y calendario agrícola · 2,516 variables",2516,variables
+es,analytical,full_plants,"Frutales dispersos y medicinales · 2,004 variables",2004,variables
+es,analytical,full_practices,Prácticas y agricultura orgánica · 556 variables,556,variables
+es,analytical,full_livestock,"Ganadería, leche y apicultura · 500 variables",500,variables
+es,analytical,full_health,Sanidad animal · 48 variables,48,variables
+es,analytical,full_water,Riego y fuentes de agua · 56 variables,56,variables
+es,analytical,full_forest,"Bosques y productos forestales · 1,868 variables",1868,variables
+es,analytical,full_fishing,"Caza, pesca y cría acuática · 970 variables",970,variables
+es,analytical,full_workforce,Trabajo y composición familiar · 580 variables,580,variables
+es,analytical,full_energy,Energía y uso de maquinaria · 54 variables,54,variables
+es,analytical,full_infrastructure,"Infraestructura y equipamiento · 1,548 variables",1548,variables
+es,analytical,full_services,"Asistencia, crédito y seguros · 296 variables",296,variables
+es,analytical,animals_detail,Ganadería: desglose censal · 28 categorías,28,categories
+es,diagnostic,animals,Ganadería por especie · 17 grupos,17,groups
+es,diagnostic,crops,Productos y usos · 611 códigos,611,codes
+es,diagnostic,land,Riego y tierras · 18 variables,18,variables
+es,diagnostic,equipment,Maquinaria e infraestructura · 22 variables,22,variables
+es,diagnostic,work,Trabajo familiar · 17 variables,17,variables
+es,diagnostic,holdings,Unidades productivas · 1 variable,1,variables
+es,diagnostic,full_structure,Estructura y tenencia de la UPA · 86 variables,86,variables
+es,diagnostic,full_agriculture,"Producción y calendario agrícola · 2,401 variables",2401,variables
+es,diagnostic,full_plants,Frutales dispersos y medicinales · 518 variables,518,variables
+es,diagnostic,full_practices,Prácticas y agricultura orgánica · 24 variables,24,variables
+es,diagnostic,full_livestock,"Ganadería, leche y apicultura · 1,337 variables",1337,variables
+es,diagnostic,full_health,Sanidad animal · 25 variables,25,variables
+es,diagnostic,full_water,Riego y fuentes de agua · 27 variables,27,variables
+es,diagnostic,full_forest,"Bosques y productos forestales · 2,127 variables",2127,variables
+es,diagnostic,full_fishing,"Caza, pesca y cría acuática · 20 variables",20,variables
+es,diagnostic,full_workforce,Trabajo y composición familiar · 119 variables,119,variables
+es,diagnostic,full_energy,Energía y uso de maquinaria · 29 variables,29,variables
+es,diagnostic,full_infrastructure,Infraestructura y equipamiento · 333 variables,333,variables
+es,diagnostic,full_services,"Asistencia, crédito y seguros · 29 variables",29,variables
+es,diagnostic,animals_detail,Ganadería: desglose censal · 28 categorías,28,categories
+es,all,animals,Ganadería por especie · 17 grupos,17,groups
+es,all,crops,Productos y usos · 611 códigos,611,codes
+es,all,land,Riego y tierras · 18 variables,18,variables
+es,all,equipment,Maquinaria e infraestructura · 22 variables,22,variables
+es,all,work,Trabajo familiar · 17 variables,17,variables
+es,all,holdings,Unidades productivas · 1 variable,1,variables
+es,all,full_structure,Estructura y tenencia de la UPA · 841 variables,841,variables
+es,all,full_agriculture,"Producción y calendario agrícola · 4,917 variables",4917,variables
+es,all,full_plants,"Frutales dispersos y medicinales · 2,522 variables",2522,variables
+es,all,full_practices,Prácticas y agricultura orgánica · 580 variables,580,variables
+es,all,full_livestock,"Ganadería, leche y apicultura · 1,837 variables",1837,variables
+es,all,full_health,Sanidad animal · 73 variables,73,variables
+es,all,full_water,Riego y fuentes de agua · 83 variables,83,variables
+es,all,full_forest,"Bosques y productos forestales · 3,995 variables",3995,variables
+es,all,full_fishing,"Caza, pesca y cría acuática · 990 variables",990,variables
+es,all,full_workforce,Trabajo y composición familiar · 699 variables,699,variables
+es,all,full_energy,Energía y uso de maquinaria · 83 variables,83,variables
+es,all,full_infrastructure,"Infraestructura y equipamiento · 1,881 variables",1881,variables
+es,all,full_services,"Asistencia, crédito y seguros · 325 variables",325,variables
+es,all,animals_detail,Ganadería: desglose censal · 28 categorías,28,categories
+en,primary,animals,Livestock by species · 17 groups,17,groups
+en,primary,crops,Products and land uses · 611 codes,611,codes
+en,primary,land,Irrigation and land · 18 variables,18,variables
+en,primary,equipment,Machinery and infrastructure · 22 variables,22,variables
+en,primary,work,Family activities · 17 variables,17,variables
+en,primary,holdings,Production units · 1 variable,1,variables
+en,primary,full_structure,Holding structure and land tenure · 375 variables,375,variables
+en,primary,full_agriculture,"Crop production and calendar · 1,971 variables",1971,variables
+en,primary,full_plants,"Scattered fruit and medicinal plants · 1,232 variables",1232,variables
+en,primary,full_practices,Practices and organic agriculture · 326 variables,326,variables
+en,primary,full_livestock,"Livestock, milk and beekeeping · 406 variables",406,variables
+en,primary,full_health,Animal health · 12 variables,12,variables
+en,primary,full_water,Irrigation and water sources · 14 variables,14,variables
+en,primary,full_forest,"Forests and forest products · 1,346 variables",1346,variables
+en,primary,full_fishing,"Hunting, fishing and aquaculture · 821 variables",821,variables
+en,primary,full_workforce,Labour and family composition · 580 variables,580,variables
+en,primary,full_energy,Energy and machinery use · 16 variables,16,variables
+en,primary,full_infrastructure,"Infrastructure and equipment · 1,405 variables",1405,variables
+en,primary,full_services,"Assistance, credit and insurance · 157 variables",157,variables
+en,primary,animals_detail,Livestock: census breakdown · 28 categories,28,categories
+en,analytical,animals,Livestock by species · 17 groups,17,groups
+en,analytical,crops,Products and land uses · 611 codes,611,codes
+en,analytical,land,Irrigation and land · 18 variables,18,variables
+en,analytical,equipment,Machinery and infrastructure · 22 variables,22,variables
+en,analytical,work,Family activities · 17 variables,17,variables
+en,analytical,holdings,Production units · 1 variable,1,variables
+en,analytical,full_structure,Holding structure and land tenure · 755 variables,755,variables
+en,analytical,full_agriculture,"Crop production and calendar · 2,516 variables",2516,variables
+en,analytical,full_plants,"Scattered fruit and medicinal plants · 2,004 variables",2004,variables
+en,analytical,full_practices,Practices and organic agriculture · 556 variables,556,variables
+en,analytical,full_livestock,"Livestock, milk and beekeeping · 500 variables",500,variables
+en,analytical,full_health,Animal health · 48 variables,48,variables
+en,analytical,full_water,Irrigation and water sources · 56 variables,56,variables
+en,analytical,full_forest,"Forests and forest products · 1,868 variables",1868,variables
+en,analytical,full_fishing,"Hunting, fishing and aquaculture · 970 variables",970,variables
+en,analytical,full_workforce,Labour and family composition · 580 variables,580,variables
+en,analytical,full_energy,Energy and machinery use · 54 variables,54,variables
+en,analytical,full_infrastructure,"Infrastructure and equipment · 1,548 variables",1548,variables
+en,analytical,full_services,"Assistance, credit and insurance · 296 variables",296,variables
+en,analytical,animals_detail,Livestock: census breakdown · 28 categories,28,categories
+en,diagnostic,animals,Livestock by species · 17 groups,17,groups
+en,diagnostic,crops,Products and land uses · 611 codes,611,codes
+en,diagnostic,land,Irrigation and land · 18 variables,18,variables
+en,diagnostic,equipment,Machinery and infrastructure · 22 variables,22,variables
+en,diagnostic,work,Family activities · 17 variables,17,variables
+en,diagnostic,holdings,Production units · 1 variable,1,variables
+en,diagnostic,full_structure,Holding structure and land tenure · 86 variables,86,variables
+en,diagnostic,full_agriculture,"Crop production and calendar · 2,401 variables",2401,variables
+en,diagnostic,full_plants,Scattered fruit and medicinal plants · 518 variables,518,variables
+en,diagnostic,full_practices,Practices and organic agriculture · 24 variables,24,variables
+en,diagnostic,full_livestock,"Livestock, milk and beekeeping · 1,337 variables",1337,variables
+en,diagnostic,full_health,Animal health · 25 variables,25,variables
+en,diagnostic,full_water,Irrigation and water sources · 27 variables,27,variables
+en,diagnostic,full_forest,"Forests and forest products · 2,127 variables",2127,variables
+en,diagnostic,full_fishing,"Hunting, fishing and aquaculture · 20 variables",20,variables
+en,diagnostic,full_workforce,Labour and family composition · 119 variables,119,variables
+en,diagnostic,full_energy,Energy and machinery use · 29 variables,29,variables
+en,diagnostic,full_infrastructure,Infrastructure and equipment · 333 variables,333,variables
+en,diagnostic,full_services,"Assistance, credit and insurance · 29 variables",29,variables
+en,diagnostic,animals_detail,Livestock: census breakdown · 28 categories,28,categories
+en,all,animals,Livestock by species · 17 groups,17,groups
+en,all,crops,Products and land uses · 611 codes,611,codes
+en,all,land,Irrigation and land · 18 variables,18,variables
+en,all,equipment,Machinery and infrastructure · 22 variables,22,variables
+en,all,work,Family activities · 17 variables,17,variables
+en,all,holdings,Production units · 1 variable,1,variables
+en,all,full_structure,Holding structure and land tenure · 841 variables,841,variables
+en,all,full_agriculture,"Crop production and calendar · 4,917 variables",4917,variables
+en,all,full_plants,"Scattered fruit and medicinal plants · 2,522 variables",2522,variables
+en,all,full_practices,Practices and organic agriculture · 580 variables,580,variables
+en,all,full_livestock,"Livestock, milk and beekeeping · 1,837 variables",1837,variables
+en,all,full_health,Animal health · 73 variables,73,variables
+en,all,full_water,Irrigation and water sources · 83 variables,83,variables
+en,all,full_forest,"Forests and forest products · 3,995 variables",3995,variables
+en,all,full_fishing,"Hunting, fishing and aquaculture · 990 variables",990,variables
+en,all,full_workforce,Labour and family composition · 699 variables,699,variables
+en,all,full_energy,Energy and machinery use · 83 variables,83,variables
+en,all,full_infrastructure,"Infrastructure and equipment · 1,881 variables",1881,variables
+en,all,full_services,"Assistance, credit and insurance · 325 variables",325,variables
+en,all,animals_detail,Livestock: census breakdown · 28 categories,28,categories

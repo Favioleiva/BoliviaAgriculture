@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V38 AS SUM ALPACA.S6_P67E FILTER ((ALPACA.S6_P67E >= 0 AND ALPACA.S6_P67E <= 9999)) AND NOT MISSING(ALPACA.S6_P67E) AND NOT NOTAPPLICABLE(ALPACA.S6_P67E) TYPE REAL DECIMALS 6
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V38
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_alpaca_s6_p67e_species_total_sum.csv" UTF8

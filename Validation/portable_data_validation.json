@@ -1,0 +1,14 @@
+{
+  "source_value_comparisons": 9672687,
+  "quarantined_null_checks": 339,
+  "municipalities": 339,
+  "statistical_columns": 22864,
+  "dictionary_rows": 22872,
+  "source_definitions": 28534,
+  "auxiliary_population_denominator_comparisons": 1017,
+  "viewer_payload_unchanged": true,
+  "local_references_checked": 25289,
+  "missing_local_links": [],
+  "escaping_links": [],
+  "source_recipes_resolved": 28534
+}

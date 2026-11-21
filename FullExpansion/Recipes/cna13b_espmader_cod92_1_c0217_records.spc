@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V141 AS COUNT ESPMADER FILTER ESPMADER.COD92_1 = "0312230" TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V141
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_espmader_cod92_1_c0217_records.csv" UTF8

@@ -1,0 +1,11 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+DEFINE UPA.A1 AS COUNT CAPRINO TYPE INTEGER
+DEFINE UPA.C1 AS COUNT CAPRINO FILTER ((CAPRINO.S6_P60A >= 2 AND CAPRINO.S6_P60A <= 4)) TYPE INTEGER
+DEFINE UPA.D1 AS UPA.A1 - UPA.C1 TYPE INTEGER
+DEFINE MUNIC.V1 AS SUM UPA.D1 TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V1
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_caprino_s6_p60a_unclassified_native_records_v2.csv" UTF8

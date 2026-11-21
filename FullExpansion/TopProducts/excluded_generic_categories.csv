@@ -1,0 +1,31 @@
+metric,context,code,label,reason
+kg,annual,01248888,TCV leguminosos,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01288888,TCV hortalizas,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01328888,TCV cítricos,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01388888,TCV frutas,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01391100,TCV Hortalizas y Frutales,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01588888,TCV Tubérculos,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01918888,TCV Forrajeros,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01938888,TCV medicinales,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01965888,TCV ornamentales,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01968888,TCV Flores,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01991000,TCV-otros en general,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01992000,TCV agroforestal,Categoría genérica o cultivos variados; no producto identificado
+kg,annual,01993000,TCV agrosilvopastoril,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01248888,TCV leguminosos,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01288888,TCV hortalizas,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01328888,TCV cítricos,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01388888,TCV frutas,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01391100,TCV Hortalizas y Frutales,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01588888,TCV Tubérculos,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01918888,TCV Forrajeros,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01938888,TCV medicinales,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01965888,TCV ornamentales,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01968888,TCV Flores,Categoría genérica o cultivos variados; no producto identificado
+ha,pastos,01988888,TCV pastos,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01991000,TCV-otros en general,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01992000,TCV agroforestal,Categoría genérica o cultivos variados; no producto identificado
+ha,verano2012_2013,01993000,TCV agrosilvopastoril,Categoría genérica o cultivos variados; no producto identificado
+ha,forestal,03088888,TCV Forestales,Categoría genérica o cultivos variados; no producto identificado
+ha,forestal,03188888,TCV Maderables,Categoría genérica o cultivos variados; no producto identificado
+ha,forestal,03199999,Descripciones genéricas de especies maderables,Categoría genérica o cultivos variados; no producto identificado

@@ -1,0 +1,61 @@
+cultivo_codigo,cultivo_nombre,campana,riego,definicion_superficie,superficie_valida_ha,upa_con_registros,upa_superficie_positiva,registros,municipios_procesados,municipios_con_registros,municipios_con_area_valida,registros_missing,registros_no_aplica
+01122000,Maíz,invierno2012,todos,sembrada,69293.411288,5369,5369,5552,339,116,116,0,0
+01122000,Maíz,invierno2012,con_riego,sembrada,1789.184612,371,371,387,339,76,76,0,0
+01122000,Maíz,invierno2012,sin_riego,sembrada,67504.22667,4998,4998,5165,339,96,96,0,0
+01122000,Maíz,invierno2012,sin_dato,sembrada,,0,0,0,339,0,0,0,0
+01122000,Maíz,invierno2012,otro_especial,sembrada,,0,0,0,339,0,0,0,0
+01122000,Maíz,verano2012_2013,todos,riego_produccion,391687.534074,264762,264762,382521,339,298,298,0,0
+01122000,Maíz,verano2012_2013,todos,uso_suelo,390667.908065,264762,264762,382521,339,298,298,0,0
+01122000,Maíz,verano2012_2013,con_riego,riego_produccion,42996.622051,87495,87495,141232,339,271,271,0,0
+01122000,Maíz,verano2012_2013,con_riego,uso_suelo,42354.74299,87495,87495,141232,339,271,271,0,0
+01122000,Maíz,verano2012_2013,sin_riego,riego_produccion,348690.911924,183934,183934,241289,339,282,282,0,0
+01122000,Maíz,verano2012_2013,sin_riego,uso_suelo,348313.164976,183934,183934,241289,339,282,282,0,0
+01122000,Maíz,verano2012_2013,sin_dato,riego_produccion,,0,0,0,339,0,0,0,0
+01122000,Maíz,verano2012_2013,sin_dato,uso_suelo,,0,0,0,339,0,0,0,0
+01122000,Maíz,verano2012_2013,otro_especial,riego_produccion,,0,0,0,339,0,0,0,0
+01122000,Maíz,verano2012_2013,otro_especial,uso_suelo,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,invierno2012,todos,sembrada,742.455994,403,403,403,339,48,48,0,0
+01132000,Arroz con cáscara,invierno2012,con_riego,sembrada,31.75,22,22,22,339,12,12,0,0
+01132000,Arroz con cáscara,invierno2012,sin_riego,sembrada,710.705994,381,381,381,339,46,46,0,0
+01132000,Arroz con cáscara,invierno2012,sin_dato,sembrada,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,invierno2012,otro_especial,sembrada,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,verano2012_2013,todos,riego_produccion,181531.127097,44238,44238,45458,339,118,118,0,0
+01132000,Arroz con cáscara,verano2012_2013,todos,uso_suelo,181497.026263,44238,44238,45458,339,118,118,0,0
+01132000,Arroz con cáscara,verano2012_2013,con_riego,riego_produccion,18056.072818,1233,1233,1366,339,82,82,0,0
+01132000,Arroz con cáscara,verano2012_2013,con_riego,uso_suelo,18055.447818,1233,1233,1366,339,82,82,0,0
+01132000,Arroz con cáscara,verano2012_2013,sin_riego,riego_produccion,163475.05426499998,43031,43031,44092,339,117,117,0,0
+01132000,Arroz con cáscara,verano2012_2013,sin_riego,uso_suelo,163441.578431,43031,43031,44092,339,117,117,0,0
+01132000,Arroz con cáscara,verano2012_2013,sin_dato,riego_produccion,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,verano2012_2013,sin_dato,uso_suelo,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,verano2012_2013,otro_especial,riego_produccion,,0,0,0,339,0,0,0,0
+01132000,Arroz con cáscara,verano2012_2013,otro_especial,uso_suelo,,0,0,0,339,0,0,0,0
+01112000,Trigo,invierno2012,todos,sembrada,67261.943491,995,995,1235,339,42,42,0,0
+01112000,Trigo,invierno2012,con_riego,sembrada,879.127999,43,43,43,339,19,19,0,0
+01112000,Trigo,invierno2012,sin_riego,sembrada,66382.815493,952,952,1192,339,35,35,0,0
+01112000,Trigo,invierno2012,sin_dato,sembrada,,0,0,0,339,0,0,0,0
+01112000,Trigo,invierno2012,otro_especial,sembrada,,0,0,0,339,0,0,0,0
+01112000,Trigo,verano2012_2013,todos,riego_produccion,61598.319387,102032,102032,125143,339,250,250,0,0
+01112000,Trigo,verano2012_2013,todos,uso_suelo,61491.099156,102032,102032,125143,339,250,250,0,0
+01112000,Trigo,verano2012_2013,con_riego,riego_produccion,4864.347658,10944,10944,12740,339,180,180,0,0
+01112000,Trigo,verano2012_2013,con_riego,uso_suelo,4816.130991,10944,10944,12740,339,180,180,0,0
+01112000,Trigo,verano2012_2013,sin_riego,riego_produccion,56733.971669,92211,92211,112403,339,230,230,0,0
+01112000,Trigo,verano2012_2013,sin_riego,uso_suelo,56674.968104,92211,92211,112403,339,230,230,0,0
+01112000,Trigo,verano2012_2013,sin_dato,riego_produccion,,0,0,0,339,0,0,0,0
+01112000,Trigo,verano2012_2013,sin_dato,uso_suelo,,0,0,0,339,0,0,0,0
+01112000,Trigo,verano2012_2013,otro_especial,riego_produccion,,0,0,0,339,0,0,0,0
+01112000,Trigo,verano2012_2013,otro_especial,uso_suelo,,0,0,0,339,0,0,0,0
+01592000,Yuca,invierno2012,todos,sembrada,4809.516762,1805,1805,1820,339,85,85,0,0
+01592000,Yuca,invierno2012,con_riego,sembrada,40.513795,59,59,60,339,25,25,0,0
+01592000,Yuca,invierno2012,sin_riego,sembrada,4769.002964,1746,1746,1760,339,82,82,0,0
+01592000,Yuca,invierno2012,sin_dato,sembrada,,0,0,0,339,0,0,0,0
+01592000,Yuca,invierno2012,otro_especial,sembrada,,0,0,0,339,0,0,0,0
+01592000,Yuca,verano2012_2013,todos,riego_produccion,24082.416554,39568,39568,40231,339,154,154,0,0
+01592000,Yuca,verano2012_2013,todos,uso_suelo,24029.019127,39568,39568,40231,339,154,154,0,0
+01592000,Yuca,verano2012_2013,con_riego,riego_produccion,948.991654,1616,1616,1633,339,124,124,0,0
+01592000,Yuca,verano2012_2013,con_riego,uso_suelo,946.830986,1616,1616,1633,339,124,124,0,0
+01592000,Yuca,verano2012_2013,sin_riego,riego_produccion,23133.424874,37969,37969,38598,339,144,144,0,0
+01592000,Yuca,verano2012_2013,sin_riego,uso_suelo,23082.188116,37969,37969,38598,339,144,144,0,0
+01592000,Yuca,verano2012_2013,sin_dato,riego_produccion,,0,0,0,339,0,0,0,0
+01592000,Yuca,verano2012_2013,sin_dato,uso_suelo,,0,0,0,339,0,0,0,0
+01592000,Yuca,verano2012_2013,otro_especial,riego_produccion,,0,0,0,339,0,0,0,0
+01592000,Yuca,verano2012_2013,otro_especial,uso_suelo,,0,0,0,339,0,0,0,0

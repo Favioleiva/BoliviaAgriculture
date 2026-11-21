@@ -1,0 +1,12 @@
+﻿code,definition_es,definition_en
+AMBAS_CAMPANAS,Cantidad válida en ambas campañas,Valid quantity in both seasons
+OBSERVADO,Cantidad observada según los controles originales,Observed quantity under the original checks
+OBSERVED_COUNT,Conteo observado; cero conserva su significado,Observed count; zero retains its meaning
+PUBLICADO_AGRUPADO,Suma de componentes de agregados publicados,Sum of published aggregate components
+PUBLISHED_AGGREGATE,Agregado municipal publicado,Published municipal aggregate
+SIN_REGISTROS,Sin registros para esta condición; cantidad nula,No records for this condition; quantity is null
+SIN_VALORES_VALIDOS,No hay cantidades válidas para sumar,No valid quantities to sum
+SOLO_INVIERNO,Producción registrada solo en invierno,Production recorded only in winter
+SOLO_VERANO,Producción registrada solo en verano,Production recorded only in summer
+SUMA_PARCIAL,Suma de valores válidos con cantidades faltantes o inválidas,Sum of valid values with missing or invalid quantities
+UNVALIDATED_SOURCE_SCALE,Escala de origen no validada; valor retenido como nulo,Unvalidated source scale; value withheld as null

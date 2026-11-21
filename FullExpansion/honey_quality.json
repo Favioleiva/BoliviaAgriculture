@@ -1,0 +1,12 @@
+{
+  "indicator": "cna13b_ganaderia_s6_p81a_c0000_sum",
+  "source_variable": "GANADERIA.S6_P81A",
+  "status": "UNVALIDATED_SOURCE_SCALE",
+  "display_quantity": false,
+  "original_values_retained": true,
+  "note_es": "Serie no validada: la escala de miel en la base local es incompatible con el total publicado por el INE. Se retienen las cifras municipales hasta aclarar la unidad; no equivalen a cero. Referencia nacional publicada: 1,485,700 kg (CNA2013, cuadro 86).",
+  "note_en": "Unvalidated series: the honey scale in the local database conflicts with the INE published total. Municipal quantities are withheld pending unit clarification; they are not zero. Published national reference: 1,485,700 kg (CNA2013, table 86).",
+  "official_reference": "https://siip.produccion.gob.bo/noticias/files/BI_290420161267a_cna%20BOLIVIA_final.pdf",
+  "official_national_kg": 1485700,
+  "correction_factor": null
+}

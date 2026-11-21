@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V31 AS COUNT CULTVER FILTER CULTVER.S4_P24_3 = "0T" TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V31
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_cultver_s4_p24_3_c0001_records.csv" UTF8

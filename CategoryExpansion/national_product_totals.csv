@@ -1,0 +1,1236 @@
+crop_code,crop_name,category,campaign,irrigation,area_definition,municipalities,municipalities_with_records,superficie_ha,registros,upa_con_registros,upa_superficie_positiva
+01111000,Semilla de trigo,Productos adicionales de producción de semilla,semillas,todos,semillas,339,23,921.601497,104,104,104
+01112000,Trigo,Cereales,verano2012_2013,todos,riego_produccion,339,250,61598.319387,125143,102032,102032
+01112000,Trigo,Cereales,verano2012_2013,todos,uso_suelo,339,250,61491.099156,125143,102032,102032
+01112000,Trigo,Cereales,verano2012_2013,con_riego,riego_produccion,339,180,4864.347658,12740,10944,10944
+01112000,Trigo,Cereales,verano2012_2013,con_riego,uso_suelo,339,180,4816.130991,12740,10944,10944
+01112000,Trigo,Cereales,verano2012_2013,sin_riego,riego_produccion,339,230,56733.971669,112403,92211,92211
+01112000,Trigo,Cereales,verano2012_2013,sin_riego,uso_suelo,339,230,56674.968104,112403,92211,92211
+01112000,Trigo,Cereales,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01112000,Trigo,Cereales,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01112000,Trigo,Cereales,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01112000,Trigo,Cereales,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01112000,Trigo,Cereales,invierno2012,todos,sembrada,339,42,67261.943491,1235,995,995
+01112000,Trigo,Cereales,invierno2012,con_riego,sembrada,339,19,879.127999,43,43,43
+01112000,Trigo,Cereales,invierno2012,sin_riego,sembrada,339,35,66382.815493,1192,952,952
+01112000,Trigo,Cereales,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01112000,Trigo,Cereales,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01112000,Trigo,Cereales,semillas,todos,semillas,339,50,1615.263142,170,170,170
+01121000,Semilla de maíz,Productos adicionales de producción de semilla,semillas,todos,semillas,339,68,92148.436720,1417,1404,1404
+01122000,Maíz,Cereales,verano2012_2013,todos,riego_produccion,339,298,391687.534074,382521,264762,264762
+01122000,Maíz,Cereales,verano2012_2013,todos,uso_suelo,339,298,390667.908065,382521,264762,264762
+01122000,Maíz,Cereales,verano2012_2013,con_riego,riego_produccion,339,271,42996.622051,141232,87495,87495
+01122000,Maíz,Cereales,verano2012_2013,con_riego,uso_suelo,339,271,42354.742990,141232,87495,87495
+01122000,Maíz,Cereales,verano2012_2013,sin_riego,riego_produccion,339,282,348690.911924,241289,183934,183934
+01122000,Maíz,Cereales,verano2012_2013,sin_riego,uso_suelo,339,282,348313.164976,241289,183934,183934
+01122000,Maíz,Cereales,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01122000,Maíz,Cereales,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01122000,Maíz,Cereales,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01122000,Maíz,Cereales,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01122000,Maíz,Cereales,invierno2012,todos,sembrada,339,116,69293.411288,5552,5369,5369
+01122000,Maíz,Cereales,invierno2012,con_riego,sembrada,339,76,1789.184612,387,371,371
+01122000,Maíz,Cereales,invierno2012,sin_riego,sembrada,339,96,67504.226670,5165,4998,4998
+01122000,Maíz,Cereales,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01122000,Maíz,Cereales,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01122000,Maíz,Cereales,semillas,todos,semillas,339,129,9309.877520,1146,1138,1138
+01131000,Semilla de arroz,Productos adicionales de producción de semilla,semillas,todos,semillas,339,39,85111.049988,1257,1252,1252
+01132000,Arroz con cáscara,Cereales,verano2012_2013,todos,riego_produccion,339,118,181531.127097,45458,44238,44238
+01132000,Arroz con cáscara,Cereales,verano2012_2013,todos,uso_suelo,339,118,181497.026263,45458,44238,44238
+01132000,Arroz con cáscara,Cereales,verano2012_2013,con_riego,riego_produccion,339,82,18056.072818,1366,1233,1233
+01132000,Arroz con cáscara,Cereales,verano2012_2013,con_riego,uso_suelo,339,82,18055.447818,1366,1233,1233
+01132000,Arroz con cáscara,Cereales,verano2012_2013,sin_riego,riego_produccion,339,117,163475.054265,44092,43031,43031
+01132000,Arroz con cáscara,Cereales,verano2012_2013,sin_riego,uso_suelo,339,117,163441.578431,44092,43031,43031
+01132000,Arroz con cáscara,Cereales,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,invierno2012,todos,sembrada,339,48,742.455994,403,403,403
+01132000,Arroz con cáscara,Cereales,invierno2012,con_riego,sembrada,339,12,31.750000,22,22,22
+01132000,Arroz con cáscara,Cereales,invierno2012,sin_riego,sembrada,339,46,710.705994,381,381,381
+01132000,Arroz con cáscara,Cereales,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01132000,Arroz con cáscara,Cereales,semillas,todos,semillas,339,51,5015.927885,878,877,877
+01141000,Semilla de sorgo,Productos adicionales de producción de semilla,semillas,todos,semillas,339,6,21.209999,8,8,8
+01142000,Sorgo,Cereales,verano2012_2013,todos,riego_produccion,339,84,67593.754119,5397,4963,4963
+01142000,Sorgo,Cereales,verano2012_2013,todos,uso_suelo,339,84,67494.787452,5397,4963,4963
+01142000,Sorgo,Cereales,invierno2012,todos,sembrada,339,50,254527.274288,7037,6102,6102
+01142000,Sorgo,Cereales,semillas,todos,semillas,339,17,1217.429999,45,45,45
+01151000,Semilla de cebada,Productos adicionales de producción de semilla,semillas,todos,semillas,339,16,53.469999,35,34,34
+01152001,Cebada en grano,Cereales,verano2012_2013,todos,riego_produccion,339,230,57967.685434,151950,116091,116091
+01152001,Cebada en grano,Cereales,verano2012_2013,todos,uso_suelo,339,230,57933.773353,151950,116091,116091
+01152001,Cebada en grano,Cereales,invierno2012,todos,sembrada,339,10,18.846997,196,178,178
+01152001,Cebada en grano,Cereales,semillas,todos,semillas,339,41,160.374502,294,293,293
+01162000,Centeno,Cereales,verano2012_2013,todos,riego_produccion,339,10,388.962295,1563,1370,1370
+01162000,Centeno,Cereales,verano2012_2013,todos,uso_suelo,339,10,388.962295,1563,1370,1370
+01171000,Semillas de avena,Productos adicionales de producción de semilla,semillas,todos,semillas,339,4,1.199999,5,5,5
+01172000,Avena,Cereales,verano2012_2013,todos,riego_produccion,339,204,15353.308586,57674,44205,44205
+01172000,Avena,Cereales,verano2012_2013,todos,uso_suelo,339,204,15327.501693,57674,44205,44205
+01172000,Avena,Cereales,invierno2012,todos,sembrada,339,14,60.387997,123,120,120
+01172000,Avena,Cereales,semillas,todos,semillas,339,37,250103.492891,174,169,169
+01181000,Quinua semilla,Productos adicionales de producción de semilla,semillas,todos,semillas,339,12,65.020000,45,29,29
+01182001,Quinua,Cereales,verano2012_2013,todos,riego_produccion,339,209,105385.105184,75102,47183,47183
+01182001,Quinua,Cereales,verano2012_2013,todos,uso_suelo,339,209,105380.259350,75102,47183,47183
+01182001,Quinua,Cereales,invierno2012,todos,sembrada,339,3,5.500000,5,4,4
+01182001,Quinua,Cereales,semillas,todos,semillas,339,38,400.521201,310,306,306
+01190003,Semilla de amaranto,Productos adicionales de producción de semilla,semillas,todos,semillas,339,2,1.600000,5,5,5
+01190004,Amaranto,Cereales,verano2012_2013,todos,riego_produccion,339,52,510.325680,1063,924,924
+01190004,Amaranto,Cereales,verano2012_2013,todos,uso_suelo,339,52,503.534013,1063,924,924
+01190004,Amaranto,Cereales,invierno2012,todos,sembrada,339,1,0.500000,1,1,1
+01190007,Alpiste,Cereales,verano2012_2013,todos,riego_produccion,339,1,1.000000,4,2,2
+01190007,Alpiste,Cereales,verano2012_2013,todos,uso_suelo,339,1,1.000000,4,2,2
+01190008,Cañawa,Cereales,verano2012_2013,todos,riego_produccion,339,52,1105.320218,2923,2841,2841
+01190008,Cañawa,Cereales,verano2012_2013,todos,uso_suelo,339,52,1105.320218,2923,2841,2841
+01190008,Cañawa,Cereales,semillas,todos,semillas,339,5,17.410000,5,5,5
+01211000,Espárragos,Hortalizas,verano2012_2013,todos,riego_produccion,339,9,4.113499,17,17,17
+01211000,Espárragos,Hortalizas,verano2012_2013,todos,uso_suelo,339,9,3.738499,17,17,17
+01211000,Espárragos,Hortalizas,semillas,todos,semillas,339,1,0.010000,1,1,1
+01212000,Coles,Hortalizas,verano2012_2013,todos,riego_produccion,339,207,386.213006,2004,1884,1884
+01212000,Coles,Hortalizas,verano2012_2013,todos,uso_suelo,339,207,360.679703,2004,1884,1884
+01212000,Coles,Hortalizas,invierno2012,todos,sembrada,339,56,48.202404,230,225,225
+01212000,Coles,Hortalizas,semillas,todos,semillas,339,12,5.341399,17,17,17
+01213001,Coliflor,Hortalizas,verano2012_2013,todos,riego_produccion,339,59,93.037235,453,393,393
+01213001,Coliflor,Hortalizas,verano2012_2013,todos,uso_suelo,339,59,82.088749,453,393,393
+01213001,Coliflor,Hortalizas,invierno2012,todos,sembrada,339,5,0.978999,14,14,14
+01213001,Coliflor,Hortalizas,semillas,todos,semillas,339,2,0.150049,2,2,2
+01213002,Brócoli,Hortalizas,verano2012_2013,todos,riego_produccion,339,55,156.227198,756,643,643
+01213002,Brócoli,Hortalizas,verano2012_2013,todos,uso_suelo,339,55,130.700652,756,643,643
+01213002,Brócoli,Hortalizas,invierno2012,todos,sembrada,339,8,4.680000,39,39,39
+01213002,Brócoli,Hortalizas,semillas,todos,semillas,339,3,0.308000,4,4,4
+01214001,Lechuga,Hortalizas,verano2012_2013,todos,riego_produccion,339,267,2927.878036,6716,5444,5444
+01214001,Lechuga,Hortalizas,verano2012_2013,todos,uso_suelo,339,267,2745.383944,6716,5444,5444
+01214001,Lechuga,Hortalizas,invierno2012,todos,sembrada,339,99,172.064393,471,453,453
+01214001,Lechuga,Hortalizas,semillas,todos,semillas,339,34,411.379895,58,58,58
+01214002,Achicoria,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,0.000400,1,1,1
+01214002,Achicoria,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,0.000400,1,1,1
+01215000,Espinaca,Hortalizas,verano2012_2013,todos,riego_produccion,339,86,64.816341,487,433,433
+01215000,Espinaca,Hortalizas,verano2012_2013,todos,uso_suelo,339,86,58.801174,487,433,433
+01215000,Espinaca,Hortalizas,invierno2012,todos,sembrada,339,18,28.973036,28,28,28
+01215000,Espinaca,Hortalizas,semillas,todos,semillas,339,3,2.011000,3,3,3
+01216000,Alcachofa,Hortalizas,verano2012_2013,todos,riego_produccion,339,7,1.203498,20,19,19
+01216000,Alcachofa,Hortalizas,verano2012_2013,todos,uso_suelo,339,7,1.203498,20,19,19
+01217001,Apio,Hortalizas,verano2012_2013,todos,riego_produccion,339,96,184.792127,759,695,695
+01217001,Apio,Hortalizas,verano2012_2013,todos,uso_suelo,339,96,158.385112,759,695,695
+01217001,Apio,Hortalizas,invierno2012,todos,sembrada,339,25,19.386231,61,61,61
+01217001,Apio,Hortalizas,semillas,todos,semillas,339,5,0.792499,7,7,7
+01217002,Perejil,Hortalizas,verano2012_2013,todos,riego_produccion,339,144,385.791522,1670,1514,1514
+01217002,Perejil,Hortalizas,verano2012_2013,todos,uso_suelo,339,144,377.640480,1670,1514,1514
+01217002,Perejil,Hortalizas,invierno2012,todos,sembrada,339,29,65.520110,133,123,123
+01217002,Perejil,Hortalizas,semillas,todos,semillas,339,10,0.743899,19,19,19
+01218001,Berro,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,1.000000,2,2,2
+01218001,Berro,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,1.000000,2,2,2
+01218002,Acelga,Hortalizas,verano2012_2013,todos,riego_produccion,339,173,444.796387,1597,1467,1467
+01218002,Acelga,Hortalizas,verano2012_2013,todos,uso_suelo,339,173,434.968050,1597,1467,1467
+01218002,Acelga,Hortalizas,invierno2012,todos,sembrada,339,51,110.170295,196,188,188
+01218002,Acelga,Hortalizas,semillas,todos,semillas,339,10,5.201798,13,13,13
+01219001,Albahaca,Hortalizas,verano2012_2013,todos,riego_produccion,339,15,4.504001,23,23,23
+01219001,Albahaca,Hortalizas,verano2012_2013,todos,uso_suelo,339,15,4.349001,23,23,23
+01219001,Albahaca,Hortalizas,semillas,todos,semillas,339,2,2.000200,2,2,2
+01219002,Cilantro,Hortalizas,verano2012_2013,todos,riego_produccion,339,23,10.235837,103,96,96
+01219002,Cilantro,Hortalizas,verano2012_2013,todos,uso_suelo,339,23,9.613004,103,96,96
+01219002,Cilantro,Hortalizas,invierno2012,todos,sembrada,339,4,26.733398,9,9,9
+01219003,Huacataya,Hortalizas,verano2012_2013,todos,riego_produccion,339,6,0.661599,17,15,15
+01219003,Huacataya,Hortalizas,verano2012_2013,todos,uso_suelo,339,6,0.655600,17,15,15
+01219003,Huacataya,Hortalizas,invierno2012,todos,sembrada,339,1,0.037499,2,2,2
+01219003,Huacataya,Hortalizas,semillas,todos,semillas,339,1,0.000899,1,1,1
+01219004,Quirquiña,Hortalizas,verano2012_2013,todos,riego_produccion,339,18,25.825893,271,248,248
+01219004,Quirquiña,Hortalizas,verano2012_2013,todos,uso_suelo,339,18,24.538227,271,248,248
+01219004,Quirquiña,Hortalizas,invierno2012,todos,sembrada,339,5,1.382999,9,9,9
+01219004,Quirquiña,Hortalizas,semillas,todos,semillas,339,1,0.642000,7,7,7
+01219005,Verdolaga,Hortalizas,verano2012_2013,todos,riego_produccion,339,6,4.503465,13,12,12
+01219005,Verdolaga,Hortalizas,verano2012_2013,todos,uso_suelo,339,6,4.428465,13,12,12
+01219005,Verdolaga,Hortalizas,invierno2012,todos,sembrada,339,1,0.006000,1,1,1
+01219005,Verdolaga,Hortalizas,semillas,todos,semillas,339,3,22.000000,3,3,3
+01219006,Palmito,Hortalizas,verano2012_2013,todos,riego_produccion,339,9,7714.819998,3003,2825,2825
+01219006,Palmito,Hortalizas,verano2012_2013,todos,uso_suelo,339,9,7710.819998,3003,2825,2825
+01219006,Palmito,Hortalizas,semillas,todos,semillas,339,5,20.891800,35,35,35
+01219007,Cultivo rúcula,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,0.330000,6,6,6
+01219007,Cultivo rúcula,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,0.315000,6,6,6
+01221001,Sandía,Hortalizas,verano2012_2013,todos,riego_produccion,339,150,3557.169703,3716,3533,3533
+01221001,Sandía,Hortalizas,verano2012_2013,todos,uso_suelo,339,150,3429.929049,3716,3533,3533
+01221001,Sandía,Hortalizas,invierno2012,todos,sembrada,339,72,924.047982,626,623,623
+01221001,Sandía,Hortalizas,semillas,todos,semillas,339,27,41088.062797,45,45,45
+01221002,Melón,Hortalizas,verano2012_2013,todos,riego_produccion,339,48,80.935938,186,184,184
+01221002,Melón,Hortalizas,verano2012_2013,todos,uso_suelo,339,48,79.665938,186,184,184
+01221002,Melón,Hortalizas,invierno2012,todos,sembrada,339,6,10.289999,17,17,17
+01221002,Melón,Hortalizas,semillas,todos,semillas,339,5,2.424999,5,5,5
+01231001,Locoto,Hortalizas,verano2012_2013,todos,riego_produccion,339,76,1508.785650,3036,2738,2738
+01231001,Locoto,Hortalizas,verano2012_2013,todos,uso_suelo,339,76,1504.430651,3036,2738,2738
+01231001,Locoto,Hortalizas,invierno2012,todos,sembrada,339,13,5.480759,22,22,22
+01231001,Locoto,Hortalizas,semillas,todos,semillas,339,9,31.425136,28,28,28
+01231002,Ají verde,Hortalizas,verano2012_2013,todos,riego_produccion,339,26,63.528980,103,101,101
+01231002,Ají verde,Hortalizas,verano2012_2013,todos,uso_suelo,339,26,63.237224,103,101,101
+01231002,Ají verde,Hortalizas,invierno2012,todos,sembrada,339,1,0.020000,1,1,1
+01231002,Ají verde,Hortalizas,semillas,todos,semillas,339,1,2.000000,1,1,1
+01231004,Ulupica,Hortalizas,verano2012_2013,todos,riego_produccion,339,3,1.302999,15,15,15
+01231004,Ulupica,Hortalizas,verano2012_2013,todos,uso_suelo,339,3,1.302999,15,15,15
+01231005,Pimentón,Hortalizas,verano2012_2013,todos,riego_produccion,339,131,1013.826331,2330,2189,2189
+01231005,Pimentón,Hortalizas,verano2012_2013,todos,uso_suelo,339,131,969.226164,2330,2189,2189
+01231005,Pimentón,Hortalizas,invierno2012,todos,sembrada,339,56,69.506117,216,216,216
+01231005,Pimentón,Hortalizas,semillas,todos,semillas,339,15,801.855597,18,18,18
+01231006,Aribibi,Hortalizas,verano2012_2013,todos,riego_produccion,339,4,0.305023,4,4,4
+01231006,Aribibi,Hortalizas,verano2012_2013,todos,uso_suelo,339,4,0.305023,4,4,4
+01231006,Aribibi,Hortalizas,invierno2012,todos,sembrada,339,2,0.230000,2,2,2
+01232000,Pepino,Hortalizas,verano2012_2013,todos,riego_produccion,339,157,540.340568,1463,1403,1403
+01232000,Pepino,Hortalizas,verano2012_2013,todos,uso_suelo,339,157,505.934863,1463,1403,1403
+01232000,Pepino,Hortalizas,invierno2012,todos,sembrada,339,46,69.542560,272,272,272
+01232000,Pepino,Hortalizas,semillas,todos,semillas,339,18,13.884399,22,22,22
+01233000,Berenjena,Hortalizas,verano2012_2013,todos,riego_produccion,339,25,28.736089,109,107,107
+01233000,Berenjena,Hortalizas,verano2012_2013,todos,uso_suelo,339,25,28.736089,109,107,107
+01233000,Berenjena,Hortalizas,invierno2012,todos,sembrada,339,10,3.610499,12,12,12
+01233000,Berenjena,Hortalizas,semillas,todos,semillas,339,5,1.663000,5,5,5
+01234000,Tomate,Hortalizas,verano2012_2013,todos,riego_produccion,339,243,4076.739375,8386,7462,7462
+01234000,Tomate,Hortalizas,verano2012_2013,todos,uso_suelo,339,243,3854.533970,8386,7462,7462
+01234000,Tomate,Hortalizas,invierno2012,todos,sembrada,339,121,234.746322,613,609,609
+01234000,Tomate,Hortalizas,semillas,todos,semillas,339,46,845.691662,90,90,90
+01235000,Calabaza,Hortalizas,verano2012_2013,todos,riego_produccion,339,115,369.832269,1112,948,948
+01235000,Calabaza,Hortalizas,verano2012_2013,todos,uso_suelo,339,115,363.028934,1112,948,948
+01235000,Calabaza,Hortalizas,invierno2012,todos,sembrada,339,3,1.750000,3,3,3
+01235000,Calabaza,Hortalizas,semillas,todos,semillas,339,1,0.080000,1,1,1
+01236000,Zapallo,Hortalizas,verano2012_2013,todos,riego_produccion,339,180,4081.574636,6054,5202,5202
+01236000,Zapallo,Hortalizas,verano2012_2013,todos,uso_suelo,339,180,4034.459733,6054,5202,5202
+01236000,Zapallo,Hortalizas,invierno2012,todos,sembrada,339,48,75.264192,142,139,139
+01236000,Zapallo,Hortalizas,semillas,todos,semillas,339,13,1010.961097,24,21,21
+01237001,Achojcha,Hortalizas,verano2012_2013,todos,riego_produccion,339,62,500.145318,1186,1108,1108
+01237001,Achojcha,Hortalizas,verano2012_2013,todos,uso_suelo,339,62,478.938318,1186,1108,1108
+01237001,Achojcha,Hortalizas,invierno2012,todos,sembrada,339,8,6.690628,34,34,34
+01237001,Achojcha,Hortalizas,semillas,todos,semillas,339,4,27.600400,12,12,12
+01238001,Okra,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,0.001000,1,1,1
+01238001,Okra,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,0.001000,1,1,1
+01238001,Okra,Hortalizas,invierno2012,todos,sembrada,339,1,0.250000,1,1,1
+01241000,Frijoles verdes,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01241000,Frijoles verdes,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01242000,Arveja verde,Hortalizas,verano2012_2013,todos,riego_produccion,339,238,15416.189207,56032,48907,48907
+01242000,Arveja verde,Hortalizas,verano2012_2013,todos,uso_suelo,339,238,15264.318207,56032,48907,48907
+01242000,Arveja verde,Hortalizas,invierno2012,todos,sembrada,339,43,276.279213,338,314,314
+01242000,Arveja verde,Hortalizas,semillas,todos,semillas,339,39,31123.704990,140,139,139
+01243000,Haba verde,Hortalizas,verano2012_2013,todos,riego_produccion,339,229,25138.452212,143177,114652,114652
+01243000,Haba verde,Hortalizas,verano2012_2013,todos,uso_suelo,339,229,25038.873363,143177,114652,114652
+01243000,Haba verde,Hortalizas,invierno2012,todos,sembrada,339,35,58.551616,239,217,217
+01243000,Haba verde,Hortalizas,semillas,todos,semillas,339,59,1325.402378,261,259,259
+01244000,Vainita,Hortalizas,verano2012_2013,todos,riego_produccion,339,120,1311.290944,3447,3154,3154
+01244000,Vainita,Hortalizas,verano2012_2013,todos,uso_suelo,339,120,1160.939107,3447,3154,3154
+01244000,Vainita,Hortalizas,invierno2012,todos,sembrada,339,28,33.126255,122,122,122
+01244000,Vainita,Hortalizas,semillas,todos,semillas,339,18,1011.277496,38,38,38
+01245000,Crotalaria,Hortalizas,verano2012_2013,todos,riego_produccion,339,1,2.000000,1,1,1
+01245000,Crotalaria,Hortalizas,verano2012_2013,todos,uso_suelo,339,1,2.000000,1,1,1
+01245000,Crotalaria,Hortalizas,invierno2012,todos,sembrada,339,1,2.000000,1,1,1
+01248888,TCV leguminosos,Hortalizas,verano2012_2013,todos,riego_produccion,339,26,318.092999,46,46,46
+01248888,TCV leguminosos,Hortalizas,verano2012_2013,todos,uso_suelo,339,26,318.092999,46,46,46
+01251000,Zanahoria,Hortalizas,verano2012_2013,todos,riego_produccion,339,262,3157.971220,12427,9965,9965
+01251000,Zanahoria,Hortalizas,verano2012_2013,todos,uso_suelo,339,262,2897.587155,12427,9965,9965
+01251000,Zanahoria,Hortalizas,invierno2012,todos,sembrada,339,67,81.130711,336,316,316
+01251000,Zanahoria,Hortalizas,semillas,todos,semillas,339,19,311.322747,59,54,54
+01252000,Betarraga,Hortalizas,verano2012_2013,todos,riego_produccion,339,153,414.564038,1873,1699,1699
+01252000,Betarraga,Hortalizas,verano2012_2013,todos,uso_suelo,339,153,357.475096,1873,1699,1699
+01252000,Betarraga,Hortalizas,invierno2012,todos,sembrada,339,31,18.101744,68,68,68
+01252000,Betarraga,Hortalizas,semillas,todos,semillas,339,4,0.590050,4,4,4
+01253000,Nabo,Hortalizas,verano2012_2013,todos,riego_produccion,339,119,177.406920,1592,1424,1424
+01253000,Nabo,Hortalizas,verano2012_2013,todos,uso_suelo,339,119,162.643437,1592,1424,1424
+01253000,Nabo,Hortalizas,invierno2012,todos,sembrada,339,20,17.939995,211,173,173
+01253000,Nabo,Hortalizas,semillas,todos,semillas,339,3,1.485000,4,4,4
+01254000,Rábano,Hortalizas,verano2012_2013,todos,riego_produccion,339,137,140.254727,578,546,546
+01254000,Rábano,Hortalizas,verano2012_2013,todos,uso_suelo,339,137,139.261156,578,546,546
+01254000,Rábano,Hortalizas,invierno2012,todos,sembrada,339,27,8.906621,60,60,60
+01254000,Rábano,Hortalizas,semillas,todos,semillas,339,5,331.801999,9,8,8
+01255000,Ajo,Hortalizas,verano2012_2013,todos,riego_produccion,339,101,344.668162,1755,1272,1272
+01255000,Ajo,Hortalizas,verano2012_2013,todos,uso_suelo,339,101,331.876047,1755,1272,1272
+01255000,Ajo,Hortalizas,invierno2012,todos,sembrada,339,29,93.641185,320,289,289
+01255000,Ajo,Hortalizas,semillas,todos,semillas,339,5,2.347381,26,23,23
+01256000,Cebolla,Hortalizas,verano2012_2013,todos,riego_produccion,339,315,6792.014393,26421,22192,22192
+01256000,Cebolla,Hortalizas,verano2012_2013,todos,uso_suelo,339,315,6468.498571,26421,22192,22192
+01256000,Cebolla,Hortalizas,invierno2012,todos,sembrada,339,115,205.484907,760,723,723
+01256000,Cebolla,Hortalizas,semillas,todos,semillas,339,45,707.683889,202,200,200
+01257000,Puerro,Hortalizas,verano2012_2013,todos,riego_produccion,339,16,5.690453,22,22,22
+01257000,Puerro,Hortalizas,verano2012_2013,todos,uso_suelo,339,16,5.674453,22,22,22
+01260000,Semilla,Productos adicionales de producción de semilla,semillas,todos,semillas,339,38,2102.287042,85,82,82
+01261000,Semillas de cereales,Productos adicionales de producción de semilla,semillas,todos,semillas,339,10,375.540099,26,26,26
+01262000,Semillas de oleaginosas,Productos adicionales de producción de semilla,semillas,todos,semillas,339,3,19.000000,4,4,4
+01263001,Semillas de sacarinos,Productos adicionales de producción de semilla,semillas,todos,semillas,339,4,424.000000,24,22,22
+01265000,Semillas de tubérculos,Productos adicionales de producción de semilla,semillas,todos,semillas,339,25,388.004248,82,79,79
+01266000,Semillas de leguminosas,Productos adicionales de producción de semilla,semillas,todos,semillas,339,4,4.250000,5,5,5
+01267000,Semillas de hortalizas,Productos adicionales de producción de semilla,semillas,todos,semillas,339,21,19.419573,69,50,50
+01268001,Plantines forestales,Productos adicionales de producción de semilla,semillas,todos,semillas,339,16,3077.898993,37,37,37
+01269001,Bulbos,Productos adicionales de producción de semilla,semillas,todos,semillas,339,1,550.000000,3,3,3
+01270000,Estacas y esquejes,Productos adicionales de producción de semilla,semillas,todos,semillas,339,15,144.364998,142,129,129
+01271001,Semillas o plantines de plantas para bebidas y estimulantes,Productos adicionales de producción de semilla,semillas,todos,semillas,339,4,85.024000,15,14,14
+01272001,"Semillas o plantines de especias, plantas aromáticas y medicinales",Productos adicionales de producción de semilla,semillas,todos,semillas,339,8,46.171699,12,12,12
+01272002,Semillas o plantines de coca,Productos adicionales de producción de semilla,semillas,todos,semillas,339,3,151.505250,38,38,38
+01276999,Otras semillas de pastos cultivados,Productos adicionales de producción de semilla,semillas,todos,semillas,339,14,305.709999,20,20,20
+01281000,Hongo,Hortalizas,verano2012_2013,todos,riego_produccion,339,4,2.041999,4,4,4
+01281000,Hongo,Hortalizas,verano2012_2013,todos,uso_suelo,339,4,2.041999,4,4,4
+01281000,Hongo,Hortalizas,semillas,todos,semillas,339,1,0.008000,1,1,1
+01288888,TCV hortalizas,Hortalizas,verano2012_2013,todos,riego_produccion,339,269,2645.433299,11629,10891,10891
+01288888,TCV hortalizas,Hortalizas,verano2012_2013,todos,uso_suelo,339,269,2645.433299,11629,10891,10891
+01311000,Palta,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,117,2283.544432,5270,5006,5006
+01311000,Palta,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,117,2283.544432,5270,5006,5006
+01311000,Palta,Frutas y nueces,semillas,todos,semillas,339,15,678.343801,43,43,43
+01312000,Plátano (Banano),Frutas y nueces,verano2012_2013,todos,riego_produccion,339,109,17531.540941,9824,8055,8055
+01312000,Plátano (Banano),Frutas y nueces,verano2012_2013,todos,uso_suelo,339,109,17531.540941,9824,8055,8055
+01312000,Plátano (Banano),Frutas y nueces,semillas,todos,semillas,339,15,6087.987999,34,34,34
+01313000,Plátano (Postre),Frutas y nueces,verano2012_2013,todos,riego_produccion,339,130,38365.084434,46820,44608,44608
+01313000,Plátano (Postre),Frutas y nueces,verano2012_2013,todos,uso_suelo,339,130,38365.084434,46820,44608,44608
+01313000,Plátano (Postre),Frutas y nueces,semillas,todos,semillas,339,51,14102.656784,255,255,255
+01314000,Guayaba,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,31,24.702831,76,74,74
+01314000,Guayaba,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,31,24.702831,76,74,74
+01314000,Guayaba,Frutas y nueces,semillas,todos,semillas,339,2,3.000100,2,2,2
+01315000,Higo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,41,122.231954,689,600,600
+01315000,Higo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,41,122.231954,689,600,600
+01315000,Higo,Frutas y nueces,semillas,todos,semillas,339,1,2.000000,1,1,1
+01316000,Mangos,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,104,2092.014055,3128,2963,2963
+01316000,Mangos,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,104,2092.014055,3128,2963,2963
+01316000,Mangos,Frutas y nueces,semillas,todos,semillas,339,5,170.543599,11,11,11
+01317000,Papaya,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,111,2327.422903,2671,2390,2390
+01317000,Papaya,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,111,2327.422903,2671,2390,2390
+01317000,Papaya,Frutas y nueces,semillas,todos,semillas,339,10,5.870799,15,15,15
+01318000,Piña,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,88,4554.227221,8526,8225,8225
+01318000,Piña,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,88,4552.012221,8526,8225,8225
+01318000,Piña,Frutas y nueces,invierno2012,todos,sembrada,339,17,14.835997,37,37,37
+01318000,Piña,Frutas y nueces,semillas,todos,semillas,339,17,204.563996,34,31,31
+01319001,Dátiles,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,4,1.247999,4,4,4
+01319001,Dátiles,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,4,1.247999,4,4,4
+01319004,Granadilla,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,8,3.725949,28,28,28
+01319004,Granadilla,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,8,3.725949,28,28,28
+01319004,Granadilla,Frutas y nueces,semillas,todos,semillas,339,2,1.100000,2,2,2
+01319005,Granada,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,29,24.683743,242,208,208
+01319005,Granada,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,29,24.683743,242,208,208
+01319006,Achachairú,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,41,652.366642,450,442,442
+01319006,Achachairú,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,41,652.366642,450,442,442
+01319006,Achachairú,Frutas y nueces,semillas,todos,semillas,339,3,26.229998,4,4,4
+01319007,Carambola,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,15,43.349500,77,76,76
+01319007,Carambola,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,15,43.349500,77,76,76
+01319007,Carambola,Frutas y nueces,semillas,todos,semillas,339,2,301.000000,2,2,2
+01319008,Cayú,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,23,17.260797,63,63,63
+01319008,Cayú,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,23,17.260797,63,63,63
+01319008,Cayú,Frutas y nueces,semillas,todos,semillas,339,1,0.500000,1,1,1
+01319009,Guapurú,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,12,9.072999,16,16,16
+01319009,Guapurú,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,12,9.072999,16,16,16
+01319010,Jaca,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,4,1.300000,4,4,4
+01319010,Jaca,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,4,1.300000,4,4,4
+01319011,Maracuyá,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,33,411.435141,452,426,426
+01319011,Maracuyá,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,33,411.435141,452,426,426
+01319011,Maracuyá,Frutas y nueces,semillas,todos,semillas,339,2,21.500000,2,2,2
+01319012,Tumbo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,25,126.795937,339,316,316
+01319012,Tumbo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,25,126.795937,339,316,316
+01319013,Chirimoya,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,102,466.830810,1337,1217,1217
+01319013,Chirimoya,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,102,466.830810,1337,1217,1217
+01319013,Chirimoya,Frutas y nueces,semillas,todos,semillas,339,7,5005.140198,7,7,7
+01319015,Guanábana,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,21.819997,9,9,9
+01319015,Guanábana,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,21.819997,9,9,9
+01319016,Noni,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,16,98.456663,215,213,213
+01319016,Noni,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,16,98.456663,215,213,213
+01319016,Noni,Frutas y nueces,semillas,todos,semillas,339,2,1.010000,2,2,2
+01319017,Copoazú,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,27,284.094424,476,458,458
+01319017,Copoazú,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,27,284.094424,476,458,458
+01319017,Copoazú,Frutas y nueces,semillas,todos,semillas,339,8,369.869999,12,12,12
+01319018,Bi,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,3,38.690400,4,4,4
+01319018,Bi,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,3,38.690400,4,4,4
+01319020,Lucuma,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,0.160000,1,1,1
+01319020,Lucuma,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,0.160000,1,1,1
+01319022,Ocoró,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,12,23.362996,25,25,25
+01319022,Ocoró,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,12,23.362996,25,25,25
+01319024,Guapomo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,2,1.149999,2,2,2
+01319024,Guapomo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,2,1.149999,2,2,2
+01319029,Motoyoe,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,0.681999,5,5,5
+01319029,Motoyoe,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,0.681999,5,5,5
+01319030,Locosti,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,0.010399,1,1,1
+01319030,Locosti,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,0.010399,1,1,1
+01319031,Cultivo de moringa,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,4.000000,1,1,1
+01319031,Cultivo de moringa,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,4.000000,1,1,1
+01319032,Rambután,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,2,0.875000,3,3,3
+01319032,Rambután,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,2,0.875000,3,3,3
+01321000,Toronja,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,85,423.179570,881,868,868
+01321000,Toronja,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,85,423.179570,881,868,868
+01321000,Toronja,Frutas y nueces,semillas,todos,semillas,339,10,251.899999,15,15,15
+01322000,Limón,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,138,3345.351160,2936,2691,2691
+01322000,Limón,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,138,3345.351160,2936,2691,2691
+01322000,Limón,Frutas y nueces,semillas,todos,semillas,339,16,1145.312709,18,18,18
+01323002,Naranja,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,152,21598.311871,28303,25474,25474
+01323002,Naranja,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,152,21598.311871,28303,25474,25474
+01323002,Naranja,Frutas y nueces,semillas,todos,semillas,339,28,378.787694,61,61,61
+01324000,Mandarina,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,141,24932.173024,26647,24245,24245
+01324000,Mandarina,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,141,24932.173024,26647,24245,24245
+01324000,Mandarina,Frutas y nueces,semillas,todos,semillas,339,26,2494.863308,99,99,99
+01325000,Lima,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,91,912.271418,1822,1747,1747
+01325000,Lima,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,91,912.271418,1822,1747,1747
+01325000,Lima,Frutas y nueces,semillas,todos,semillas,339,9,77.163399,13,13,13
+01326000,Cidra,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,3,0.383333,3,3,3
+01326000,Cidra,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,3,0.383333,3,3,3
+01326000,Cidra,Frutas y nueces,semillas,todos,semillas,339,1,0.819999,1,1,1
+01327000,Kinoto,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,7,4.105199,13,13,13
+01327000,Kinoto,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,7,4.105199,13,13,13
+01328888,TCV cítricos,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,75,5229.188968,4976,4639,4639
+01328888,TCV cítricos,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,75,5229.188968,4976,4639,4639
+01330000,Uva,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,79,2935.925628,6968,5070,5070
+01330000,Uva,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,79,2935.925628,6968,5070,5070
+01330000,Uva,Frutas y nueces,semillas,todos,semillas,339,3,9001.250000,3,3,3
+01342000,kiwi,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01342000,kiwi,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01343000,Frambuesa,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,9,3.956998,16,16,16
+01343000,Frambuesa,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,9,3.956998,16,16,16
+01344000,Fresa,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,0.846398,7,7,7
+01344000,Fresa,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,0.846398,7,7,7
+01345000,Frutilla,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,54,413.377967,996,936,936
+01345000,Frutilla,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,54,413.377967,996,936,936
+01345000,Frutilla,Frutas y nueces,semillas,todos,semillas,339,1,1.000000,1,1,1
+01349001,Zarzamora,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,3,1.820000,7,7,7
+01349001,Zarzamora,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,3,1.820000,7,7,7
+01349002,Mora,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,23,82.752399,67,65,65
+01349002,Mora,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,23,82.752399,67,65,65
+01351000,Manzana,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,137,666.711951,2490,2276,2276
+01351000,Manzana,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,137,666.711951,2490,2276,2276
+01351000,Manzana,Frutas y nueces,semillas,todos,semillas,339,4,2.600099,4,4,4
+01352001,Pera,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,31,354.689132,2733,2082,2082
+01352001,Pera,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,31,354.689132,2733,2082,2082
+01352002,Peramota,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,19,11.620226,109,103,103
+01352002,Peramota,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,19,11.620226,109,103,103
+01352003,Membrillo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,25,22.866952,302,245,245
+01352003,Membrillo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,25,22.866952,302,245,245
+01352004,Lujma,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,4.455433,40,40,40
+01352004,Lujma,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,4.455433,40,40,40
+01352006,Araza,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,4,1.399999,4,4,4
+01352006,Araza,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,4,1.399999,4,4,4
+01353001,Damasco,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,14,67.178432,437,394,394
+01353001,Damasco,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,14,67.178432,437,394,394
+01353002,Albarillo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,15,13.027384,110,89,89
+01353002,Albarillo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,15,13.027384,110,89,89
+01354002,Guinda,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,19,29.769745,163,132,132
+01354002,Guinda,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,19,29.769745,163,132,132
+01354999,Otras cerezas,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,2.169999,1,1,1
+01354999,Otras cerezas,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,2.169999,1,1,1
+01355001,Durazno,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,158,8106.435314,37729,22553,22553
+01355001,Durazno,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,158,8106.435314,37729,22553,22553
+01355001,Durazno,Frutas y nueces,semillas,todos,semillas,339,11,5.092950,13,13,13
+01356001,Ciruelo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,57,383.499617,1330,1233,1233
+01356001,Ciruelo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,57,383.499617,1330,1233,1233
+01356001,Ciruelo,Frutas y nueces,semillas,todos,semillas,339,1,2.000000,1,1,1
+01357000,Acerola,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,20,35.065295,68,67,67
+01357000,Acerola,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,20,35.065295,68,67,67
+01357000,Acerola,Frutas y nueces,semillas,todos,semillas,339,1,3.000000,1,1,1
+01358000,Arándano,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,9.819998,9,8,8
+01358000,Arándano,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,9.819998,9,8,8
+01359999,Otras frutas de hueso n.c.p.,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,3,13.192092,75,73,73
+01359999,Otras frutas de hueso n.c.p.,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,3,13.192092,75,73,73
+01360999,Semillas y plantines de árboles frutales,Productos adicionales de producción de semilla,semillas,todos,semillas,339,26,160.250396,58,57,57
+01371000,Almendra con cáscara,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,11,39.455023,35,35,35
+01371000,Almendra con cáscara,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,11,39.455023,35,35,35
+01371000,Almendra con cáscara,Frutas y nueces,semillas,todos,semillas,339,1,0.040000,1,1,1
+01373000,Castaña,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,609.100000,6,6,6
+01373000,Castaña,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,609.100000,6,6,6
+01374000,Avellana,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01374000,Avellana,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01375000,Pistacho,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,1,0.200000,1,1,1
+01375000,Pistacho,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,1,0.200000,1,1,1
+01376000,Nuez,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,11,11.081421,55,40,40
+01376000,Nuez,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,11,11.081421,55,40,40
+01377000,Nuez de macadamia,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,4,185.959999,30,29,29
+01377000,Nuez de macadamia,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,4,185.959999,30,29,29
+01388888,TCV frutas,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,223,16424.015764,30735,28149,28149
+01388888,TCV frutas,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,223,16424.015764,30735,28149,28149
+01390002,Níspero,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,102.474999,6,6,6
+01390002,Níspero,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,102.474999,6,6,6
+01390003,Pacay,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,64,215.212589,737,717,717
+01390003,Pacay,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,64,215.212589,737,717,717
+01390003,Pacay,Frutas y nueces,semillas,todos,semillas,339,7,280.959500,11,11,11
+01390005,Tamarindo,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,42,40.987493,96,95,95
+01390005,Tamarindo,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,42,40.987493,96,95,95
+01390005,Tamarindo,Frutas y nueces,semillas,todos,semillas,339,2,1.004000,2,2,2
+01390006,Tuna,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,102,1688.395615,7308,5463,5463
+01390006,Tuna,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,102,1688.395615,7308,5463,5463
+01390008,Biriba,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,1.500399,7,7,7
+01390008,Biriba,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,1.500399,7,7,7
+01390009,Camu camu,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,5,222.374997,195,186,186
+01390009,Camu camu,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,5,222.374997,195,186,186
+01390009,Camu camu,Frutas y nueces,semillas,todos,semillas,339,1,1.000000,1,1,1
+01390010,Pan de fruta,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,3,1.967748,7,7,7
+01390010,Pan de fruta,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,3,1.967748,7,7,7
+01391100,TCV Hortalizas y Frutales,Frutas y nueces,verano2012_2013,todos,riego_produccion,339,63,591.116031,727,678,678
+01391100,TCV Hortalizas y Frutales,Frutas y nueces,verano2012_2013,todos,uso_suelo,339,63,591.116031,727,678,678
+01411000,Semilla de soya,Productos adicionales de producción de semilla,semillas,todos,semillas,339,11,3018.100000,58,55,55
+01412000,Soya,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,75,1000135.532484,19522,15087,15087
+01412000,Soya,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,75,999368.800817,19522,15087,15087
+01412000,Soya,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,39,276208.828493,4414,3599,3599
+01412000,Soya,Frutos o granos oleaginosos,semillas,todos,semillas,339,23,17986.189998,283,283,283
+01421000,Semilla de maní,Productos adicionales de producción de semilla,semillas,todos,semillas,339,13,299.419998,130,129,129
+01422000,Maní,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,161,19371.794296,16443,15698,15698
+01422000,Maní,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,161,19331.034712,16443,15698,15698
+01422000,Maní,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,40,58.621994,92,92,92
+01422000,Maní,Frutos o granos oleaginosos,semillas,todos,semillas,339,22,408.202495,133,133,133
+01441000,Linaza,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,36,264.346922,531,498,498
+01441000,Linaza,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,36,264.346922,531,498,498
+01441000,Linaza,Frutos o granos oleaginosos,semillas,todos,semillas,339,1,1.000000,1,1,1
+01444000,Sésamo,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,57,12503.657856,2897,2798,2798
+01444000,Sésamo,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,57,12456.124523,2897,2798,2798
+01444000,Sésamo,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,22,348.309998,100,100,100
+01444000,Sésamo,Frutos o granos oleaginosos,semillas,todos,semillas,339,14,230.499999,78,78,78
+01445000,Grano de girasol,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,29,13382.476695,153,146,146
+01445000,Grano de girasol,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,29,13382.476695,153,146,146
+01445000,Grano de girasol,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,25,285504.809997,4988,4373,4373
+01445000,Grano de girasol,Frutos o granos oleaginosos,semillas,todos,semillas,339,9,691.039999,10,10,10
+01446000,Cártamo,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,1,8.000000,3,3,3
+01446000,Cártamo,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,1,8.000000,3,3,3
+01446000,Cártamo,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,1,150.000000,1,1,1
+01447000,Chía,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,52,5613.629324,667,628,628
+01447000,Chía,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,52,4876.754324,667,628,628
+01447000,Chía,Frutos o granos oleaginosos,invierno2012,todos,sembrada,339,22,10974.350198,735,712,712
+01447000,Chía,Frutos o granos oleaginosos,semillas,todos,semillas,339,10,193.689998,26,26,26
+01450000,Oliva,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,21,43.764199,47,47,47
+01450000,Oliva,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,21,43.764199,47,47,47
+01460000,Cocos con cáscara,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,55,180.929331,348,344,344
+01460000,Cocos con cáscara,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,55,180.929331,348,344,344
+01460000,Cocos con cáscara,Frutos o granos oleaginosos,semillas,todos,semillas,339,9,152.942999,10,10,10
+01499002,Motacú,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,10,21.575998,25,24,24
+01499002,Motacú,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,10,21.575998,25,24,24
+01499002,Motacú,Frutos o granos oleaginosos,semillas,todos,semillas,339,1,5.000000,1,1,1
+01499004,Macororó,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,2,0.266000,2,2,2
+01499004,Macororó,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,2,0.266000,2,2,2
+01499006,Cultivo de majo,Frutos o granos oleaginosos,verano2012_2013,todos,riego_produccion,339,2,0.750000,2,2,2
+01499006,Cultivo de majo,Frutos o granos oleaginosos,verano2012_2013,todos,uso_suelo,339,2,0.750000,2,2,2
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,285,171683.924361,546386,383281,383281
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,285,170446.880420,546386,383281,383281
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,riego_produccion,339,261,39517.263996,144215,107492,107492
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,uso_suelo,339,261,38398.112457,144215,107492,107492
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,riego_produccion,339,280,132166.660267,402171,293126,293126
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,uso_suelo,339,280,132048.767865,402171,293126,293126
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,103,1484.166037,2546,2030,2030
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,con_riego,sembrada,339,77,922.775029,2041,1553,1553
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_riego,sembrada,339,70,561.391000,505,480,480
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01510000,Papa,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,166,13383.489092,2161,2149,2149
+01588888,TCV Tubérculos,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,18,12.688596,40,39,39
+01588888,TCV Tubérculos,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,18,12.688596,40,39,39
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,163,1087.423174,3335,3237,3237
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,163,1075.410674,3335,3237,3237
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,riego_produccion,339,90,301.478449,1270,1198,1198
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,uso_suelo,339,90,291.043284,1270,1198,1198
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,riego_produccion,339,141,785.944701,2065,2042,2042
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,uso_suelo,339,141,784.367367,2065,2042,2042
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,37,50.941995,87,86,86
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,invierno2012,con_riego,sembrada,339,12,13.889999,31,31,31
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_riego,sembrada,339,29,37.051997,56,55,55
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01591000,Camote,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,9,3.564598,12,12,12
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,154,24082.416554,40231,39568,39568
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,154,24029.019127,40231,39568,39568
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,riego_produccion,339,124,948.991654,1633,1616,1616
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,con_riego,uso_suelo,339,124,946.830986,1633,1616,1616
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,riego_produccion,339,144,23133.424874,38598,37969,37969
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_riego,uso_suelo,339,144,23082.188116,38598,37969,37969
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,riego_produccion,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,sin_dato,uso_suelo,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,riego_produccion,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,otro_especial,uso_suelo,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,85,4809.516762,1820,1805,1805
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,con_riego,sembrada,339,25,40.513795,60,59,59
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_riego,sembrada,339,82,4769.002964,1760,1746,1746
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,sin_dato,sembrada,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,otro_especial,sembrada,339,0,,0,0,0
+01592000,Yuca,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,67,6247.509581,284,284,284
+01593000,Ñame,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,1,0.250000,1,1,1
+01593000,Ñame,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,1,0.250000,1,1,1
+01594000,Hualuza,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,75,734.138942,4279,4228,4228
+01594000,Hualuza,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,75,723.590384,4279,4228,4228
+01594000,Hualuza,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,18,30.138054,59,59,59
+01594000,Hualuza,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,9,2.088198,20,20,20
+01595000,Izaño,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,101,118.235108,1248,1226,1226
+01595000,Izaño,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,101,118.068441,1248,1226,1226
+01595000,Izaño,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,1,0.080000,1,1,1
+01595000,Izaño,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,2,0.030000,2,2,2
+01596000,Oca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,187,7308.610413,58290,54167,54167
+01596000,Oca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,187,7305.369620,58290,54167,54167
+01596000,Oca,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,4,1.889998,29,29,29
+01596000,Oca,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,22,405.509498,48,48,48
+01597000,Papaliza,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,176,2498.028113,15912,15173,15173
+01597000,Papaliza,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,176,2496.250072,15912,15173,15173
+01597000,Papaliza,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,4,10.166999,245,175,175
+01597000,Papaliza,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,13,313.952598,86,86,86
+01598000,Racacha,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,35,152.570856,690,652,652
+01598000,Racacha,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,35,146.112573,690,652,652
+01598000,Racacha,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,4,2.467999,21,20,20
+01599001,Maca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,15,22.390497,52,46,46
+01599001,Maca,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,15,22.390497,52,46,46
+01599001,Maca,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,1,0.250000,1,1,1
+01599002,Ajipa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,17,98.446394,211,190,190
+01599002,Ajipa,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,17,98.321394,211,190,190
+01599002,Ajipa,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,1,1.750000,5,5,5
+01599003,Aricoma,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,38,37.301158,231,217,217
+01599003,Aricoma,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,38,36.962358,231,217,217
+01599003,Aricoma,Raíces y tubérculos comestibles ricos en almidón,semillas,todos,semillas,339,2,0.161000,2,2,2
+01599004,Achira,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,riego_produccion,339,5,1.571350,75,57,57
+01599004,Achira,Raíces y tubérculos comestibles ricos en almidón,verano2012_2013,todos,uso_suelo,339,5,1.568100,75,57,57
+01599004,Achira,Raíces y tubérculos comestibles ricos en almidón,invierno2012,todos,sembrada,339,1,0.149999,1,1,1
+01610000,Café,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,76,22685.922642,21504,17519,17519
+01610000,Café,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,76,22685.922642,21504,17519,17519
+01610000,Café,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,19,25058.737052,492,492,492
+01620000,Té,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,12,274.097498,207,190,190
+01620000,Té,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,12,274.097498,207,190,190
+01620000,Té,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,100.000000,1,1,1
+01630000,Hierba mate,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,4,1.574666,4,4,4
+01630000,Hierba mate,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,4,1.574666,4,4,4
+01640000,Cacao,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,66,10125.819021,9180,7108,7108
+01640000,Cacao,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,66,10125.819021,9180,7108,7108
+01640000,Cacao,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,24,2422.199214,60,60,60
+01661000,Pimienta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,10,8.779998,16,16,16
+01661000,Pimienta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,10,8.779998,16,16,16
+01661000,Pimienta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",invierno2012,todos,sembrada,339,1,0.160000,2,2,2
+01661000,Pimienta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,1.000000,1,1,1
+01662000,Ají,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,124,2468.697975,5234,5060,5060
+01662000,Ají,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,124,2466.363560,5234,5060,5060
+01662000,Ají,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",invierno2012,todos,sembrada,339,29,36.012424,159,155,155
+01662000,Ají,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,21,124.224496,83,83,83
+01664001,Anís,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,13,497.134996,645,556,556
+01664001,Anís,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,13,473.476662,645,556,556
+01664001,Anís,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",invierno2012,todos,sembrada,339,5,13.189997,24,22,22
+01664001,Anís,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,0.001000,1,1,1
+01665000,Canela,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,6,6.622500,21,21,21
+01665000,Canela,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,6,6.622500,21,21,21
+01665000,Canela,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,0.160000,1,1,1
+01667000,Jengibre,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,2,15.680000,74,74,74
+01667000,Jengibre,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,2,15.680000,74,74,74
+01667000,Jengibre,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,0.059999,2,2,2
+01668000,Vainilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,21,23.150447,102,95,95
+01668000,Vainilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,21,23.150447,102,95,95
+01668000,Vainilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,12.500000,1,1,1
+01690001,Azafrán,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,19,111.719294,412,409,409
+01690001,Azafrán,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,19,111.719294,412,409,409
+01690001,Azafrán,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,2,0.100999,3,3,3
+01690002,Boldo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,2,0.063332,2,2,2
+01690002,Boldo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,2,0.063332,2,2,2
+01690003,Cedrón,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,23,23.576694,34,32,32
+01690003,Cedrón,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,23,23.576694,34,32,32
+01690004,Comino,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,10,34.339998,62,60,60
+01690004,Comino,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,10,34.339998,62,60,60
+01690005,Hinojo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,3,0.063099,3,3,3
+01690005,Hinojo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,3,0.063099,3,3,3
+01690006,Hoja de laurel,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01690006,Hoja de laurel,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01690007,Manzanilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,34,93.780947,458,417,417
+01690007,Manzanilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,34,93.582196,458,417,417
+01690007,Manzanilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",invierno2012,todos,sembrada,339,2,0.019999,2,2,2
+01690007,Manzanilla,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,2,1.000100,2,2,2
+01690008,Menta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,9,1.417705,14,11,11
+01690008,Menta,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,9,1.417705,14,11,11
+01690009,Toronjil,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,7,1.245598,34,33,33
+01690009,Toronjil,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,7,1.245598,34,33,33
+01690010,Achiote,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,49,2799.285331,3259,2907,2907
+01690010,Achiote,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,49,2799.285331,3259,2907,2907
+01690010,Achiote,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,5,11973.456948,81,81,81
+01690011,Hierbabuena,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,24,54.553480,90,88,88
+01690011,Hierbabuena,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,24,54.553480,90,88,88
+01690012,Ajo sacha,Productos adicionales de producción de semilla,semillas,todos,semillas,339,1,2.000000,1,1,1
+01690014,Estevia,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,30,117.154093,614,606,606
+01690014,Estevia,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,30,117.154093,614,606,606
+01690014,Estevia,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,6,3.082000,7,7,7
+01690015,Sábila,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,21,33.997396,44,39,39
+01690015,Sábila,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,21,33.997396,44,39,39
+01690017,Ruda,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,5,2.745098,30,29,29
+01690017,Ruda,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,5,2.745098,30,29,29
+01690017,Ruda,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",semillas,todos,semillas,339,1,0.000400,1,1,1
+01690018,Alcanfor,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.119999,1,1,1
+01690018,Alcanfor,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.119999,1,1,1
+01690019,Orégano,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,55,303.913180,696,629,629
+01690019,Orégano,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,55,303.656580,696,629,629
+01690019,Orégano,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",invierno2012,todos,sembrada,339,8,1.906298,10,10,10
+01690022,Ruivardo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.005000,1,1,1
+01690022,Ruivardo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.005000,1,1,1
+01690024,Lavanda,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,1.004999,2,1,1
+01690024,Lavanda,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,1.004999,2,1,1
+01690025,Primula,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,1.004999,2,1,1
+01690025,Primula,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,1.004999,2,1,1
+01690026,Jamaica,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01690026,Jamaica,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01690028,Flor de pascua,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.011124,2,2,2
+01690028,Flor de pascua,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.011124,2,2,2
+01690034,Kana yuyo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,3,1.129999,3,3,3
+01690034,Kana yuyo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,3,1.129999,3,3,3
+01690035,Salvia,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,2,1.502499,2,2,2
+01690035,Salvia,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,2,1.502499,2,2,2
+01690037,Botón de oro,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,8,0.783999,16,14,14
+01690037,Botón de oro,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,8,0.783999,16,14,14
+01690038,Carqueja,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.028000,1,1,1
+01690038,Carqueja,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.028000,1,1,1
+01690039,Echinacea,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.700099,4,1,1
+01690039,Echinacea,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.700099,4,1,1
+01690040,Ajenjo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,2,0.393875,6,5,5
+01690040,Ajenjo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,2,0.393875,6,5,5
+01690042,Poleo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,1,0.033333,1,1,1
+01690042,Poleo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,1,0.033333,1,1,1
+01690049,Tomillo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,riego_produccion,339,4,0.156599,5,5,5
+01690049,Tomillo,"Cultivo de plantas con las que se preparan bebidas estimulantes, especias y plantas aromáticas",verano2012_2013,todos,uso_suelo,339,4,0.156599,5,5,5
+01690053,Marigold,Productos adicionales de producción de semilla,semillas,todos,semillas,339,1,0.149999,1,1,1
+01701001,Frijol,Legumbres secas,verano2012_2013,todos,riego_produccion,339,201,23655.292639,25024,21355,21355
+01701001,Frijol,Legumbres secas,verano2012_2013,todos,uso_suelo,339,201,23285.672599,25024,21355,21355
+01701001,Frijol,Legumbres secas,invierno2012,todos,sembrada,339,93,48886.881367,5137,4896,4896
+01701001,Frijol,Legumbres secas,semillas,todos,semillas,339,73,40598.811105,250,247,247
+01701002,Frijol lima,Legumbres secas,verano2012_2013,todos,riego_produccion,339,2,1.500000,7,7,7
+01701002,Frijol lima,Legumbres secas,verano2012_2013,todos,uso_suelo,339,2,1.500000,7,7,7
+01701002,Frijol lima,Legumbres secas,semillas,todos,semillas,339,1,0.000200,1,1,1
+01702000,Haba seca,Legumbres secas,verano2012_2013,todos,riego_produccion,339,1,0.004000,2,1,1
+01702000,Haba seca,Legumbres secas,verano2012_2013,todos,uso_suelo,339,1,0.004000,2,1,1
+01703000,Garbanzo,Legumbres secas,verano2012_2013,todos,riego_produccion,339,32,243.762170,511,486,486
+01703000,Garbanzo,Legumbres secas,verano2012_2013,todos,uso_suelo,339,32,242.637170,511,486,486
+01703000,Garbanzo,Legumbres secas,invierno2012,todos,sembrada,339,7,67.449999,53,52,52
+01703000,Garbanzo,Legumbres secas,semillas,todos,semillas,339,1,0.179999,1,1,1
+01704000,Lenteja,Legumbres secas,verano2012_2013,todos,riego_produccion,339,19,5.032496,24,24,24
+01704000,Lenteja,Legumbres secas,verano2012_2013,todos,uso_suelo,339,19,5.032496,24,24,24
+01704000,Lenteja,Legumbres secas,invierno2012,todos,sembrada,339,1,0.250000,1,1,1
+01705000,Arveja seca,Legumbres secas,verano2012_2013,todos,riego_produccion,339,8,1.324498,15,14,14
+01705000,Arveja seca,Legumbres secas,verano2012_2013,todos,uso_suelo,339,8,1.324498,15,14,14
+01705000,Arveja seca,Legumbres secas,invierno2012,todos,sembrada,339,1,1.699999,4,4,4
+01705000,Arveja seca,Legumbres secas,semillas,todos,semillas,339,2,1.100000,3,3,3
+01706000,Tarwi,Legumbres secas,verano2012_2013,todos,riego_produccion,339,99,1263.198971,5889,5500,5500
+01706000,Tarwi,Legumbres secas,verano2012_2013,todos,uso_suelo,339,99,1260.223972,5889,5500,5500
+01706000,Tarwi,Legumbres secas,semillas,todos,semillas,339,3,1.279999,3,3,3
+01707000,Nuña,Legumbres secas,verano2012_2013,todos,riego_produccion,339,9,7.940898,36,35,35
+01707000,Nuña,Legumbres secas,verano2012_2013,todos,uso_suelo,339,9,7.940898,36,35,35
+01708000,Arveja de gandul,Legumbres secas,verano2012_2013,todos,riego_produccion,339,1,0.050000,1,1,1
+01708000,Arveja de gandul,Legumbres secas,verano2012_2013,todos,uso_suelo,339,1,0.050000,1,1,1
+01708000,Arveja de gandul,Legumbres secas,semillas,todos,semillas,339,1,0.010000,1,1,1
+01802001,Caña de azúcar,Caña de azúcar y remolacha azucarera,verano2012_2013,todos,riego_produccion,339,163,150537.743853,11618,10093,10093
+01802001,Caña de azúcar,Caña de azúcar y remolacha azucarera,verano2012_2013,todos,uso_suelo,339,163,150537.743853,11618,10093,10093
+01802001,Caña de azúcar,Caña de azúcar y remolacha azucarera,semillas,todos,semillas,339,42,1634.281690,187,187,187
+01911000,Maíz berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,35,989.339389,1404,892,892
+01911000,Maíz berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,35,984.167889,1404,892,892
+01911000,Maíz berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,4,39.965000,11,11,11
+01911000,Maíz berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,2.300000,4,4,4
+01912000,Alfalfa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,231,61262.979766,97050,69231,69231
+01912000,Alfalfa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,231,61262.979766,97050,69231,69231
+01912000,Alfalfa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,15,251.592466,101,100,100
+01913001,Cebada forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,130,40802.323865,46838,34058,34058
+01913001,Cebada forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,130,40801.223865,46838,34058,34058
+01913001,Cebada forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,3,2.229999,4,4,4
+01913001,Cebada forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,14,22.669998,39,39,39
+01913002,Avena forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,92,2791.070535,4215,3445,3445
+01913002,Avena forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,92,2791.070535,4215,3445,3445
+01913002,Avena forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,1.500000,1,1,1
+01913004,Sorgo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,34,10913.586296,610,588,588
+01913004,Sorgo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,34,10913.586296,610,588,588
+01913004,Sorgo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,14,6476.739997,61,53,53
+01913004,Sorgo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,2.000000,1,1,1
+01913005,Sorgo escobero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,5,241.489998,76,74,74
+01913005,Sorgo escobero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,5,241.489998,76,74,74
+01913005,Sorgo escobero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,2,18.800000,4,4,4
+01913006,Trigo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,7,10.847247,9,8,8
+01913006,Trigo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,7,10.847247,9,8,8
+01913006,Trigo forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.002700,1,1,1
+01913012,Maicillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,9,379.997499,17,17,17
+01913012,Maicillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,9,379.997499,17,17,17
+01913013,Triticale,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,7.250000,8,5,5
+01913013,Triticale,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,7.250000,8,5,5
+01913014,Quinua berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,9.000000,3,3,3
+01913014,Quinua berza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,9.000000,3,3,3
+01913015,Maní forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,11,57.446498,23,23,23
+01913015,Maní forrajero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,11,57.446498,23,23,23
+01913016,Arveja forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,2.739999,28,28,28
+01913016,Arveja forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,2.739999,28,28,28
+01913017,Haba forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.020000,1,1,1
+01913017,Haba forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.020000,1,1,1
+01913018,Caña forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,28,378.612497,102,101,101
+01913018,Caña forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,28,378.612497,102,101,101
+01913019,Lechuga forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,5,298.250000,17,17,17
+01913019,Lechuga forrajera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,5,298.250000,17,17,17
+01918888,TCV Forrajeros,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,86,3116.732522,1179,922,922
+01918888,TCV Forrajeros,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,86,3116.732522,1179,922,922
+01919001,Centenario,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,900.000000,2,2,2
+01919002,Pensacola,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.260000,2,2,2
+01919003,Ramio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,3,5.500000,3,3,3
+01919004,Quiebra barriga,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.000000,1,1,1
+01919005,Barba de chivo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,2.000000,1,1,1
+01919006,Pemba,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,3,2.260000,5,5,5
+01919007,Pasto guinea,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,53,2542.789993,271,271,271
+01919008,Pasto llorón,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,1.252500,3,3,3
+01919008,Pasto llorón,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,72,1631.419183,1653,1579,1579
+01919009,Pasto merquerón,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,41.000000,1,1,1
+01919009,Pasto merquerón,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,83,1976.597290,832,823,823
+01919010,Pasto ovillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,58,274.128787,492,429,429
+01919011,Pangola,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,10,1129.649999,23,23,23
+01919011,Pangola,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,53,96473.139989,3365,3289,3289
+01919012,Ray grass,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,23,204.131798,31,31,31
+01919013,Trébol de alejandrin,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,1.000000,1,1,1
+01919013,Trébol de alejandrin,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,35,348.391739,719,618,618
+01919014,Bremura,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.750000,1,1,1
+01919014,Bremura,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,53,4841.919995,313,310,310
+01919015,Braquiara,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,31,722.249999,37,37,37
+01919015,Braquiara,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,142,1031171.888474,38487,37974,37974
+01919016,Pasto búfalo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,10.009999,1,1,1
+01919016,Pasto búfalo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,17,6483.025496,688,685,685
+01919017,Colonión,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,23,9394.338996,473,473,473
+01919018,Estrella,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,2.000000,1,1,1
+01919018,Estrella,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,78,15240.269291,1122,1108,1108
+01919019,Festuca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,61,1264.406012,1042,918,918
+01919020,Glycine,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,11,46.599999,20,20,20
+01919021,Gordura,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,3,17.250000,3,3,3
+01919022,Gramalote,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,4,10.558000,5,5,5
+01919022,Gramalote,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,110,12252.579479,1545,1538,1538
+01919023,Kudzu,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,4.000000,3,3,3
+01919023,Kudzu,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,42,1515.571994,409,409,409
+01919025,Lolium multiflorum,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,2.000000,1,1,1
+01919025,Lolium multiflorum,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,14,174.880497,443,403,403
+01919027,Saracacho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,27,573.504495,511,419,419
+01919028,Kikuyo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,5,47.500000,5,5,5
+01919028,Kikuyo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,76,79726.262992,1242,1205,1205
+01919029,Mombaza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,8,357.350000,9,9,9
+01919029,Mombaza,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,114,90966.055384,1765,1746,1746
+01919030,Maralfalfa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,4,12.219998,5,5,5
+01919030,Maralfalfa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,70,1899.529987,458,458,458
+01919031,Taiwán,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,6.000000,3,3,3
+01919031,Taiwán,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,64,3264.640387,542,534,534
+01919032,Capín,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,1.000000,1,1,1
+01919032,Capín,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,74,8677.970988,803,798,798
+01919033,Ruzisiensis,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,18,2678.838229,205,202,202
+01919034,Jaragua,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.500000,1,1,1
+01919034,Jaragua,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,122,13704.368304,477,473,473
+01919035,Liwi liwi,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,3.750000,4,4,4
+01919036,Camerún,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.100000,2,1,1
+01919036,Camerún,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,37,1214.662498,82,78,78
+01919037,Pasto vertivell,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,1.020000,3,2,2
+01919038,Pasto brizanta,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,9,131.759999,13,13,13
+01919038,Pasto brizanta,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,112,316512.245371,11724,11609,11609
+01919039,Humedicula,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,8,474.250000,29,29,29
+01919039,Humedicula,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,74,144391.486987,3650,3631,3631
+01919040,Pasto tanzania,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,6,211.500000,7,7,7
+01919040,Pasto tanzania,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,93,266895.885819,4245,4228,4228
+01919041,Gatton paning,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,144.000000,6,6,6
+01919041,Gatton paning,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,65,109468.693322,5136,5076,5076
+01919042,Becumbe,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,87,58821.621990,3598,3544,3544
+01919043,Cañuela,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.500000,1,1,1
+01919043,Cañuela,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,9,765.122999,27,27,27
+01919044,Pánico verde,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,29,4291.259996,399,397,397
+01919045,Mucuma,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,2.500000,3,3,3
+01919045,Mucuma,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,16,96.599998,34,33,33
+01919046,Yerba guinea,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,28,1183.509997,129,129,129
+01919047,Desmodio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,6,906.500000,8,8,8
+01919048,Pasto arrocillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,14,436.859999,20,20,20
+01919049,Vicia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.900000,1,1,1
+01919049,Vicia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,12,9.751095,32,31,31
+01919050,Yawara,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,7,8.329999,10,10,10
+01919051,Mulato,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,3.000000,1,1,1
+01919051,Mulato,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,28,2328.679996,85,84,84
+01919052,Chilliwa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,10,10.559999,18,16,16
+01919053,Churqui,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,7,304.842999,23,23,23
+01919054,Pasto crespo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,25,407.175999,59,52,52
+01919055,Sudan,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,69,17458.936884,781,768,768
+01919056,Totora,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.010000,1,1,1
+01919056,Totora,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,13,87.360499,96,86,86
+01919057,Layo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,3,1.064999,3,3,3
+01919058,Pasto brasilero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,27,845.872796,91,89,89
+01919059,Waca pasto,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,8,25.377499,28,28,28
+01919060,Tumba vieja,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,26,3518.129996,106,106,106
+01919061,Pasto ballico,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,4,105.207999,431,431,431
+01919062,Pasto tobiata,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,12,1116.199998,19,19,19
+01919063,Pasto lechero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,4,12.050000,6,6,6
+01919064,Pasto massai,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,6,1555.550000,35,34,34
+01919065,Pasto piata,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,18,2847.660000,50,47,47
+01919066,Pasto aruana,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,15,5642.799999,93,92,92
+01919067,Pasto agropiro,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,4,30.750000,11,11,11
+01919068,Pasto cauchi,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,5.040000,3,3,3
+01919068,Pasto cauchi,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,19,1433.474998,586,535,535
+01919069,Pasto cola de raton,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.040000,1,1,1
+01919069,Pasto cola de raton,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,10,17.579998,29,27,27
+01919070,Pasto ruso,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.000000,1,1,1
+01919071,Pasto mansonia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.000000,1,1,1
+01919072,Pasto esmeralda,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,6,9.280700,16,16,16
+01919073,Pasto japonés,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,3,0.300999,5,5,5
+01919074,Pasto caribe,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,82.500000,9,9,9
+01919075,Dichondra,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,0.000800,1,1,1
+01919078,Pasto citari,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,16.000000,2,2,2
+01919079,Pasto paraíso,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.000000,1,1,1
+01919081,Pasto nacella,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,3.000000,1,1,1
+01919082,Pasto rogelia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,10.000000,1,1,1
+01919087,Pasto amargo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,17.000000,2,2,2
+01919087,Pasto amargo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,24,654.375497,226,193,193
+01919088,Garrotilla,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,0.210000,2,2,2
+01919089,Rastrero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,4,27.500000,4,4,4
+01919090,Sillo sillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,1.000000,1,1,1
+01919092,Rambran,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,0.040000,1,1,1
+01919093,Buffel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,4,49.599999,12,12,12
+01919094,Angropongon,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,2,290.000000,2,2,2
+01919095,Zacate,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,2.000000,1,1,1
+01919097,Carretilla,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,0.005000,1,1,1
+01919098,Orejuela,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,0.062500,1,1,1
+01919099,Otros pastos n.c.p.,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,5,34.953998,12,12,12
+01919906,Gateadora,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,1,10.000000,1,1,1
+01921000,Algodón en fibra,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,14,1829.849548,96,96,96
+01921000,Algodón en fibra,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,14,1829.849548,96,96,96
+01921000,Algodón en fibra,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,2,625.000000,5,5,5
+01929001,Cabuya,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,1.429999,5,4,4
+01929001,Cabuya,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,1.429999,5,4,4
+01929002,Cáñamo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01929002,Cáñamo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01929007,Sisal,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.002500,1,1,1
+01929007,Sisal,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.002500,1,1,1
+01930001,Coca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,45,22802.158601,90804,79092,79092
+01930001,Coca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,45,22802.158601,90804,79092,79092
+01930001,Coca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,17,3120.432022,220,220,220
+01930004,Hierbaluisa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.022500,2,2,2
+01930004,Hierbaluisa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.022500,2,2,2
+01930005,Romero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,5,0.749998,18,18,18
+01930005,Romero,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,5,0.749998,18,18,18
+01930006,Barbasco,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.250000,1,1,1
+01930006,Barbasco,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.250000,1,1,1
+01938888,TCV medicinales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,19,4.958596,28,28,28
+01938888,TCV medicinales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,19,4.958596,28,28,28
+01940000,Semillas de plantas forrajeras,Productos adicionales de producción de semilla,semillas,todos,semillas,339,6,45.732498,8,8,8
+01940001,Semilla de remolacha,Productos adicionales de producción de semilla,semillas,todos,semillas,339,1,2.000399,3,3,3
+01940002,Semilla de alfalfa,Productos adicionales de producción de semilla,semillas,todos,semillas,339,6,11.613547,30,25,25
+01950000,Caucho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,5,17.699999,15,15,15
+01950000,Caucho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,5,17.699999,15,15,15
+01961007,Rosales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,30,49.723605,332,283,283
+01961007,Rosales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,30,49.723605,332,283,283
+01961007,Rosales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,6,3.567298,11,8,8
+01961009,Azucena,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,6,1.111049,16,16,16
+01961009,Azucena,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,6,1.111049,16,16,16
+01961010,Cartucho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,12,3.151999,43,39,39
+01961010,Cartucho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,12,3.151999,43,39,39
+01961011,Clavel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,28,90.967565,781,637,637
+01961011,Clavel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,28,90.967565,781,637,637
+01961011,Clavel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,5,10.160999,12,12,12
+01961012,Crisantemo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,16,46.217013,370,309,309
+01961012,Crisantemo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,16,45.967013,370,309,309
+01961012,Crisantemo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,4993.100000,4,4,4
+01961013,Dalia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,13,5.032415,64,58,58
+01961013,Dalia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,13,5.032415,64,58,58
+01961013,Dalia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,10.010000,2,2,2
+01961014,Gladiolo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,48,162.626155,1444,1222,1222
+01961014,Gladiolo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,48,162.626155,1444,1222,1222
+01961014,Gladiolo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,11,11.943998,31,31,31
+01961015,Hortensia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,38.636032,52,40,40
+01961015,Hortensia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,38.636032,52,40,40
+01961016,Ilusión,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,23,37.167057,475,417,417
+01961016,Ilusión,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,23,36.295941,475,417,417
+01961016,Ilusión,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,2,1.701199,12,9,9
+01961016,Ilusión,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,8.005000,4,4,4
+01961017,Lirio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,14,22.535129,74,66,66
+01961017,Lirio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,14,22.535129,74,66,66
+01961017,Lirio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.149999,1,1,1
+01961018,Margarita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,11,31.803177,335,270,270
+01961018,Margarita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,11,31.803177,335,270,270
+01961018,Margarita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,1.168000,2,2,2
+01961019,Siempre viva,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,1.286597,37,36,36
+01961019,Siempre viva,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,1.286597,37,36,36
+01961020,Popelina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,8,5.737248,107,97,97
+01961020,Popelina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,8,5.697248,107,97,97
+01961020,Popelina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,1,0.020000,1,1,1
+01961020,Popelina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.010000,2,2,2
+01961021,Llamarada de fuego,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.010399,1,1,1
+01961021,Llamarada de fuego,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.010399,1,1,1
+01961022,Santa Rita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.389498,11,11,11
+01961022,Santa Rita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.389498,11,11,11
+01961023,Cucarda,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,12,8.496550,55,51,51
+01961023,Cucarda,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,12,8.496550,55,51,51
+01961027,Kantuta,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.024333,2,2,2
+01961027,Kantuta,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.024333,2,2,2
+01961028,Retama,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,15,495.775597,35,35,35
+01961028,Retama,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,15,495.775597,35,35,35
+01961028,Retama,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.050000,1,1,1
+01961030,Primavera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.010000,1,1,1
+01961030,Primavera,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.010000,1,1,1
+01961031,Geranio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.046132,6,5,5
+01961031,Geranio,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.046132,6,5,5
+01961032,Lechuguina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,16,3009.274498,51,51,51
+01961032,Lechuguina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,16,3009.274498,51,51,51
+01961033,Helecho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,1.948399,8,8,8
+01961033,Helecho,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,1.948399,8,8,8
+01961035,Capuchina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.244999,2,2,2
+01961035,Capuchina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.244999,2,2,2
+01961038,Jazmín,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.041299,5,5,5
+01961038,Jazmín,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.041299,5,5,5
+01961039,Lilium,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,14,4.577548,54,45,45
+01961039,Lilium,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,14,4.559749,54,45,45
+01961039,Lilium,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.010000,1,1,1
+01961040,Petunia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.010399,1,1,1
+01961040,Petunia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.010399,1,1,1
+01961042,Rebeca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,4.283997,96,79,79
+01961042,Rebeca,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,4.283997,96,79,79
+01961043,Nardos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,8,38.048778,215,189,189
+01961043,Nardos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,8,38.048778,215,189,189
+01961044,Astromelia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,8,18.930878,250,187,187
+01961044,Astromelia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,8,18.930878,250,187,187
+01961045,Agapando,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,34.811831,59,51,51
+01961045,Agapando,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,34.811831,59,51,51
+01961046,Secga,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.210000,7,7,7
+01961046,Secga,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.210000,7,7,7
+01961047,Estrella de belén,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.070000,2,2,2
+01961047,Estrella de belén,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.070000,2,2,2
+01961048,Españita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,2.017499,40,39,39
+01961048,Españita,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,2.017499,40,39,39
+01961049,Narciso,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.604000,4,4,4
+01961049,Narciso,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.604000,4,4,4
+01961050,Estaticia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,7,6.879088,95,88,88
+01961050,Estaticia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,7,6.879088,95,88,88
+01961050,Estaticia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,2,0.116000,5,5,5
+01961051,Flor ginger,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,60.649999,53,52,52
+01961051,Flor ginger,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,60.649999,53,52,52
+01961052,Fresia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,8,8.240995,89,81,81
+01961052,Fresia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,8,8.240995,89,81,81
+01961052,Fresia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,1,0.439999,5,5,5
+01961052,Fresia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,15.000000,1,1,1
+01961053,Alelí,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,6,1.226564,27,27,27
+01961053,Alelí,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,6,1.226564,27,27,27
+01961054,Boca y sapo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,0.060598,5,4,4
+01961054,Boca y sapo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,0.060598,5,4,4
+01961055,Flor montecasino,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,3.490549,49,41,41
+01961055,Flor montecasino,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,3.490549,49,41,41
+01961056,Flor aleluya,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,2.149000,64,57,57
+01961056,Flor aleluya,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,2.149000,64,57,57
+01961057,Flor pimpinela,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,5,1.798699,41,36,36
+01961057,Flor pimpinela,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,5,1.798699,41,36,36
+01961058,Flor gabriel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,6,0.418000,8,8,8
+01961058,Flor gabriel,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,6,0.418000,8,8,8
+01961059,Tulipán,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.014999,1,1,1
+01961059,Tulipán,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.014999,1,1,1
+01961060,Flor bombóm,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,3.464398,47,43,43
+01961060,Flor bombóm,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,3.464398,47,43,43
+01961060,Flor bombóm,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",invierno2012,todos,sembrada,339,1,0.120000,4,4,4
+01961061,Flor amancay,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,28.907500,58,47,47
+01961061,Flor amancay,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,28.907500,58,47,47
+01961062,Flor copo de nieve,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.052000,2,2,2
+01961062,Flor copo de nieve,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.052000,2,2,2
+01961063,Flor beiby,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,6.891499,85,70,70
+01961063,Flor beiby,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,6.881499,85,70,70
+01961064,Flor araña,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,2.448599,28,27,27
+01961064,Flor araña,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,2.448599,28,27,27
+01961065,Flor de la reina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.710000,14,13,13
+01961065,Flor de la reina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.710000,14,13,13
+01961065,Flor de la reina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,5.000000,1,1,1
+01961066,Flor chispa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,4,1.486499,20,18,18
+01961066,Flor chispa,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,4,1.486499,20,18,18
+01961067,Flor once horas,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.041599,4,1,1
+01961067,Flor once horas,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.041599,4,1,1
+01961069,Balsamina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.001200,3,1,1
+01961069,Balsamina,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.001200,3,1,1
+01961070,Canastillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.500000,1,1,1
+01961070,Canastillo,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.500000,1,1,1
+01961071,Flor anturia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.010500,2,2,2
+01961071,Flor anturia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.010500,2,2,2
+01961072,Flor mansonia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,4.157499,12,10,10
+01961072,Flor mansonia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,4.157499,12,10,10
+01961073,Begonia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.100000,1,1,1
+01961073,Begonia,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.100000,1,1,1
+01961075,Lluvia de oro,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,0.028700,3,3,3
+01961075,Lluvia de oro,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,0.028700,3,3,3
+01961076,Quico,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,7.017832,69,64,64
+01961076,Quico,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,7.017832,69,64,64
+01961076,Quico,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.029999,1,1,1
+01961078,Chileno,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,0.653749,6,6,6
+01961078,Chileno,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,0.653749,6,6,6
+01961078,Chileno,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.500000,1,1,1
+01961080,Mala madre,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,1,0.000599,1,1,1
+01961080,Mala madre,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,1,0.000599,1,1,1
+01962000,"Flores y capullos cortados, incluso ramilletes, coronas, arreglos florales y artículos similares","Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,3,0.290499,4,3,3
+01962000,"Flores y capullos cortados, incluso ramilletes, coronas, arreglos florales y artículos similares","Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,3,0.290499,4,3,3
+01962000,"Flores y capullos cortados, incluso ramilletes, coronas, arreglos florales y artículos similares","Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,1,0.000299,1,1,1
+01963000,Semillas y plantines de flores y plantas ornamentales,Productos adicionales de producción de semilla,semillas,todos,semillas,339,11,148.566948,28,18,18
+01965000,Plantas ornamentales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,10,5.368799,39,22,22
+01965000,Plantas ornamentales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,10,5.368799,39,22,22
+01965888,TCV ornamentales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,17,45.173593,62,59,59
+01965888,TCV ornamentales,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,17,45.173593,62,59,59
+01968888,TCV Flores,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,118,357.100604,1975,1732,1732
+01968888,TCV Flores,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,118,357.100604,1975,1732,1732
+01970000,Tabaco,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,22,1160.424994,857,750,750
+01970000,Tabaco,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,22,1160.424994,857,750,750
+01970000,Tabaco,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,3,2.100000,4,4,4
+01988888,TCV pastos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",pastos,todos,pastos,339,174,16854.939029,1272,1222,1222
+01991000,TCV-otros en general,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,242,10950.901698,12138,10339,10339
+01991000,TCV-otros en general,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,242,10950.901698,12138,10339,10339
+01992000,TCV agroforestal,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,26,265.692396,118,116,116
+01992000,TCV agroforestal,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,26,265.692396,118,116,116
+01993000,TCV agrosilvopastoril,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,2,56.250000,6,6,6
+01993000,TCV agrosilvopastoril,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,2,56.250000,6,6,6
+01999999,Descripciones genericas de cultivos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,riego_produccion,339,86,2492.803734,281,268,268
+01999999,Descripciones genericas de cultivos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",verano2012_2013,todos,uso_suelo,339,86,2491.970401,281,268,268
+01999999,Descripciones genericas de cultivos,"Productos del forraje, fibras, plantas vivas, corte las flores y los brotes de la flor, tabaco no procesado, y caucho natural",semillas,todos,semillas,339,13,74.881100,13,13,13
+03088888,TCV Forestales,TCV Forestales,forestal,todos,forestal,339,102,4680.806769,741,718,714
+03110001,Pino,Madera sin elaborar,forestal,todos,forestal,339,209,19710.700084,9102,9020,9020
+03110003,Cedro,Madera sin elaborar,forestal,todos,forestal,339,139,10057.263955,3151,3117,3116
+03110005,Cipreses,Madera sin elaborar,forestal,todos,forestal,339,39,127.398287,223,222,222
+03110007,Araucarias,Madera sin elaborar,forestal,todos,forestal,339,1,1.750000,1,1,1
+03120001,Madera ajipa,Madera sin elaborar,forestal,todos,forestal,339,5,38.850000,41,40,40
+03120002,Árbol almendrillo,Madera sin elaborar,forestal,todos,forestal,339,42,2693.355055,1579,1574,1574
+03120003,Bibosi,Madera sin elaborar,forestal,todos,forestal,339,20,122.185597,63,61,61
+03120004,Blanquillo,Madera sin elaborar,forestal,todos,forestal,339,5,6.770100,6,6,6
+03120005,Cachichira,Madera sin elaborar,forestal,todos,forestal,339,5,7.719999,7,7,7
+03120006,Cambará,Madera sin elaborar,forestal,todos,forestal,339,2,32.000000,3,3,3
+03120007,Cedrillo,Madera sin elaborar,forestal,todos,forestal,339,14,45.774998,29,29,29
+03120008,Copaibo,Madera sin elaborar,forestal,todos,forestal,339,15,165.929997,32,32,32
+03120009,Coquino,Madera sin elaborar,forestal,todos,forestal,339,11,30.597000,18,18,18
+03120010,Curupaú,Madera sin elaborar,forestal,todos,forestal,339,47,3743.383988,251,251,251
+03120011,Eucalipto,Madera sin elaborar,forestal,todos,forestal,339,220,20995.436905,25341,24948,24948
+03120012,Gabún,Madera sin elaborar,forestal,todos,forestal,339,21,449.783696,137,137,136
+03120013,Guayabochi,Madera sin elaborar,forestal,todos,forestal,339,20,857.639996,87,87,87
+03120014,Isigo,Madera sin elaborar,forestal,todos,forestal,339,7,324.109996,52,52,52
+03120015,Jichituriqui,Madera sin elaborar,forestal,todos,forestal,339,23,1214.489995,139,139,139
+03120016,Jorori,Madera sin elaborar,forestal,todos,forestal,339,11,114.565997,16,16,16
+03120017,Mapajo,Madera sin elaborar,forestal,todos,forestal,339,16,180.944998,45,44,44
+03120018,Mara,Madera sin elaborar,forestal,todos,forestal,339,101,9263.685644,4213,4152,4151
+03120019,Mara macho,Madera sin elaborar,forestal,todos,forestal,339,16,214.999994,49,49,49
+03120020,Morado,Madera sin elaborar,forestal,todos,forestal,339,20,2900.719999,34,34,34
+03120021,Ochoó,Madera sin elaborar,forestal,todos,forestal,339,37,1243.773387,269,269,269
+03120022,Palo María,Madera sin elaborar,forestal,todos,forestal,339,41,1684.898990,529,526,525
+03120023,Paquió,Madera sin elaborar,forestal,todos,forestal,339,36,467.676694,180,180,180
+03120024,Quebracho,Madera sin elaborar,forestal,todos,forestal,339,17,404.210000,47,45,45
+03120026,Quina quina,Madera sin elaborar,forestal,todos,forestal,339,58,1892.642316,512,511,511
+03120027,Roble,Madera sin elaborar,forestal,todos,forestal,339,58,4864.261653,488,486,486
+03120028,Serebó,Madera sin elaborar,forestal,todos,forestal,339,71,4534.924580,1943,1934,1932
+03120029,Soto,Madera sin elaborar,forestal,todos,forestal,339,21,1644.180997,69,69,69
+03120030,Sujo,Madera sin elaborar,forestal,todos,forestal,339,3,21.599999,4,4,4
+03120031,Tajibo,Madera sin elaborar,forestal,todos,forestal,339,103,14027.036840,1153,1137,1137
+03120032,Tarara,Madera sin elaborar,forestal,todos,forestal,339,53,4971.879786,4907,4855,4854
+03120033,Teca,Madera sin elaborar,forestal,todos,forestal,339,65,4300.577975,678,666,666
+03120034,Puka,Madera sin elaborar,forestal,todos,forestal,339,8,24.887999,69,69,69
+03120035,Yesquero,Madera sin elaborar,forestal,todos,forestal,339,17,211.862499,30,30,30
+03120037,Barataballi,Madera sin elaborar,forestal,todos,forestal,339,3,4.100000,4,4,4
+03120038,Queñua,Madera sin elaborar,forestal,todos,forestal,339,35,265.103144,109,108,108
+03120039,Algarrobillo,Madera sin elaborar,forestal,todos,forestal,339,4,205.000000,5,5,5
+03120040,Quiswara,Madera sin elaborar,forestal,todos,forestal,339,56,322.079748,627,622,622
+03120041,Algarrobo,Madera sin elaborar,forestal,todos,forestal,339,36,727.580873,198,196,196
+03120042,Molle,Madera sin elaborar,forestal,todos,forestal,339,50,82.815201,227,226,226
+03120043,Caraparí,Madera sin elaborar,forestal,todos,forestal,339,4,17.160000,13,13,13
+03120044,Amargo,Madera sin elaborar,forestal,todos,forestal,339,9,39.590000,14,14,14
+03120045,Árbol cari cari,Madera sin elaborar,forestal,todos,forestal,339,2,0.450000,2,2,2
+03120046,Sauce,Madera sin elaborar,forestal,todos,forestal,339,63,188.187918,288,288,288
+03120047,Nogal,Madera sin elaborar,forestal,todos,forestal,339,51,1534.642203,564,552,552
+03120049,Mayi,Madera sin elaborar,forestal,todos,forestal,339,1,15.000000,1,1,1
+03120051,Tarco o jacaranda,Madera sin elaborar,forestal,todos,forestal,339,12,13.207398,23,22,22
+03120052,Tipa,Madera sin elaborar,forestal,todos,forestal,339,36,121.569491,76,76,76
+03120053,Huito,Madera sin elaborar,forestal,todos,forestal,339,2,4.350000,3,3,3
+03120054,Jarca,Madera sin elaborar,forestal,todos,forestal,339,18,58.069064,26,26,26
+03120055,Sauco,Madera sin elaborar,forestal,todos,forestal,339,16,30.106581,19,19,19
+03120056,Aliso,Madera sin elaborar,forestal,todos,forestal,339,42,691.076942,200,198,198
+03120057,Arrayan,Madera sin elaborar,forestal,todos,forestal,339,2,1.250000,2,2,2
+03120058,Chari,Madera sin elaborar,forestal,todos,forestal,339,4,80.523333,4,4,4
+03120060,Palo blanco,Madera sin elaborar,forestal,todos,forestal,339,8,362.400999,18,18,18
+03120061,Álamo,Madera sin elaborar,forestal,todos,forestal,339,60,452.767166,689,688,688
+03120062,Cuchi,Madera sin elaborar,forestal,todos,forestal,339,60,7276.505823,359,359,359
+03120063,Cuta,Madera sin elaborar,forestal,todos,forestal,339,32,1003.899994,157,153,153
+03120064,Timboy,Madera sin elaborar,forestal,todos,forestal,339,7,106.110666,40,40,40
+03120065,Mascajo,Madera sin elaborar,forestal,todos,forestal,339,4,2.670000,7,7,7
+03120066,Morilla,Madera sin elaborar,forestal,todos,forestal,339,1,4.200000,2,2,2
+03120067,Guayacán,Madera sin elaborar,forestal,todos,forestal,339,2,89.000000,4,4,4
+03120068,Palo Román,Madera sin elaborar,forestal,todos,forestal,339,12,259.092994,236,235,235
+03120069,Perilla,Madera sin elaborar,forestal,todos,forestal,339,5,257.500998,24,24,24
+03120070,Cuñuri,Madera sin elaborar,forestal,todos,forestal,339,13,5.694665,24,24,24
+03120071,Árbol ajo ajo,Madera sin elaborar,forestal,todos,forestal,339,14,63.105298,34,34,34
+03120072,Lloque,Madera sin elaborar,forestal,todos,forestal,339,2,1.639999,3,3,3
+03120074,Sotillo,Madera sin elaborar,forestal,todos,forestal,339,5,9.251899,10,10,10
+03120075,Willca,Madera sin elaborar,forestal,todos,forestal,339,9,29.174999,13,13,13
+03120076,Sahuinto,Madera sin elaborar,forestal,todos,forestal,339,2,0.450000,2,2,2
+03120078,Sararí,Madera sin elaborar,forestal,todos,forestal,339,7,418.134000,8,8,8
+03120079,Urundel,Madera sin elaborar,forestal,todos,forestal,339,5,128.829998,35,35,35
+03120080,Árbol de laurel,Madera sin elaborar,forestal,todos,forestal,339,33,994.594305,582,576,575
+03120081,Vinal,Madera sin elaborar,forestal,todos,forestal,339,2,4.375000,3,3,3
+03120083,Tumi,Madera sin elaborar,forestal,todos,forestal,339,17,472.313663,126,122,122
+03120085,Amarillo,Madera sin elaborar,forestal,todos,forestal,339,11,45.119999,18,18,18
+03120086,Marfil,Madera sin elaborar,forestal,todos,forestal,339,3,6.583332,5,5,5
+03120087,Murure,Madera sin elaborar,forestal,todos,forestal,339,2,1.500000,2,2,2
+03120088,Masaranduba,Madera sin elaborar,forestal,todos,forestal,339,4,398.230000,18,18,18
+03120089,Itauba,Madera sin elaborar,forestal,todos,forestal,339,19,538.059997,44,44,44
+03120090,Toco,Madera sin elaborar,forestal,todos,forestal,339,32,2433.827824,630,627,626
+03120091,Toco colorado,Madera sin elaborar,forestal,todos,forestal,339,8,1118.074999,112,112,112
+03120092,Miso,Madera sin elaborar,forestal,todos,forestal,339,3,8.830000,7,7,7
+03120095,Miso blanco,Madera sin elaborar,forestal,todos,forestal,339,7,7.126497,13,13,13
+03120096,Bitumbo,Madera sin elaborar,forestal,todos,forestal,339,4,4.000000,4,4,4
+03120098,Catuaba,Madera sin elaborar,forestal,todos,forestal,339,2,13.400000,4,4,4
+03120099,Enchoque,Madera sin elaborar,forestal,todos,forestal,339,3,15.500000,10,9,9
+03120100,Tarumá,Madera sin elaborar,forestal,todos,forestal,339,9,19.599999,12,12,12
+03120101,Paquiosillo,Madera sin elaborar,forestal,todos,forestal,339,2,23.140000,15,15,15
+03120103,Árbol maní,Madera sin elaborar,forestal,todos,forestal,339,3,207.780000,30,30,30
+03120104,Picana,Madera sin elaborar,forestal,todos,forestal,339,15,97.199998,32,31,31
+03120105,Canelón,Madera sin elaborar,forestal,todos,forestal,339,10,33.620000,20,19,19
+03120106,Piraquina,Madera sin elaborar,forestal,todos,forestal,339,1,11.000000,2,2,2
+03120112,Jarquilla,Madera sin elaborar,forestal,todos,forestal,339,2,3.149999,4,4,4
+03120113,Árbol verdolago,Madera sin elaborar,forestal,todos,forestal,339,38,5353.476483,1421,1416,1416
+03120115,Sangre de toro,Madera sin elaborar,forestal,todos,forestal,339,3,1.414999,3,3,3
+03120116,Balsa,Madera sin elaborar,forestal,todos,forestal,339,10,69.359999,19,19,19
+03120117,Ceibo,Madera sin elaborar,forestal,todos,forestal,339,30,22.456995,47,47,47
+03120118,Trompillo,Madera sin elaborar,forestal,todos,forestal,339,23,269.068593,409,409,408
+03120119,Crespito,Madera sin elaborar,forestal,todos,forestal,339,13,310.936592,562,559,559
+03120120,Olmo,Madera sin elaborar,forestal,todos,forestal,339,45,248.156734,261,251,251
+03120121,Negrillo,Madera sin elaborar,forestal,todos,forestal,339,6,34.839996,60,60,60
+03120122,Algodoncillo,Madera sin elaborar,forestal,todos,forestal,339,4,20.460000,4,4,4
+03120123,Uvillo,Madera sin elaborar,forestal,todos,forestal,339,3,1.008000,3,3,3
+03120124,Manicillo,Madera sin elaborar,forestal,todos,forestal,339,4,6.089999,5,5,5
+03120125,Árbol lúcuma,Madera sin elaborar,forestal,todos,forestal,339,2,13.000000,3,3,3
+03120126,Urupi,Madera sin elaborar,forestal,todos,forestal,339,8,24.542000,14,14,14
+03120127,Árbol mora,Madera sin elaborar,forestal,todos,forestal,339,2,12.500000,2,2,2
+03120128,Momoqui,Madera sin elaborar,forestal,todos,forestal,339,26,386.469999,73,73,73
+03120129,Leche leche,Madera sin elaborar,forestal,todos,forestal,339,4,10.850000,4,4,4
+03120131,Coloradillo,Madera sin elaborar,forestal,todos,forestal,339,6,4.809999,9,9,9
+03120132,Colorado,Madera sin elaborar,forestal,todos,forestal,339,3,1.406000,4,4,4
+03120133,Lecherón,Madera sin elaborar,forestal,todos,forestal,339,6,616.604999,95,95,95
+03120134,Copal,Madera sin elaborar,forestal,todos,forestal,339,6,69.471098,25,24,24
+03120136,Pito talega,Madera sin elaborar,forestal,todos,forestal,339,11,30.954997,69,69,69
+03120137,Árbol guayabillo,Madera sin elaborar,forestal,todos,forestal,339,2,2.500000,2,2,2
+03120138,Gabetillo,Madera sin elaborar,forestal,todos,forestal,339,4,2.880000,4,4,4
+03120139,Carne de vaca,Madera sin elaborar,forestal,todos,forestal,339,1,10.000000,2,2,2
+03120140,Palo zapallo,Madera sin elaborar,forestal,todos,forestal,339,2,8.810000,4,4,4
+03120141,Lanza,Madera sin elaborar,forestal,todos,forestal,339,1,11.669999,9,9,9
+03120143,Paraíso,Madera sin elaborar,forestal,todos,forestal,339,22,233.324998,50,49,49
+03120144,Árbol naranjillo,Madera sin elaborar,forestal,todos,forestal,339,5,128.960000,10,10,10
+03120145,Árbol palto laurel,Madera sin elaborar,forestal,todos,forestal,339,2,1.960000,7,7,7
+03120146,Pesoé,Madera sin elaborar,forestal,todos,forestal,339,2,121.630000,5,5,5
+03120148,Incienso,Madera sin elaborar,forestal,todos,forestal,339,2,4.450000,3,3,3
+03120149,Trompa de anta,Madera sin elaborar,forestal,todos,forestal,339,3,23.000000,5,5,5
+03120150,Árbol pitón,Madera sin elaborar,forestal,todos,forestal,339,2,0.750000,2,2,2
+03120152,Seque,Madera sin elaborar,forestal,todos,forestal,339,2,5.600000,3,3,3
+03120153,Bacuri,Madera sin elaborar,forestal,todos,forestal,339,3,64.000000,4,4,4
+03120154,Tinto,Madera sin elaborar,forestal,todos,forestal,339,5,860.050000,10,10,10
+03120156,Chamba,Madera sin elaborar,forestal,todos,forestal,339,13,30.519999,24,24,24
+03120157,Palo yugo,Madera sin elaborar,forestal,todos,forestal,339,10,79.289998,115,115,115
+03120158,Melina,Madera sin elaborar,forestal,todos,forestal,339,12,19.754998,32,32,32
+03120159,Árbol espina de mar,Madera sin elaborar,forestal,todos,forestal,339,1,0.250000,1,1,1
+03120160,Japunaqui,Madera sin elaborar,forestal,todos,forestal,339,6,320.599999,16,16,16
+03120161,Grevillea,Madera sin elaborar,forestal,todos,forestal,339,9,108.659999,17,17,17
+03120162,Mindiola,Madera sin elaborar,forestal,todos,forestal,339,1,21.000000,2,2,2
+03120163,Guitarrero,Madera sin elaborar,forestal,todos,forestal,339,5,7.000000,5,5,5
+03120168,Caicoma,Madera sin elaborar,forestal,todos,forestal,339,1,3.450000,4,4,4
+03120169,Carnaval,Madera sin elaborar,forestal,todos,forestal,339,1,0.400000,1,1,1
+03120170,Simayo,Madera sin elaborar,forestal,todos,forestal,339,3,5.499998,10,9,9
+03120174,Yeguaparaqui,Madera sin elaborar,forestal,todos,forestal,339,3,127.329999,12,12,12
+03120191,Árbol motoyoe,Madera sin elaborar,forestal,todos,forestal,339,1,0.750000,1,1,1
+03120195,Vitaca,Madera sin elaborar,forestal,todos,forestal,339,2,31.500000,3,3,3
+03120196,Árbol limoncillo,Madera sin elaborar,forestal,todos,forestal,339,1,0.119999,1,1,1
+03120197,Coca coca,Madera sin elaborar,forestal,todos,forestal,339,1,0.500000,1,1,1
+03120198,Árbol canela,Madera sin elaborar,forestal,todos,forestal,339,1,0.059999,1,1,1
+03120200,Taquillo,Madera sin elaborar,forestal,todos,forestal,339,1,1.500000,2,2,2
+03120201,Árbol higuera,Madera sin elaborar,forestal,todos,forestal,339,1,0.119999,1,1,1
+03120203,Punero,Madera sin elaborar,forestal,todos,forestal,339,1,5.000000,1,1,1
+03120204,Árbol duraznillo,Madera sin elaborar,forestal,todos,forestal,339,14,23.382328,31,31,31
+03120207,Nane,Madera sin elaborar,forestal,todos,forestal,339,2,12.200000,2,2,2
+03120210,Árbol palto,Madera sin elaborar,forestal,todos,forestal,339,5,6.599998,5,5,5
+03120212,Árbol pacay,Madera sin elaborar,forestal,todos,forestal,339,8,26.399999,9,9,9
+03120215,Chirimoya del monte,Madera sin elaborar,forestal,todos,forestal,339,4,215.760000,5,5,5
+03120216,Tamarindillo,Madera sin elaborar,forestal,todos,forestal,339,3,2.040000,3,3,3
+03120217,Chuy,Madera sin elaborar,forestal,todos,forestal,339,2,0.150000,2,2,2
+03120220,Árbol manzanillo,Madera sin elaborar,forestal,todos,forestal,339,1,0.000200,1,1,1
+03120221,Chocolatillo,Madera sin elaborar,forestal,todos,forestal,339,2,2.029999,3,3,3
+03120222,Árbol chocolate,Madera sin elaborar,forestal,todos,forestal,339,7,11.333333,8,8,8
+03120223,Árbol aceituna,Madera sin elaborar,forestal,todos,forestal,339,9,29.800297,15,15,15
+03120225,Árbol pan,Madera sin elaborar,forestal,todos,forestal,339,1,0.080000,1,1,1
+03120226,Árbol mangaba,Madera sin elaborar,forestal,todos,forestal,339,3,3.669999,3,3,3
+03120227,Palo fósforo,Madera sin elaborar,forestal,todos,forestal,339,1,0.500000,1,1,1
+03120229,Mataco,Madera sin elaborar,forestal,todos,forestal,339,1,1.500000,1,1,1
+03120230,Árbol mata palo,Madera sin elaborar,forestal,todos,forestal,339,1,0.500000,1,1,1
+03120231,Árbol melendre,Madera sin elaborar,forestal,todos,forestal,339,1,1.000000,2,2,2
+03120240,Árbol del moral,Madera sin elaborar,forestal,todos,forestal,339,1,0.500000,1,1,1
+03120243,Pecan,Madera sin elaborar,forestal,todos,forestal,339,1,0.500000,1,1,1
+03120253,Berlinia,Madera sin elaborar,forestal,todos,forestal,339,1,0.250000,1,1,1
+03130001,Leña,Madera sin elaborar,forestal,todos,forestal,339,1,1.000000,1,1,1
+03130002,Thola,Madera sin elaborar,forestal,todos,forestal,339,10,47.417098,26,26,26
+03130005,Churqui de recolección,Madera sin elaborar,forestal,todos,forestal,339,2,2.270000,6,6,6
+03188888,TCV Maderables,Madera sin elaborar,forestal,todos,forestal,339,31,417.664165,65,63,62
+03199999,Descripciones genéricas de especies maderables,Madera sin elaborar,forestal,todos,forestal,339,9,57.437999,17,16,16
+07000010,Tierras en Barbecho,Otros Usos de la Tierra,otros_usos,todos,otros_usos,339,334,1089664.927090,251255,251053,251052
+07000020,Tierras en Descanso,Otros Usos de la Tierra,otros_usos,todos,otros_usos,339,337,1635897.629230,403827,403499,403499
+07000030,Pastos Naturales,Otros Usos de la Tierra,otros_usos,todos,otros_usos,339,334,10821674.175926,216055,215945,215942
+07000040,Bosques o Montes,Otros Usos de la Tierra,otros_usos,todos,otros_usos,339,314,13694515.280322,166287,165262,165262
+07000050,Otras Tierras,Otros Usos de la Tierra,otros_usos,todos,otros_usos,339,339,2153711.928101,706857,706185,705956

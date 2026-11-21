@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.F17A0M4 AS SUM CULTVER.S4_P24_4 FILTER CULTVER.S4_P24_2 = "01591000" AND CULTVER.S4_P24_5 = 1 AND CULTVER.S4_P24_4 >= 0.000000 AND CULTVER.S4_P24_4 <= 99999999999.000000 TYPE REAL DECIMALS 6
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.F17A0M4
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\CategoryExpansion\RecipeRuns\cna13_01591000_verano2012_2013_con_riego_riego_produccion_suma_ha.csv" UTF8

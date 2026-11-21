@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V2 AS SUM UPA.S3_P21_2 FILTER ((UPA.S3_P21_2 >= 0.000000 AND UPA.S3_P21_2 <= 99999999999.000000)) AND NOT MISSING(UPA.S3_P21_2) AND NOT NOTAPPLICABLE(UPA.S3_P21_2) TYPE REAL DECIMALS 6
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V2
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_upa_s3_p21_2_all_sum.csv" UTF8

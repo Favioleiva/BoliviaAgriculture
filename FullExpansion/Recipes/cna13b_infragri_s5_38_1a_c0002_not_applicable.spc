@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V38 AS COUNT INFRAGRI FILTER (INFRAGRI.S5_38 = 3) AND NOTAPPLICABLE(INFRAGRI.S5_38_1A) TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V38
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_infragri_s5_38_1a_c0002_not_applicable.csv" UTF8

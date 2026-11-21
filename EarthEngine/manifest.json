@@ -1,0 +1,56 @@
+{
+  "created": "2026-11-21T14:18:17.629318+00:00",
+  "status": "PASS",
+  "source": "X:\\Agentic Tasks\\Bolivia\\Maps\\GeoBolivia_2015_339\\bolivia339geoqueryOpt.geojson",
+  "source_sha256": "52f50770b20fc8d73540151c1c625deec19ae712f44bcecb8ba2364f11620372",
+  "crosswalk": "X:\\Agentic Tasks\\Bolivia\\Outputs\\Contract_04\\Deliverables\\Agro2013\\crosswalk_cna2013_geo4bolivia339.csv",
+  "crosswalk_sha256": "8c7d7079978e91a3d5724938180ad0182e400551c3504a5db89778ac681ff2bd",
+  "archive": "X:\\Agentic Tasks\\Bolivia\\Outputs\\Contract_04\\Deliverables\\EarthEngine\\bolivia339_2015.zip",
+  "archive_sha256": "283f5d22de4ef1c267f48cf831059ad1faaca92b390f79d2fec86ba70ffbd3f0",
+  "features": 339,
+  "crs": "EPSG:4326",
+  "valid_geometries": 339,
+  "empty_geometries": 0,
+  "geometry_equal_after_roundtrip": 339,
+  "attributes_equal_after_roundtrip": true,
+  "unique_municipal_codes": 339,
+  "leading_zeros_preserved": true,
+  "encoding": "UTF-8",
+  "map_vintage": 2015,
+  "census_reference": 2013,
+  "geometry_modified": false,
+  "uploaded": false,
+  "files": [
+    {
+      "name": "bolivia339_2015.shp",
+      "bytes": 317060,
+      "sha256": "54e6c1d529b39df283d7f4d9d6297ba6f6f1c5b97122c4371815d7b842382ea1"
+    },
+    {
+      "name": "bolivia339_2015.shx",
+      "bytes": 2812,
+      "sha256": "1b2340d7717287a692e83ad3f715b365e017d540112875d9deb184b2bb1f25ea"
+    },
+    {
+      "name": "bolivia339_2015.dbf",
+      "bytes": 181687,
+      "sha256": "4ee38c62b5ca688fc7e194fd219403148daeaa1c64c30f1046f8ddb597bb023c"
+    },
+    {
+      "name": "bolivia339_2015.prj",
+      "bytes": 145,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "name": "bolivia339_2015.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    }
+  ],
+  "environment": {
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2",
+    "pyogrio": "0.13.0"
+  },
+  "upload_documentation": "https://developers.google.com/earth-engine/guides/table_upload"
+}

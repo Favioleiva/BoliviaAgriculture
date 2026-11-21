@@ -1,0 +1,9 @@
+RUNDEF individual
+ DICTIONARY "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\RedatamExploration\WorkBase\CNA2013.dicx"
+ SELECTION ALL
+ NOWEIGHT
+
+
+DEFINE MUNIC.V114 AS COUNT AVESG FILTER (AVESG.S6_P73_1 = "06") AND ((AVESG.S6_P73_2 >= 0 AND AVESG.S6_P73_2 <= 999999)) AND NOT MISSING(AVESG.S6_P73_2) AND NOT NOTAPPLICABLE(AVESG.S6_P73_2) TYPE INTEGER
+TABLE RESULTA AS AREALIST OF MUNIC, MUNIC.V114
+ OUTPUTFILE CSV "X:\Agentic Tasks\Bolivia\Outputs\Contract_04\Evidence\FullExpansion\RecipeRuns\cna13b_avesg_s6_p73_2_c0005_valid.csv" UTF8
