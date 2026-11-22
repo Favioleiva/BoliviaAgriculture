@@ -39,13 +39,15 @@ def install_downloads(ui,base):
     s=re.sub(r'<link rel="stylesheet" href="assets/dataset-downloads.css">','',s)
     s=re.sub(r'<script src="assets/dataset-downloads.js"></script>','',s)
     s=s.replace('</head>','<link rel="stylesheet" href="assets/dataset-downloads.css"></head>',1)
-    s=s.replace('<section id="explore"',panel(base)+'<section id="explore"',1) if '<section id="explore"' in s else s.replace('<script id="payload"',panel(base)+'<script id="payload"',1)
-    s=s.replace('<div class="hero-actions">','<div class="hero-actions"><a class="button secondary" href="#dataset" data-download-key="nav">Descargar datos</a>',1)
+    assert s.count('</main>')==1
+    s=s.replace('</main>',panel(base)+'</main>',1)
     s=s.replace('</body>','<script src="assets/dataset-downloads.js"></script></body>')
     assert s.count('id="dataset"')==1
     p.write_text(s,encoding='utf-8')
     (ui/'assets/dataset-downloads.css').write_text(DOWNLOAD_CSS,encoding='utf-8')
     (ui/'assets/dataset-downloads.js').write_text(DOWNLOAD_JS,encoding='utf-8')
+    from map_layout import apply_layout
+    apply_layout(ui)
 
 STYLE='''body{font:16px/1.6 system-ui,sans-serif;color:#183b32;max-width:1250px;margin:auto;padding:24px;background:#f7faf8}a{color:#135f4b}h1{font-size:2rem}h2{font-size:1.3rem}table{border-collapse:collapse;width:100%;background:white}th,td{padding:12px;border:1px solid #d6e2da;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#e7f0eb}code{overflow-wrap:anywhere}input{font:inherit;padding:12px;width:min(90%,700px)}.scroll{overflow:auto}small{font-size:.9rem}pre{white-space:pre-wrap;background:#e7f0eb;padding:16px}'''
 
@@ -123,7 +125,7 @@ def package(refresh_ui=False):
             count+=1
         print('Copied',name,count,flush=True)
     code=PKG/'Code';code.mkdir(exist_ok=True)
-    for name in ['build_portable_dataset.py','package_portable.py']:
+    for name in ['build_portable_dataset.py','package_portable.py','map_layout.py']:
         shutil.copy2(E/'Code'/name,code/name)
     shutil.copy2(E/'choice_policy.json',code/'choice_policy.json')
     (code/'requirements.txt').write_text('pyarrow=='+pq.__version__+'\n' if hasattr(pq,'__version__') else 'pyarrow==24.0.0\n',encoding='utf-8')

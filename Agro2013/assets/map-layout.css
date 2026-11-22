@@ -1,0 +1,7 @@
+
+.map-card{min-width:0}
+#mapProductControls{position:sticky;top:8px;z-index:5;background:var(--card);padding:12px;margin:-6px -6px 16px;border:1px solid var(--line);border-radius:10px;box-shadow:0 3px 12px #0000000a}
+#mapProductControls label{display:flex;flex-direction:column;gap:7px;font-size:14px;min-width:0}
+#mapProductControls select{display:block;width:100%;min-width:0;max-width:100%;font-size:16px;min-height:44px}
+.map-card .mapsvg{max-height:clamp(240px,calc(100vh - 270px),620px);max-height:clamp(240px,calc(100svh - 270px),620px)}
+@media(max-width:540px){#mapProductControls{top:4px;padding:10px}.map-card .mapsvg{max-height:clamp(240px,calc(100svh - 300px),520px)}}

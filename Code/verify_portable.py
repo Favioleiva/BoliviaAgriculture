@@ -86,7 +86,7 @@ def run():
         page.evaluate('window.productsReady')
         assert page.locator('.municipality').count()==339
         assert page.locator('#dataset a').count()==8
-        page.locator('[data-download-key="nav"]').click()
+        page.locator('#dataset').scroll_into_view_if_needed()
         page.locator('#dataset').screenshot(path=str(E/'portable_downloads_desktop.png'))
         for language in ['en','es']:
             page.locator('#'+language).click()
@@ -102,7 +102,7 @@ def run():
         for topic in ['full_water','full_agriculture','crops','animals']:
             page.locator('#topic').select_option(topic);page.evaluate('window.productsReady')
             assert page.locator('.municipality').count()==339
-        page.set_viewport_size({'width':390,'height':844});page.locator('[data-download-key="nav"]').click()
+        page.set_viewport_size({'width':390,'height':844});page.locator('#dataset').scroll_into_view_if_needed()
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+1')
         page.locator('#dataset').screenshot(path=str(E/'portable_downloads_mobile.png'))
         page.goto((P/'dictionary.html').as_uri(),wait_until='load')

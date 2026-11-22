@@ -115,6 +115,8 @@ const originalLanguage=language;language=function(l){originalLanguage(l);const l
  write(E/'Code/agro_interface_full.js',js)
  save(E/'dashboard_build.json',dict(created=now(),previous_variables=oldvars,added_indicators=len(recipes),groups=len(GROUPS),previous_rows_sha256=data_rows_hash,previous_rows_unchanged=True))
  print('Integrated',len(recipes),'indicators in',len(GROUPS),'lazy-loaded modules')
+ from map_layout import apply_layout
+ apply_layout(ui)
  # Preserve the authorized dataset-download panel on subsequent viewer rebuilds.
  if (O/'Deliverables/BoliviaAgriculturalCensus2013/data/municipal_data.parquet').exists():
   from package_portable import install_downloads

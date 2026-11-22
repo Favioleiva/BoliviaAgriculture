@@ -148,6 +148,11 @@
       "sha256": "b909711c96c85bd5594ec7b111bb8f10379f411fa8cc0f5a9295826bf635c9dc"
     },
     {
+      "path": "Agro2013/assets/map-layout.css",
+      "bytes": 688,
+      "sha256": "63d7c1d0ec9b73385124b372aa30697f4d5fd5aebde99377b55d8bfd0f0953b5"
+    },
+    {
       "path": "Agro2013/assets/products/01111000.js",
       "bytes": 29452,
       "sha256": "b0e8f748f3db0baaf34f3839235d994770af4a9fa647221ff893d3858ca9d5d3"
@@ -3254,8 +3259,8 @@
     },
     {
       "path": "Agro2013/index.html",
-      "bytes": 46470509,
-      "sha256": "433e108ad6c5f03543bbd7c803cd9fc3228cce3727cba1f7f3b6a302b1ea3307"
+      "bytes": 46470520,
+      "sha256": "6cf20966543bdfe3c9967131b6ec458884cef587832eb20a93cee0c8a9c8afac"
     },
     {
       "path": "Agro2013/other_variables_dictionary.csv",
@@ -60554,8 +60559,8 @@
     },
     {
       "path": "Code/build_dashboard.py",
-      "bytes": 16874,
-      "sha256": "3bbf8f15b789b4527b8ab3c1e0dcdea567ef6119f50b06a10355cf8f4e2f2a5f"
+      "bytes": 16931,
+      "sha256": "4be204f0f4cd28948cc84644e82f02d35f6ed7fc3a1fbda79c2743bc48ffe79a"
     },
     {
       "path": "Code/build_portable_dataset.py",
@@ -60573,9 +60578,14 @@
       "sha256": "dd6a9bf7232057d9e8cba31cf7f718a8d6da2d7cb0bbd770697e934a152c19ad"
     },
     {
+      "path": "Code/map_layout.py",
+      "bytes": 2561,
+      "sha256": "2b38393c863900c6eb131c439efb951d4047c2adce2b2a90dece88fe155fe749"
+    },
+    {
       "path": "Code/package_portable.py",
-      "bytes": 24297,
-      "sha256": "78e405b2e0b6a48ecb4904fbe6f175d8c27c82d84e828953fcb93c5b4013d435"
+      "bytes": 24109,
+      "sha256": "2f7fdd2ab77afdd886b3809053a95f95510a1d06c0ec1de2f0dff80a0bbb0332"
     },
     {
       "path": "Code/requirements.txt",
@@ -60583,9 +60593,14 @@
       "sha256": "6be838f8f3f94eaa926e6ed8bd1e577fdddd356f7132bc565427bac66ec3239b"
     },
     {
+      "path": "Code/verify_map_layout.py",
+      "bytes": 4671,
+      "sha256": "4f7e07c3cbcd20346580a4dac26636dc4b25d8e6ed1521eb8bb0c7a1f6b166c4"
+    },
+    {
       "path": "Code/verify_portable.py",
-      "bytes": 7895,
-      "sha256": "5b65f0ef2317438b66da8c186710cb789015886b7a50a6e4659008fa193db93e"
+      "bytes": 7903,
+      "sha256": "cff36a03d00a81fb8ec11e57370065da4572ae0fedc3d54faef61b5d260ff5ba"
     },
     {
       "path": "EarthEngine/README.txt",
@@ -245943,6 +245958,21 @@
       "sha256": "f021eebf18f61a319df1842f3386e8394b2531afe18d634f09aa7b8ef496cf32"
     },
     {
+      "path": "Validation/map_layout_1366.png",
+      "bytes": 145117,
+      "sha256": "958886ad388a0b21057b9d9198a83aaa73954c828c1be8b99d7fca1871e26cf3"
+    },
+    {
+      "path": "Validation/map_layout_390.png",
+      "bytes": 84785,
+      "sha256": "79d3f82a9034c0ffedc1314bbeb52c0e7871467df503dca30694deb83139c9ea"
+    },
+    {
+      "path": "Validation/map_layout_validation.json",
+      "bytes": 23837,
+      "sha256": "ccf6c449cd73b7c917e30da8f97010ff5363df06dae8514b6413cc8a170e9206"
+    },
+    {
       "path": "Validation/portable_data_validation.json",
       "bytes": 422,
       "sha256": "fd8ebbee07ccd5bc6be7e32d1b70adf59d617a3ed43ded4b4b63fd8427a392fc"
@@ -246073,5 +246103,6 @@
       "sha256": "3be39ed86808cb68bbe1c1992c1012d7a09992da01fa88a30812e3b36bf66ac8"
     }
   ],
-  "documentation_revision": "2026-11-22: GitHub README prepared locally; not pushed by agent. Supervisor published the original release."
+  "documentation_revision": "2026-11-22: GitHub README prepared locally; not pushed by agent. Supervisor published the original release.",
+  "layout_revision": "2026-11-22: sticky product selector above map; complete downloads at end; local revision not pushed."
 }
