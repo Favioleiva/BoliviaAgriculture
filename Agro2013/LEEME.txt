@@ -58,5 +58,4 @@ python -B Outputs/Contract_02/Evidence/Code/run_contract02.py --resume
 python -B Outputs/Contract_02/Evidence/Code/validate_contract02.py
 Runner writes only C02 derived outputs. Sources/C01/Maps remain unchanged. The
 runner does not download from the internet. Crop sources are already extracted
-with archive-member hashes. Validation records environment, outputs and controls.
-No publication performed. PENDING HUMAN ACCEPTANCE.
+with archive-member hashes. Validation records environment, outputs and controls. License: MIT (code and documentation; underlying INE and Geo4Bolivia sources retain their original terms).

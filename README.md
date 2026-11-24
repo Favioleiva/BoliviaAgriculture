@@ -98,3 +98,24 @@ La entrega pasó 9,672,687 comparaciones de valores contra sus fuentes, además 
 </details>
 
 Para señalar un problema o proponer una mejora, abre un [issue](https://github.com/Favioleiva/BoliviaAgriculture/issues).
+
+## Licencia y cita
+
+El código fuente, el visor interactivo, los scripts de reproducción y la documentación original de este repositorio se distribuyen bajo la **Licencia MIT** ([LICENSE](LICENSE), Copyright (c) 2026 Favio Leiva). Los datos del Censo Agropecuario 2013 del INE y la cartografía de referencia de Geo4Bolivia conservan sus licencias y términos originales.
+
+### Cómo citar
+
+> Leiva, F. (2026). *BoliviaAgriculture: Municipal Dataset, Bilingual Dictionary, and Interactive Viewer of the 2013 Bolivia Agricultural Census (339 Municipalities)* [Software and dataset]. GitHub. https://github.com/Favioleiva/BoliviaAgriculture
+
+```bibtex
+@misc{leiva2026boliviaagriculture,
+  author       = {Leiva, Favio},
+  title        = {{BoliviaAgriculture: Municipal Dataset, Bilingual Dictionary, and Interactive Viewer of the 2013 Bolivia Agricultural Census (339 Municipalities)}},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/Favioleiva/BoliviaAgriculture}},
+  note         = {MIT License (code, viewer, and original documentation); underlying INE 2013 Agricultural Census data and Geo4Bolivia reference boundaries retain their original terms}
+}
+```
+
+Metadatos de cita estructurados disponibles en [CITATION.cff](CITATION.cff).

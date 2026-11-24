@@ -1,6 +1,6 @@
 # Cuatro nuevos cultivos: maíz, arroz con cáscara, trigo y yuca
 
-Estado: DELIVERED — AWAITING HUMAN APPROVAL. PENDING HUMAN ACCEPTANCE. Sin publicación.
+Documentación metodológica y de reproducción de la ampliación de cultivos (C04).
 
 C04 continúa la instrucción «ok, aprobado, sigue con los siguientes productos!». C02 está aceptado y congelado; su aceptación no cambia los11 FAIL históricos. C03, reservado a1976, no se ejecutó. Se reutiliza la arquitectura y los mismos campos del piloto para un lote de cuatro productos; no se amplía a todo el censo.
 
@@ -81,7 +81,7 @@ python -B Outputs/Contract_04/Evidence/RedatamExploration/Code/verify_delivery.p
 python -B Outputs/Contract_04/Evidence/Code/validate_dashboard.py
 ```
 
-Para reconstruir la presentación: build_crop_dashboard.py. El analizador devuelve error si quedan FAIL científicos; no cambiar umbrales para silenciarlo. El visor solo integra cuando identificación, conteos e integridad pasan y presenta pendientes de conciliación explícitos. PENDING HUMAN ACCEPTANCE; no publicación.
+Para reconstruir la presentación: build_crop_dashboard.py. El analizador devuelve error si quedan FAIL científicos; no cambiar umbrales para silenciarlo. El visor solo integra cuando identificación, conteos e integridad pasan y presenta pendientes de conciliación explícitos.
 
 ## Verificación final de la presentación
 
@@ -89,4 +89,4 @@ Se comprobaron90 selecciones por idioma ×339 municipios, totales, valores nulos
 
 ## Inventario completo de productos solicitado
 
-Inventario solicitado: lista completa de580 nombres observados en12 grupos, con buscador, estado de los6 cultivos del visor yCSV. Codificador declarado deCULTVER:1.984 entradas; descarga de15.828 entradas nativas de8 campos, preservando códigos por entidad. No se confunden categorías declaradas con registros observados, ni productos con usos de tierra. Sin nuevas consultas ni cambios a cifras. Interfaz del catálogo verificada en escritorio/móvil; C04 sigue pendiente de aceptación. [Abrir lista completa](catalogo_productos.html).
+Inventario solicitado: lista completa de580 nombres observados en12 grupos, con buscador, estado de los6 cultivos del visor yCSV. Codificador declarado deCULTVER:1.984 entradas; descarga de15.828 entradas nativas de8 campos, preservando códigos por entidad. No se confunden categorías declaradas con registros observados, ni productos con usos de tierra. Sin nuevas consultas ni cambios a cifras. Interfaz del catálogo verificada en escritorio/móvil. [Abrir lista completa](catalogo_productos.html).

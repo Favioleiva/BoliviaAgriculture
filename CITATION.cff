@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "BoliviaAgriculture: Municipal Dataset, Bilingual Dictionary, and Interactive Viewer of the 2013 Bolivia Agricultural Census (339 Municipalities)"
+message: "If you use this software or dataset, please cite it as below."
+type: software
+authors:
+  - family-names: Leiva
+    given-names: Favio
+repository-code: "https://github.com/Favioleiva/BoliviaAgriculture"
+url: "https://github.com/Favioleiva/BoliviaAgriculture"
+license: MIT
+date-released: "2026-11-22"
+abstract: >-
+  Municipal dataset, bilingual Spanish/English dictionary, reproducible
+  aggregation scripts, and offline interactive viewer for the 2013 Bolivia
+  Agricultural Census across 339 municipalities. Underlying INE 2013
+  Agricultural Census data and Geo4Bolivia reference boundaries retain their
+  respective original licenses and terms.
